@@ -23,4 +23,4 @@ inspired by https://github.com/vladyslav/vladyslav/blob/master/README.md (thanks
 ## Code stats
 
 ![jkremser's github stats](https://github-readme-stats.vercel.app/api?username=jkremser&count_private=true&show_icons=true&hide_border=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkremser&layout=compact&count_private=true)](https://github.com/vladyslav/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkremser&layout=compact&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=jkremser&layout=compact&count_private=true)
