@@ -18,7 +18,7 @@ inspired by https://github.com/vladyslav/vladyslav/blob/master/README.md (thanks
 
 
 
-<img src="./b.gif"><img src="./b.gif">
+<img src="./b.gif" width="300px"><img src="./b.gif" width="300px">
 
 ## Code stats
 
