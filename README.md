@@ -13,12 +13,12 @@ inspired by https://github.com/vladyslav/vladyslav/blob/master/README.md (thanks
   <img align="left" alt="Jiri Kremser | Stack Overflow" width="22px" src="https://www.svgrepo.com/show/306790/stackoverflow.svg" />
 </a>
 
+<br/>
 
 
 
 
-
-<img src="https://pbs.twimg.com/profile_banners/51486308/1592922824/1500x500">
+<img src="./b.gif"><img src="./b.gif">
 
 ## Code stats
 
