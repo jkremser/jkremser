@@ -23,6 +23,6 @@ inspired by https://github.com/vladyslav/vladyslav/blob/master/README.md (thanks
 ## Code stats
 
 ![jkremser's github stats](https://github-readme-stats.vercel.app/api?username=jkremser&count_private=true&show_icons=true&hide_border=false&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkremser&layout=compact&count_private=true&theme=merko&hide=perl&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=jkremser&layout=compact&count_private=true&theme=merko&hide=perl&langs_count=8)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkremser&layout=compact&count_private=true&theme=merko&hide=perl&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=jkremser&layout=compact&count_private=true&theme=merko&hide=perl&langs_count=8) -->
 
 ![activity graph](https://activity-graph.herokuapp.com/graph?username=jkremser&theme=react-dark)
