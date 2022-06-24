@@ -15,8 +15,8 @@
 - [AbsaOSS/k3d-action](https://github.com/AbsaOSS/k3d-action) - A GitHub Action to run lightweight ephemeral Kubernetes clusters during workflow.  Fundamental advantage of this action is a full customization of embedded k3s clusters. In addition, it provides a private image registry and multi-cluster support. (1 day ago)
 - [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (3 days ago)
 - [solo-io/bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash (3 days ago)
-- [jkremser/ebpf-playground](https://github.com/jkremser/ebpf-playground) -  (4 days ago)
-- [jkremser/keptn-playground](https://github.com/jkremser/keptn-playground) -  (1 week ago)
+- [jkremser/ebpf-playground](https://github.com/jkremser/ebpf-playground) - Tutorial of setting up eBPF enabled environment on Mac (4 days ago)
+- [jkremser/keptn-playground](https://github.com/jkremser/keptn-playground) - Keptn ♥ multi-cluster (1 week ago)
 - [kubernetes-sigs/about-api](https://github.com/kubernetes-sigs/about-api) - A CRD for arbitrary properties about a cluster (1 week ago)
 - [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
 - [k8gb-io/coredns-crd-plugin](https://github.com/k8gb-io/coredns-crd-plugin) - CoreDNS plugin to use DNSEndpoint custom resource. (2 weeks ago)
@@ -24,12 +24,12 @@
 
 #### 🌱 My latest projects
 
-- [jkremser/ebpf-playground](https://github.com/jkremser/ebpf-playground) - 
-- [jkremser/sockshop](https://github.com/jkremser/sockshop) - 
-- [jkremser/keptn-playground](https://github.com/jkremser/keptn-playground) - 
+- [jkremser/ebpf-playground](https://github.com/jkremser/ebpf-playground) - Tutorial of setting up eBPF enabled environment on Mac
+- [jkremser/sockshop](https://github.com/jkremser/sockshop) - Keptn hello-world example
+- [jkremser/keptn-playground](https://github.com/jkremser/keptn-playground) - Keptn ♥ multi-cluster
 - [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly
-- [jkremser/generate-olm-bundle-action](https://github.com/jkremser/generate-olm-bundle-action) - 
-- [jkremser/fib-action](https://github.com/jkremser/fib-action) - 
+- [jkremser/generate-olm-bundle-action](https://github.com/jkremser/generate-olm-bundle-action) - GH action that generates the OLM manifests
+- [jkremser/fib-action](https://github.com/jkremser/fib-action) - hello world GH action that calculates nth fib number
 
 #### 🔭 Latest releases I've contributed to
 
@@ -61,10 +61,10 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/a8143384049b171d4e64c5aeb6da4793) (1 month ago)
+- [no description](https://gist.github.com/a8143384049b171d4e64c5aeb6da4793) (1 month ago)
 - [k8gb-fosdemo](https://gist.github.com/2f9cccb99120def7250b8c967f333b3f) (5 months ago)
-- [](https://gist.github.com/ce1dba9407fdec04b6d04e0328c75bb5) (6 months ago)
-- [](https://gist.github.com/7f2d79f4b23c443d21f9bd42769fc350) (7 months ago)
+- [no description](https://gist.github.com/ce1dba9407fdec04b6d04e0328c75bb5) (6 months ago)
+- [no description](https://gist.github.com/7f2d79f4b23c443d21f9bd42769fc350) (7 months ago)
 - [knative install script](https://gist.github.com/e324e0d3c40a4450124513551da019ab) (2 years ago)
 
 #### ⭐ Recent Stars
