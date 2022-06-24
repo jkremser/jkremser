@@ -36,7 +36,7 @@
 
 #### 📓 Gists I wrote
 {{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+- [{{or .Description "no description"}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### ⭐ Recent Stars
