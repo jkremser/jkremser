@@ -12,15 +12,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 day ago)
-- [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (5 days ago)
-- [AbsaOSS/k3d-action](https://github.com/AbsaOSS/k3d-action) - A GitHub Action to run lightweight ephemeral Kubernetes clusters during workflow.  Fundamental advantage of this action is a full customization of embedded k3s clusters. In addition, it provides a private image registry and multi-cluster support. (5 days ago)
+- [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers. (1 day ago)
+- [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (6 days ago)
+- [AbsaOSS/k3d-action](https://github.com/AbsaOSS/k3d-action) - A GitHub Action to run lightweight ephemeral Kubernetes clusters during workflow.  Fundamental advantage of this action is a full customization of embedded k3s clusters. In addition, it provides a private image registry and multi-cluster support. (6 days ago)
 - [solo-io/bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash (1 week ago)
 - [jkremser/ebpf-playground](https://github.com/jkremser/ebpf-playground) - Tutorial of setting up eBPF enabled environment on Mac (1 week ago)
-- [jkremser/keptn-playground](https://github.com/jkremser/keptn-playground) - Keptn ♥ multi-cluster (1 week ago)
+- [jkremser/keptn-playground](https://github.com/jkremser/keptn-playground) - Keptn ♥ multi-cluster (2 weeks ago)
 - [kubernetes-sigs/about-api](https://github.com/kubernetes-sigs/about-api) - A CRD for arbitrary properties about a cluster (2 weeks ago)
 - [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
 - [k8gb-io/coredns-crd-plugin](https://github.com/k8gb-io/coredns-crd-plugin) - CoreDNS plugin to use DNSEndpoint custom resource. (2 weeks ago)
-- [k8s-operatorhub/community-operators](https://github.com/k8s-operatorhub/community-operators) - The canonical source for Kubernetes Operators that are published on OperatorHub.io and part of the default catalog of the Operator Lifecycle Manager. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -33,26 +33,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) ([v0.0.4](https://github.com/jkremser/log2rbac-operator/releases/tag/v0.0.4), 1 day ago) - Kubernetes operator that helps you to set up your RBAC rules correctly
 - [k8gb-io/coredns-crd-plugin](https://github.com/k8gb-io/coredns-crd-plugin) ([v0.0.9](https://github.com/k8gb-io/coredns-crd-plugin/releases/tag/v0.0.9), 2 weeks ago) - CoreDNS plugin to use DNSEndpoint custom resource.
 - [solo-io/bumblebee](https://github.com/solo-io/bumblebee) ([v0.0.12](https://github.com/solo-io/bumblebee/releases/tag/v0.0.12), 3 weeks ago) - Get eBPF programs running from the cloud to the kernel in 1 line of bash
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.12.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.12.0), 1 month ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) ([v0.0.3](https://github.com/jkremser/log2rbac-operator/releases/tag/v0.0.3), 2 months ago) - Kubernetes operator that helps you to set up your RBAC rules correctly
 - [AbsaOSS/k3d-action](https://github.com/AbsaOSS/k3d-action) ([v2.3.0](https://github.com/AbsaOSS/k3d-action/releases/tag/v2.3.0), 3 months ago) - A GitHub Action to run lightweight ephemeral Kubernetes clusters during workflow.  Fundamental advantage of this action is a full customization of embedded k3s clusters. In addition, it provides a private image registry and multi-cluster support.
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.9.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.9.0), 3 months ago) - A cloud native Kubernetes Global Balancer
 - [AbsaOSS/gopkg](https://github.com/AbsaOSS/gopkg) ([v0.1.3](https://github.com/AbsaOSS/gopkg/releases/tag/v0.1.3), 4 months ago) - Absa Go package library
 
 #### 🔨 My recent Pull Requests
 
-- [Bump goreleaser action and goreleaser itself](https://github.com/k8gb-io/k8gb/pull/916) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (5 days ago)
-- [Allow-listing the action.yml in .licignore](https://github.com/AbsaOSS/k3d-action/pull/43) on [AbsaOSS/k3d-action](https://github.com/AbsaOSS/k3d-action) (5 days ago)
-- [rename action.yaml -&gt; action.yml](https://github.com/AbsaOSS/k3d-action/pull/42) on [AbsaOSS/k3d-action](https://github.com/AbsaOSS/k3d-action) (5 days ago)
-- [Increasing the readability of the output from terraform tests](https://github.com/k8gb-io/k8gb/pull/915) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (6 days ago)
+- [release new version v0.0.4 of log2rbac](https://github.com/kubernetes-sigs/krew-index/pull/2383) on [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) (1 day ago)
+- [release new version v of log2rbac](https://github.com/kubernetes-sigs/krew-index/pull/2382) on [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) (1 day ago)
+- [Update Kubectl Plugin - v0.0.4](https://github.com/jkremser/log2rbac-operator/pull/39) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 day ago)
+- [Bump goreleaser action and goreleaser itself](https://github.com/k8gb-io/k8gb/pull/916) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (6 days ago)
+- [Allow-listing the action.yml in .licignore](https://github.com/AbsaOSS/k3d-action/pull/43) on [AbsaOSS/k3d-action](https://github.com/AbsaOSS/k3d-action) (6 days ago)
+- [rename action.yaml -&gt; action.yml](https://github.com/AbsaOSS/k3d-action/pull/42) on [AbsaOSS/k3d-action](https://github.com/AbsaOSS/k3d-action) (6 days ago)
+- [Increasing the readability of the output from terraform tests](https://github.com/k8gb-io/k8gb/pull/915) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
 - [Expand the alias in the script on Debian/Ubuntu](https://github.com/solo-io/bumblebee/pull/81) on [solo-io/bumblebee](https://github.com/solo-io/bumblebee) (1 week ago)
 - [Add printer column for CRD to display also the actual value](https://github.com/kubernetes-sigs/about-api/pull/4) on [kubernetes-sigs/about-api](https://github.com/kubernetes-sigs/about-api) (2 weeks ago)
 - [Bumping some dependencies](https://github.com/k8gb-io/k8gb/pull/903) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
-- [Bump the external-dns v0.10.3-0.20220321125120-cc9a60ecfa79 -&gt; v0.12.0](https://github.com/k8gb-io/coredns-crd-plugin/pull/35) on [k8gb-io/coredns-crd-plugin](https://github.com/k8gb-io/coredns-crd-plugin) (2 weeks ago)
-- [Make the multistage-delivery.sh script idempotent &#43; fix the keptn cli --tag param](https://github.com/keptn/examples/pull/234) on [keptn/examples](https://github.com/keptn/examples) (3 weeks ago)
-- [operators log2rbac (0.0.3)](https://github.com/k8s-operatorhub/community-operators/pull/1308) on [k8s-operatorhub/community-operators](https://github.com/k8s-operatorhub/community-operators) (3 weeks ago)
 
 #### 📜 My "recent" blog posts
 
@@ -69,9 +69,9 @@
 
 #### ⭐ Recent Stars
 
-- [repeale/fp-go](https://github.com/repeale/fp-go) - Fp-go is a collection of Functional Programming helpers powered by Golang 1.18&#43; generics. (5 days ago)
+- [repeale/fp-go](https://github.com/repeale/fp-go) - Fp-go is a collection of Functional Programming helpers powered by Golang 1.18&#43; generics. (6 days ago)
 - [TotalTechGeek/pictoprime](https://github.com/TotalTechGeek/pictoprime) - Generate prime numbers from pictures! (1 week ago)
-- [AbsaOSS/cert-manager-webhook-externaldns](https://github.com/AbsaOSS/cert-manager-webhook-externaldns) - A cert-manager webhook completing DNS01 challenge by using External DNS  (2 weeks ago)
+- [AbsaOSS/cert-manager-webhook-externaldns](https://github.com/AbsaOSS/cert-manager-webhook-externaldns) - A cert-manager webhook completing DNS01 challenge by using External DNS  (3 weeks ago)
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format (3 weeks ago)
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF&#39;s k3s in Docker (3 weeks ago)
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel (1 month ago)
