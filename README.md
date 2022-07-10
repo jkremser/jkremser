@@ -11,7 +11,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (5 days ago)
+- [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (6 days ago)
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Enable dynamic and seamless Kubernetes multi-cluster topologies (1 week ago)
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (1 week ago)
 - [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
@@ -33,11 +33,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.10.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.10.0), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.5.2](https://github.com/liqotech/liqo/releases/tag/v0.5.2), 1 day ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.10.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.10.0), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.5.2](https://github.com/liqotech/liqo/releases/tag/v0.5.2), 2 days ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
 - [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) ([v0.0.4](https://github.com/jkremser/log2rbac-operator/releases/tag/v0.0.4), 1 week ago) - Kubernetes operator that helps you to set up your RBAC rules correctly
-- [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.11.1](https://github.com/lima-vm/lima/releases/tag/v0.11.1), 2 weeks ago) - Linux virtual machines, typically on macOS, for running containerd
-- [k8gb-io/coredns-crd-plugin](https://github.com/k8gb-io/coredns-crd-plugin) ([v0.0.9](https://github.com/k8gb-io/coredns-crd-plugin/releases/tag/v0.0.9), 4 weeks ago) - CoreDNS plugin to use DNSEndpoint custom resource.
+- [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.11.1](https://github.com/lima-vm/lima/releases/tag/v0.11.1), 3 weeks ago) - Linux virtual machines, typically on macOS, for running containerd
+- [k8gb-io/coredns-crd-plugin](https://github.com/k8gb-io/coredns-crd-plugin) ([v0.0.9](https://github.com/k8gb-io/coredns-crd-plugin/releases/tag/v0.0.9), 1 month ago) - CoreDNS plugin to use DNSEndpoint custom resource.
 - [solo-io/bumblebee](https://github.com/solo-io/bumblebee) ([v0.0.12](https://github.com/solo-io/bumblebee/releases/tag/v0.0.12), 1 month ago) - Get eBPF programs running from the cloud to the kernel in 1 line of bash
 - [AbsaOSS/k3d-action](https://github.com/AbsaOSS/k3d-action) ([v2.3.0](https://github.com/AbsaOSS/k3d-action/releases/tag/v2.3.0), 3 months ago) - A GitHub Action to run lightweight ephemeral Kubernetes clusters during workflow.  Fundamental advantage of this action is a full customization of embedded k3s clusters. In addition, it provides a private image registry and multi-cluster support.
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.9.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.9.0), 3 months ago) - A cloud native Kubernetes Global Balancer
@@ -45,7 +45,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [operator log2rbac (0.0.4)](https://github.com/k8s-operatorhub/community-operators/pull/1411) on [k8s-operatorhub/community-operators](https://github.com/k8s-operatorhub/community-operators) (5 days ago)
+- [operator log2rbac (0.0.4)](https://github.com/k8s-operatorhub/community-operators/pull/1411) on [k8s-operatorhub/community-operators](https://github.com/k8s-operatorhub/community-operators) (6 days ago)
 - [global-ingress setup.sh: fail_on_error requires 2 string arguments](https://github.com/liqotech/liqo/pull/1321) on [liqotech/liqo](https://github.com/liqotech/liqo) (1 week ago)
 - [Suggest creating and using new docker context for each vm](https://github.com/lima-vm/lima/pull/935) on [lima-vm/lima](https://github.com/lima-vm/lima) (1 week ago)
 - [release new version v0.0.4 of log2rbac](https://github.com/kubernetes-sigs/krew-index/pull/2383) on [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) (1 week ago)
@@ -71,7 +71,7 @@
 
 #### ⭐ Recent Stars
 
-- [knsd/ping-exporter](https://github.com/knsd/ping-exporter) - Prometheus ICMP ping exporter (2 days ago)
+- [knsd/ping-exporter](https://github.com/knsd/ping-exporter) - Prometheus ICMP ping exporter (3 days ago)
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Enable dynamic and seamless Kubernetes multi-cluster topologies (1 week ago)
 - [repeale/fp-go](https://github.com/repeale/fp-go) - Fp-go is a collection of Functional Programming helpers powered by Golang 1.18&#43; generics. (2 weeks ago)
 - [TotalTechGeek/pictoprime](https://github.com/TotalTechGeek/pictoprime) - Generate prime numbers from pictures! (2 weeks ago)
