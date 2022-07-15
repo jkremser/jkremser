@@ -43,8 +43,9 @@
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.9.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.9.0), 3 months ago) - A cloud native Kubernetes Global Balancer
 - [AbsaOSS/gopkg](https://github.com/AbsaOSS/gopkg) ([v0.1.3](https://github.com/AbsaOSS/gopkg/releases/tag/v0.1.3), 5 months ago) - Absa Go package library
 
-#### 🔨 My recent Pull Requests
+#### 🔨 My recent Pull Requests ([link to all](https://github.com/pulls?q=is%3Apr+author%3Ajkremser+is%3Aclosed+))
 
+- [📖 docs: update install instructions for kustomize and kubebuilder](https://github.com/kubernetes-sigs/cluster-api/pull/6931) on [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) (today)
 - [operator log2rbac (0.0.4)](https://github.com/k8s-operatorhub/community-operators/pull/1411) on [k8s-operatorhub/community-operators](https://github.com/k8s-operatorhub/community-operators) (1 week ago)
 - [global-ingress setup.sh: fail_on_error requires 2 string arguments](https://github.com/liqotech/liqo/pull/1321) on [liqotech/liqo](https://github.com/liqotech/liqo) (2 weeks ago)
 - [Suggest creating and using new docker context for each vm](https://github.com/lima-vm/lima/pull/935) on [lima-vm/lima](https://github.com/lima-vm/lima) (2 weeks ago)
@@ -54,7 +55,6 @@
 - [Bump goreleaser action and goreleaser itself](https://github.com/k8gb-io/k8gb/pull/916) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
 - [Allow-listing the action.yml in .licignore](https://github.com/AbsaOSS/k3d-action/pull/43) on [AbsaOSS/k3d-action](https://github.com/AbsaOSS/k3d-action) (3 weeks ago)
 - [rename action.yaml -&gt; action.yml](https://github.com/AbsaOSS/k3d-action/pull/42) on [AbsaOSS/k3d-action](https://github.com/AbsaOSS/k3d-action) (3 weeks ago)
-- [Increasing the readability of the output from terraform tests](https://github.com/k8gb-io/k8gb/pull/915) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
 
 #### 📜 My "recent" blog posts
 
