@@ -33,13 +33,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.5.3](https://github.com/liqotech/liqo/releases/tag/v0.5.3), 1 day ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.12.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.12.2), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [solo-io/bumblebee](https://github.com/solo-io/bumblebee) ([v0.0.13](https://github.com/solo-io/bumblebee/releases/tag/v0.0.13), 1 day ago) - Get eBPF programs running from the cloud to the kernel in 1 line of bash
+- [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.5.3](https://github.com/liqotech/liqo/releases/tag/v0.5.3), 2 days ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.12.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.12.2), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.11.2](https://github.com/lima-vm/lima/releases/tag/v0.11.2), 1 week ago) - Linux virtual machines, typically on macOS, for running containerd
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.2.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.2.0), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) ([v0.0.4](https://github.com/jkremser/log2rbac-operator/releases/tag/v0.0.4), 1 month ago) - Kubernetes operator that helps you to set up your RBAC rules correctly
 - [k8gb-io/coredns-crd-plugin](https://github.com/k8gb-io/coredns-crd-plugin) ([v0.0.9](https://github.com/k8gb-io/coredns-crd-plugin/releases/tag/v0.0.9), 1 month ago) - CoreDNS plugin to use DNSEndpoint custom resource.
-- [solo-io/bumblebee](https://github.com/solo-io/bumblebee) ([v0.0.12](https://github.com/solo-io/bumblebee/releases/tag/v0.0.12), 1 month ago) - Get eBPF programs running from the cloud to the kernel in 1 line of bash
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ([v0.14.0](https://github.com/kubernetes-sigs/kind/releases/tag/v0.14.0), 2 months ago) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [AbsaOSS/k3d-action](https://github.com/AbsaOSS/k3d-action) ([v2.3.0](https://github.com/AbsaOSS/k3d-action/releases/tag/v2.3.0), 4 months ago) - A GitHub Action to run lightweight ephemeral Kubernetes clusters during workflow.  Fundamental advantage of this action is a full customization of embedded k3s clusters. In addition, it provides a private image registry and multi-cluster support.
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.9.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.9.0), 4 months ago) - A cloud native Kubernetes Global Balancer
