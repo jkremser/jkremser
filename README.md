@@ -11,10 +11,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) - cluster-api Infrastructure provider for KIND (4 days ago)
+- [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) - cluster-api Infrastructure provider for KIND (1 day ago)
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 weeks ago)
-- [jkremser/keptn-playground](https://github.com/jkremser/keptn-playground) - Keptn ♥ multi-cluster (2 weeks ago)
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (2 weeks ago)
+- [jkremser/keptn-playground](https://github.com/jkremser/keptn-playground) - Keptn ♥ multi-cluster (3 weeks ago)
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (3 weeks ago)
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (3 weeks ago)
 - [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 month ago)
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Enable dynamic and seamless Kubernetes multi-cluster topologies (1 month ago)
@@ -33,23 +33,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.5.4](https://github.com/liqotech/liqo/releases/tag/v0.5.4), 3 days ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
+- [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) ([v0.1.4](https://github.com/jkremser/cluster-api-provider-kind/releases/tag/v0.1.4), 1 day ago) - cluster-api Infrastructure provider for KIND
+- [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.5.4](https://github.com/liqotech/liqo/releases/tag/v0.5.4), 4 days ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
 - [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.11.3](https://github.com/lima-vm/lima/releases/tag/v0.11.3), 1 week ago) - Linux virtual machines, typically on macOS, for running containerd
 - [solo-io/bumblebee](https://github.com/solo-io/bumblebee) ([v0.0.13](https://github.com/solo-io/bumblebee/releases/tag/v0.0.13), 1 week ago) - Get eBPF programs running from the cloud to the kernel in 1 line of bash
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.12.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.12.2), 1 week ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.2.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.2.0), 3 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) ([v0.0.4](https://github.com/jkremser/log2rbac-operator/releases/tag/v0.0.4), 1 month ago) - Kubernetes operator that helps you to set up your RBAC rules correctly
-- [k8gb-io/coredns-crd-plugin](https://github.com/k8gb-io/coredns-crd-plugin) ([v0.0.9](https://github.com/k8gb-io/coredns-crd-plugin/releases/tag/v0.0.9), 1 month ago) - CoreDNS plugin to use DNSEndpoint custom resource.
+- [k8gb-io/coredns-crd-plugin](https://github.com/k8gb-io/coredns-crd-plugin) ([v0.0.9](https://github.com/k8gb-io/coredns-crd-plugin/releases/tag/v0.0.9), 2 months ago) - CoreDNS plugin to use DNSEndpoint custom resource.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ([v0.14.0](https://github.com/kubernetes-sigs/kind/releases/tag/v0.14.0), 2 months ago) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [AbsaOSS/k3d-action](https://github.com/AbsaOSS/k3d-action) ([v2.3.0](https://github.com/AbsaOSS/k3d-action/releases/tag/v2.3.0), 4 months ago) - A GitHub Action to run lightweight ephemeral Kubernetes clusters during workflow.  Fundamental advantage of this action is a full customization of embedded k3s clusters. In addition, it provides a private image registry and multi-cluster support.
-- [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.9.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.9.0), 4 months ago) - A cloud native Kubernetes Global Balancer
 
 #### 🔨 My recent Pull Requests ([link to all](https://github.com/pulls?q=is%3Apr+author%3Ajkremser+is%3Aclosed+))
 
-- [Bump Infoblox go client to v2 (2.1.2-0.20220727224704-88a5ba602dbf)](https://github.com/k8gb-io/k8gb/pull/931) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (6 days ago)
+- [Bump Infoblox go client to v2 (2.1.2-0.20220727224704-88a5ba602dbf)](https://github.com/k8gb-io/k8gb/pull/931) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
 - [add .status.hosts for better ux](https://github.com/k8gb-io/k8gb/pull/927) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
 - [Separate helm stuff from pure (/reusable) crd definitions](https://github.com/k8gb-io/k8gb/pull/926) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
-- [Add field tags for JSON (un)marshalling](https://github.com/kubernetes-sigs/kind/pull/2831) on [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) (2 weeks ago)
+- [Add field tags for JSON (un)marshalling](https://github.com/kubernetes-sigs/kind/pull/2831) on [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) (3 weeks ago)
 - [📖 docs: update install instructions for kustomize and kubebuilder](https://github.com/kubernetes-sigs/cluster-api/pull/6931) on [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) (3 weeks ago)
 - [operator log2rbac (0.0.4)](https://github.com/k8s-operatorhub/community-operators/pull/1411) on [k8s-operatorhub/community-operators](https://github.com/k8s-operatorhub/community-operators) (1 month ago)
 - [global-ingress setup.sh: fail_on_error requires 2 string arguments](https://github.com/liqotech/liqo/pull/1321) on [liqotech/liqo](https://github.com/liqotech/liqo) (1 month ago)
