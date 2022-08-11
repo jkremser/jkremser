@@ -37,13 +37,6 @@
 - 💪 [Separate helm stuff from pure (/reusable) crd definitions](https://github.com/k8gb-io/k8gb/pull/926) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
 - 💪 [Add field tags for JSON (un)marshalling](https://github.com/kubernetes-sigs/kind/pull/2831) on [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) (3 weeks ago)
 
-# #### 📜 My "recent" blog posts
-# 
-# - [Prototyping a web app that can talk to Kubernetes API](https://jkremser.github.io/post/web-app-kubernetes/) (2 years ago)
-#
-# - [Migrating the Spark Operator to Quarkus](https://jkremser.github.io/post/spark-operator-quarkus/) (3 years ago)
-#
-
 #### 📓 Gists I wrote
 
 - [keptn action](https://gist.github.com/4b9355e26643217f318fe37faa9ce444) (1 month ago)
