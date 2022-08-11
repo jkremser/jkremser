@@ -11,7 +11,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) - cluster-api Infrastructure provider for KIND (2 days ago)
+- [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) - cluster-api Infrastructure provider for KIND (3 days ago)
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 weeks ago)
 - [jkremser/keptn-playground](https://github.com/jkremser/keptn-playground) - Keptn ♥ multi-cluster (3 weeks ago)
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (3 weeks ago)
@@ -33,11 +33,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) ([v0.1.4](https://github.com/jkremser/cluster-api-provider-kind/releases/tag/v0.1.4), 2 days ago) - cluster-api Infrastructure provider for KIND
-- [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.5.4](https://github.com/liqotech/liqo/releases/tag/v0.5.4), 5 days ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.11.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.11.0), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) ([v0.1.4](https://github.com/jkremser/cluster-api-provider-kind/releases/tag/v0.1.4), 3 days ago) - cluster-api Infrastructure provider for KIND
+- [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.5.4](https://github.com/liqotech/liqo/releases/tag/v0.5.4), 6 days ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
 - [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.11.3](https://github.com/lima-vm/lima/releases/tag/v0.11.3), 1 week ago) - Linux virtual machines, typically on macOS, for running containerd
 - [solo-io/bumblebee](https://github.com/solo-io/bumblebee) ([v0.0.13](https://github.com/solo-io/bumblebee/releases/tag/v0.0.13), 1 week ago) - Get eBPF programs running from the cloud to the kernel in 1 line of bash
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.12.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.12.2), 2 weeks ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.2.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.2.0), 3 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) ([v0.0.4](https://github.com/jkremser/log2rbac-operator/releases/tag/v0.0.4), 1 month ago) - Kubernetes operator that helps you to set up your RBAC rules correctly
 - [k8gb-io/coredns-crd-plugin](https://github.com/k8gb-io/coredns-crd-plugin) ([v0.0.9](https://github.com/k8gb-io/coredns-crd-plugin/releases/tag/v0.0.9), 2 months ago) - CoreDNS plugin to use DNSEndpoint custom resource.
@@ -46,16 +46,16 @@
 
 #### 🔨 My recent Pull Requests ([link to all](https://github.com/pulls?q=is%3Apr+author%3Ajkremser+is%3Aclosed+))
 
+- [OpenTelemetry for k8gb](https://github.com/k8gb-io/k8gb/pull/934) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
 - [Bump Infoblox go client to v2 (2.1.2-0.20220727224704-88a5ba602dbf)](https://github.com/k8gb-io/k8gb/pull/931) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
 - [add .status.hosts for better ux](https://github.com/k8gb-io/k8gb/pull/927) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
-- [Separate helm stuff from pure (/reusable) crd definitions](https://github.com/k8gb-io/k8gb/pull/926) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
+- [Separate helm stuff from pure (/reusable) crd definitions](https://github.com/k8gb-io/k8gb/pull/926) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
 - [Add field tags for JSON (un)marshalling](https://github.com/kubernetes-sigs/kind/pull/2831) on [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) (3 weeks ago)
 - [📖 docs: update install instructions for kustomize and kubebuilder](https://github.com/kubernetes-sigs/cluster-api/pull/6931) on [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) (3 weeks ago)
 - [operator log2rbac (0.0.4)](https://github.com/k8s-operatorhub/community-operators/pull/1411) on [k8s-operatorhub/community-operators](https://github.com/k8s-operatorhub/community-operators) (1 month ago)
 - [global-ingress setup.sh: fail_on_error requires 2 string arguments](https://github.com/liqotech/liqo/pull/1321) on [liqotech/liqo](https://github.com/liqotech/liqo) (1 month ago)
 - [Suggest creating and using new docker context for each vm](https://github.com/lima-vm/lima/pull/935) on [lima-vm/lima](https://github.com/lima-vm/lima) (1 month ago)
 - [release new version v0.0.4 of log2rbac](https://github.com/kubernetes-sigs/krew-index/pull/2383) on [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) (1 month ago)
-- [release new version v of log2rbac](https://github.com/kubernetes-sigs/krew-index/pull/2382) on [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) (1 month ago)
 
 #### 📜 My "recent" blog posts
 
@@ -72,7 +72,7 @@
 
 #### ⭐ Recent Stars
 
-- [sonatype-nexus-community/nancy](https://github.com/sonatype-nexus-community/nancy) - A tool to check for vulnerabilities in your Golang dependencies, powered by Sonatype OSS Index (3 weeks ago)
+- [sonatype-nexus-community/nancy](https://github.com/sonatype-nexus-community/nancy) - A tool to check for vulnerabilities in your Golang dependencies, powered by Sonatype OSS Index (4 weeks ago)
 - [knsd/ping-exporter](https://github.com/knsd/ping-exporter) - Prometheus ICMP ping exporter (1 month ago)
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Enable dynamic and seamless Kubernetes multi-cluster topologies (1 month ago)
 - [repeale/fp-go](https://github.com/repeale/fp-go) - Fp-go is a collection of Functional Programming helpers powered by Golang 1.18&#43; generics. (1 month ago)
