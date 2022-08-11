@@ -30,11 +30,6 @@
 - 💪 [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-# #### 📜 My "recent" blog posts
-# {{range rss "https://jkremser.github.io/post/index.xml" 5}}
-# - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-# {{- end}}
-
 #### 📓 Gists I wrote
 {{range gists 3}}
 - [{{or .Description "no description"}}]({{.URL}}) ({{humanize .CreatedAt}})
