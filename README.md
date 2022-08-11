@@ -17,40 +17,32 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) - cluster-api Infrastructure provider for KIND (3 days ago)
-- [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 weeks ago)
-- [jkremser/keptn-playground](https://github.com/jkremser/keptn-playground) - Keptn ♥ multi-cluster (3 weeks ago)
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (3 weeks ago)
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (3 weeks ago)
-
-#### 🌱 My latest projects
-
-- [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) - cluster-api Infrastructure provider for KIND
-- [jkremser/cluster-switch-action2](https://github.com/jkremser/cluster-switch-action2) - 
-- [jkremser/cluster-switch-action](https://github.com/jkremser/cluster-switch-action) - Custom Keptn action
-- [jkremser/ebpf-playground](https://github.com/jkremser/ebpf-playground) - Tutorial of setting up eBPF enabled environment on Mac
-- [jkremser/sockshop](https://github.com/jkremser/sockshop) - Keptn hello-world example
+- :octocat: / [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) - cluster-api Infrastructure provider for KIND (3 days ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 weeks ago)
+- :octocat: / [jkremser/keptn-playground](https://github.com/jkremser/keptn-playground) - Keptn ♥ multi-cluster (3 weeks ago)
+- :octocat: / [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (3 weeks ago)
+- :octocat: / [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.11.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.11.0), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) ([v0.1.4](https://github.com/jkremser/cluster-api-provider-kind/releases/tag/v0.1.4), 3 days ago) - cluster-api Infrastructure provider for KIND
-- [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.5.4](https://github.com/liqotech/liqo/releases/tag/v0.5.4), 6 days ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
-- [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.11.3](https://github.com/lima-vm/lima/releases/tag/v0.11.3), 1 week ago) - Linux virtual machines, typically on macOS, for running containerd
+- 🎉 [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.11.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.11.0), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- 🎉 [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) ([v0.1.4](https://github.com/jkremser/cluster-api-provider-kind/releases/tag/v0.1.4), 3 days ago) - cluster-api Infrastructure provider for KIND
+- 🎉 [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.5.4](https://github.com/liqotech/liqo/releases/tag/v0.5.4), 6 days ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
 
 #### 🔨 My recent Pull Requests
 
-- [OpenTelemetry for k8gb](https://github.com/k8gb-io/k8gb/pull/934) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
-- [Bump Infoblox go client to v2 (2.1.2-0.20220727224704-88a5ba602dbf)](https://github.com/k8gb-io/k8gb/pull/931) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
-- [add .status.hosts for better ux](https://github.com/k8gb-io/k8gb/pull/927) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
-- [Separate helm stuff from pure (/reusable) crd definitions](https://github.com/k8gb-io/k8gb/pull/926) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
-- [Add field tags for JSON (un)marshalling](https://github.com/kubernetes-sigs/kind/pull/2831) on [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) (3 weeks ago)
-- [📖 docs: update install instructions for kustomize and kubebuilder](https://github.com/kubernetes-sigs/cluster-api/pull/6931) on [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) (3 weeks ago)
+- 💪 [OpenTelemetry for k8gb](https://github.com/k8gb-io/k8gb/pull/934) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
+- 💪 [Bump Infoblox go client to v2 (2.1.2-0.20220727224704-88a5ba602dbf)](https://github.com/k8gb-io/k8gb/pull/931) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
+- 💪 [add .status.hosts for better ux](https://github.com/k8gb-io/k8gb/pull/927) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
+- 💪 [Separate helm stuff from pure (/reusable) crd definitions](https://github.com/k8gb-io/k8gb/pull/926) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
+- 💪 [Add field tags for JSON (un)marshalling](https://github.com/kubernetes-sigs/kind/pull/2831) on [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) (3 weeks ago)
 
-#### 📜 My "recent" blog posts
-
-- [Prototyping a web app that can talk to Kubernetes API](https://jkremser.github.io/post/web-app-kubernetes/) (2 years ago)
-- [Migrating the Spark Operator to Quarkus](https://jkremser.github.io/post/spark-operator-quarkus/) (3 years ago)
+# #### 📜 My "recent" blog posts
+# 
+# - [Prototyping a web app that can talk to Kubernetes API](https://jkremser.github.io/post/web-app-kubernetes/) (2 years ago)
+#
+# - [Migrating the Spark Operator to Quarkus](https://jkremser.github.io/post/spark-operator-quarkus/) (3 years ago)
+#
 
 #### 📓 Gists I wrote
 
@@ -70,7 +62,7 @@
 Say Hello, I don't bite! I am available as Jiri Kremser on https://slack.cncf.io and https://kubernetes.slack.com
 
 
-#### 📫 jkremser on internets
+#### :hurtrealbad: jkremser on internets
 
 - Twitter: <a href="https://twitter.com/JirkaKremser">JirkaKremser</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/jirik/">jirik</a>
