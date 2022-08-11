@@ -8,6 +8,8 @@
 
 
 ![activity graph](https://activity-graph.herokuapp.com/graph?username=jkremser&theme=react-dark)
+![](https://komarev.com/ghpvc/?username=jkremser&color=5bcdec&style=for-the-badge	)
+
 
 #### 👷 Check out what I'm currently working on
 
