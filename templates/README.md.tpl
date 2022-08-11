@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./b.gif" width="300px"><img src="./b.gif" width="300px">
+ <img src="./b.gif" width="300px"><img src="./b.gif" width="300px">
 
 #### 📱 Code stats
 
@@ -8,24 +8,29 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkremser&layout=compact&count_private=true&theme=tokyonight&title_color=5bcdec&bg_color=0d1117&border_radius=false&hide=perl&langs_count=7) -->
 <!-- <img src="./b.gif" style="height:50px !important;"> -->
 ![activity graph](https://activity-graph.herokuapp.com/graph?username=jkremser&theme=react-dark)
+![counter](https://komarev.com/ghpvc/?username=jkremser&color=5bcdec&style=for-the-badge)
+
+#### 🎖 Certificates
+<p align="left"><img src="https://raw.githubusercontent.com/cncf/artwork/master/other/ckad/color/kubernetes-ckad-color.png" alt="https://www.credly.com/badges/349777de-9673-444f-a05e-2dbb770768c3/public_url" width="100" height="100"/> 
+</p>
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 6}}
+{{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
+{{range recentReleases 4}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### 🔨 My recent Pull Requests ([link to all](https://github.com/pulls?q=is%3Apr+author%3Ajkremser+is%3Aclosed+))
-{{range recentPullRequests 10}}
+#### 🔨 My recent Pull Requests
+{{range recentPullRequests 6}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
@@ -35,12 +40,12 @@
 {{- end}}
 
 #### 📓 Gists I wrote
-{{range gists 5}}
+{{range gists 3}}
 - [{{or .Description "no description"}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### ⭐ Recent Stars
-{{range recentStars 10}}
+{{range recentStars 4}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
