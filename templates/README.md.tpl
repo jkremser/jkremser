@@ -11,7 +11,7 @@
 ![counter](https://komarev.com/ghpvc/?username=jkremser&color=5bcdec&style=for-the-badge)
 
 #### 🎖 Certificates
-<p align="left"><img src="https://raw.githubusercontent.com/cncf/artworkmaster/other/cka/color/kubernetes-cka-color.png" alt="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url" width="100" height="100"/> 
+<p align="left"><a href="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url"><img src="https://raw.githubusercontent.com/cncf/artworkmaster/other/cka/color/kubernetes-cka-color.png" alt="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url" width="100" height="100"/> </a>
 </p>
 
 #### 👷 Check out what I'm currently working on
