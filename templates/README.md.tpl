@@ -17,28 +17,23 @@
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-#### 🌱 My latest projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- :octocat: / [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 4}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+{{range recentReleases 3}}
+- 🎉 [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 6}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{range recentPullRequests 5}}
+- 💪 [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 My "recent" blog posts
-{{range rss "https://jkremser.github.io/post/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+# #### 📜 My "recent" blog posts
+# {{range rss "https://jkremser.github.io/post/index.xml" 5}}
+# - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+# {{- end}}
 
 #### 📓 Gists I wrote
 {{range gists 3}}
@@ -55,7 +50,7 @@
 Say Hello, I don't bite! I am available as Jiri Kremser on https://slack.cncf.io and https://kubernetes.slack.com
 
 
-#### 📫 jkremser on internets
+#### :hurtrealbad: jkremser on internets
 
 - Twitter: <a href="https://twitter.com/JirkaKremser">JirkaKremser</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/jirik/">jirik</a>
