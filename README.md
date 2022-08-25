@@ -26,7 +26,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.2.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.2.1), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- 🎉 [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.11.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.11.0), 1 week ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- 🎉 [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.11.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.11.0), 2 weeks ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - 🎉 [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) ([v0.1.4](https://github.com/jkremser/cluster-api-provider-kind/releases/tag/v0.1.4), 2 weeks ago) - cluster-api Infrastructure provider for KIND
 
 #### 🔨 My recent Pull Requests
@@ -34,13 +34,13 @@
 - 💪 [Increasing the timeouts (or retry attempts) for terratests](https://github.com/k8gb-io/k8gb/pull/941) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
 - 💪 [[wip]Test test2](https://github.com/k8gb-io/k8gb/pull/939) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
 - 💪 [[wip] don&#39;t merge](https://github.com/k8gb-io/k8gb/pull/938) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
-- 💪 [OpenTelemetry for k8gb](https://github.com/k8gb-io/k8gb/pull/934) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
-- 💪 [Bump Infoblox go client to v2 (2.1.2-0.20220727224704-88a5ba602dbf)](https://github.com/k8gb-io/k8gb/pull/931) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
+- 💪 [OpenTelemetry for k8gb](https://github.com/k8gb-io/k8gb/pull/934) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
+- 💪 [Bump Infoblox go client to v2 (2.1.2-0.20220727224704-88a5ba602dbf)](https://github.com/k8gb-io/k8gb/pull/931) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
 - [keptn action](https://gist.github.com/4b9355e26643217f318fe37faa9ce444) (1 month ago)
-- [no description](https://gist.github.com/a8143384049b171d4e64c5aeb6da4793) (3 months ago)
+- [no description](https://gist.github.com/a8143384049b171d4e64c5aeb6da4793) (4 months ago)
 - [k8gb-fosdemo](https://gist.github.com/2f9cccb99120def7250b8c967f333b3f) (7 months ago)
 
 #### ⭐ Recent Stars
