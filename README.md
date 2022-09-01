@@ -35,7 +35,7 @@
 - 💪 [[wip]Test test2](https://github.com/k8gb-io/k8gb/pull/939) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
 - 💪 [[wip] don&#39;t merge](https://github.com/k8gb-io/k8gb/pull/938) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
 - 💪 [OpenTelemetry for k8gb](https://github.com/k8gb-io/k8gb/pull/934) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
-- 💪 [Bump Infoblox go client to v2 (2.1.2-0.20220727224704-88a5ba602dbf)](https://github.com/k8gb-io/k8gb/pull/931) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (4 weeks ago)
+- 💪 [Bump Infoblox go client to v2 (2.1.2-0.20220727224704-88a5ba602dbf)](https://github.com/k8gb-io/k8gb/pull/931) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 month ago)
 
 #### 📓 Gists I wrote
 
