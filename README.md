@@ -25,15 +25,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- 🎉 [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ([v0.15.0](https://github.com/kubernetes-sigs/kind/releases/tag/v0.15.0), 2 days ago) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.2.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.2.1), 2 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - 🎉 [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.11.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.11.0), 3 weeks ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- 🎉 [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) ([v0.1.4](https://github.com/jkremser/cluster-api-provider-kind/releases/tag/v0.1.4), 3 weeks ago) - cluster-api Infrastructure provider for KIND
 
 #### 🔨 My recent Pull Requests
 
 - 💪 [Increasing the timeouts (or retry attempts) for terratests](https://github.com/k8gb-io/k8gb/pull/941) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
-- 💪 [[wip]Test test2](https://github.com/k8gb-io/k8gb/pull/939) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
-- 💪 [[wip] don&#39;t merge](https://github.com/k8gb-io/k8gb/pull/938) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
+- 💪 [[wip]Test test2](https://github.com/k8gb-io/k8gb/pull/939) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
+- 💪 [[wip] don&#39;t merge](https://github.com/k8gb-io/k8gb/pull/938) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
 - 💪 [OpenTelemetry for k8gb](https://github.com/k8gb-io/k8gb/pull/934) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
 - 💪 [Bump Infoblox go client to v2 (2.1.2-0.20220727224704-88a5ba602dbf)](https://github.com/k8gb-io/k8gb/pull/931) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 month ago)
 
