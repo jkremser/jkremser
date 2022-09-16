@@ -17,25 +17,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (4 days ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 days ago)
+- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 week ago)
 - :octocat: / [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) - cluster-api Infrastructure provider for KIND (1 month ago)
 - :octocat: / [jkremser/keptn-playground](https://github.com/jkremser/keptn-playground) - Keptn ♥ multi-cluster (1 month ago)
 - :octocat: / [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.12.0](https://github.com/lima-vm/lima/releases/tag/v0.12.0), 1 day ago) - Linux virtual machines, typically on macOS, for running containerd
-- 🎉 [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ([v0.15.0](https://github.com/kubernetes-sigs/kind/releases/tag/v0.15.0), 1 week ago) - Kubernetes IN Docker - local clusters for testing Kubernetes
-- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.2.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.2.1), 4 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.2.2](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.2.2), 2 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- 🎉 [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.12.0](https://github.com/lima-vm/lima/releases/tag/v0.12.0), 4 days ago) - Linux virtual machines, typically on macOS, for running containerd
+- 🎉 [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ([v0.15.0](https://github.com/kubernetes-sigs/kind/releases/tag/v0.15.0), 2 weeks ago) - Kubernetes IN Docker - local clusters for testing Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Helm values schema check](https://github.com/k8gb-io/k8gb/pull/950) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (4 days ago)
-- 💪 [wip: don&#39;t merge me - structural change to values.yaml](https://github.com/jkremser/log2rbac-operator/pull/44) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (4 days ago)
-- 💪 [wip: don&#39;t merge me - non-structural change to values.yaml](https://github.com/jkremser/log2rbac-operator/pull/43) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (4 days ago)
-- 💪 [wip: don&#39;t merge me - non-structural change to values.yaml](https://github.com/jkremser/log2rbac-operator/pull/41) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (5 days ago)
-- 💪 [wip: don&#39;t merge me - structural change to values.yaml](https://github.com/jkremser/log2rbac-operator/pull/40) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (5 days ago)
+- 💪 [Skip the print debug action if the action is run redundantly](https://github.com/k8gb-io/k8gb/pull/952) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 days ago)
+- 💪 [Helm values schema check](https://github.com/k8gb-io/k8gb/pull/950) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
+- 💪 [wip: don&#39;t merge me - structural change to values.yaml](https://github.com/jkremser/log2rbac-operator/pull/44) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 week ago)
+- 💪 [wip: don&#39;t merge me - non-structural change to values.yaml](https://github.com/jkremser/log2rbac-operator/pull/43) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 week ago)
+- 💪 [wip: don&#39;t merge me - non-structural change to values.yaml](https://github.com/jkremser/log2rbac-operator/pull/41) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes (6 days ago)
+- [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes (1 week ago)
 - [sonatype-nexus-community/nancy](https://github.com/sonatype-nexus-community/nancy) - A tool to check for vulnerabilities in your Golang dependencies, powered by Sonatype OSS Index (2 months ago)
 - [knsd/ping-exporter](https://github.com/knsd/ping-exporter) - Prometheus ICMP ping exporter (2 months ago)
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Enable dynamic and seamless Kubernetes multi-cluster topologies (2 months ago)
