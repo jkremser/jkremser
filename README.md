@@ -27,15 +27,15 @@
 
 - 🎉 [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ([v0.16.0](https://github.com/kubernetes-sigs/kind/releases/tag/v0.16.0), 1 week ago) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.2.2](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.2.2), 2 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- 🎉 [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.12.0](https://github.com/lima-vm/lima/releases/tag/v0.12.0), 2 weeks ago) - Linux virtual machines, typically on macOS, for running containerd
+- 🎉 [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.12.0](https://github.com/lima-vm/lima/releases/tag/v0.12.0), 3 weeks ago) - Linux virtual machines, typically on macOS, for running containerd
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [Add a way to customize liveness and readiness probes in helm chart](https://github.com/stefanprodan/podinfo/pull/224) on [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) (1 day ago)
+- 💪 [Add k8gb custom dashboards for Grafana](https://github.com/k8gb-io/k8gb/pull/959) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
 - 💪 [:sparkles: (grafana/v1-alpha) : add custom units for custom grafana dashboards](https://github.com/kubernetes-sigs/kubebuilder/pull/2965) on [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) (1 week ago)
 - 💪 [[minor] docs, typo: k8gb_gslb_service_status_num metric is a gague not a counter](https://github.com/k8gb-io/k8gb/pull/957) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
 - 💪 [Make the webhook deployable in Kubernetes and responding to the requests](https://github.com/AbsaOSS/cert-manager-webhook-externaldns/pull/1) on [AbsaOSS/cert-manager-webhook-externaldns](https://github.com/AbsaOSS/cert-manager-webhook-externaldns) (1 week ago)
-- 💪 [Skip the print debug action if the action is run redundantly](https://github.com/k8gb-io/k8gb/pull/952) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
-- 💪 [Helm values schema check](https://github.com/k8gb-io/k8gb/pull/950) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
