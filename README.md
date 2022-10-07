@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake](github-snake-dark.svg)
 
 #### 📱 Code stats
 
