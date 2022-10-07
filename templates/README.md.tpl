@@ -1,6 +1,7 @@
 ### Hi there 👋
 
- <img src="./b.gif" width="300px"><img src="./b.gif" width="300px">
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 #### 📱 Code stats
 
