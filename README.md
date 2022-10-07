@@ -1,6 +1,7 @@
 ### Hi there 👋
 
- <img src="./b.gif" width="300px"><img src="./b.gif" width="300px">
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 #### 📱 Code stats
 
@@ -17,7 +18,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 day ago)
+- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (today)
 - :octocat: / [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs (1 day ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 days ago)
 - :octocat: / [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes (4 days ago)
@@ -25,7 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) ([v0.0.5](https://github.com/jkremser/log2rbac-operator/releases/tag/v0.0.5), 1 day ago) - Kubernetes operator that helps you to set up your RBAC rules correctly
+- 🎉 [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) ([v0.0.5](https://github.com/jkremser/log2rbac-operator/releases/tag/v0.0.5), today) - Kubernetes operator that helps you to set up your RBAC rules correctly
 - 🎉 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) ([6.2.1](https://github.com/stefanprodan/podinfo/releases/tag/6.2.1), 1 week ago) - Go microservice template for Kubernetes
 - 🎉 [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ([v0.16.0](https://github.com/kubernetes-sigs/kind/releases/tag/v0.16.0), 2 weeks ago) - Kubernetes IN Docker - local clusters for testing Kubernetes
 
