@@ -17,38 +17,38 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 day ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 days ago)
+- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (4 days ago)
 - :octocat: / [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs (1 week ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
 - :octocat: / [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes (1 week ago)
 - :octocat: / [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) - cluster-api Infrastructure provider for KIND (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) ([v0.0.5](https://github.com/jkremser/log2rbac-operator/releases/tag/v0.0.5), 1 day ago) - Kubernetes operator that helps you to set up your RBAC rules correctly
-- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.2.3](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.2.3), 3 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- 🎉 [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) ([v0.0.5](https://github.com/jkremser/log2rbac-operator/releases/tag/v0.0.5), 4 days ago) - Kubernetes operator that helps you to set up your RBAC rules correctly
+- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.2.3](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.2.3), 6 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - 🎉 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) ([6.2.1](https://github.com/stefanprodan/podinfo/releases/tag/6.2.1), 2 weeks ago) - Go microservice template for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Use Salsa framework during release to increase the supply-chain security](https://github.com/k8gb-io/k8gb/pull/966) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
-- 💪 [Update Makefile (typo)](https://github.com/philips-labs/slsa-provenance-action/pull/212) on [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action) (3 days ago)
+- 💪 [Get rid of set-output commands in the workflows](https://github.com/k8gb-io/k8gb/pull/969) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 days ago)
+- 💪 [Bump versions of various GH actions we use to those that are based on Node@16](https://github.com/k8gb-io/k8gb/pull/968) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 days ago)
+- 💪 [Use Salsa framework during release to increase the supply-chain security](https://github.com/k8gb-io/k8gb/pull/966) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (4 days ago)
+- 💪 [Update Makefile (typo)](https://github.com/philips-labs/slsa-provenance-action/pull/212) on [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action) (6 days ago)
 - 💪 [Update Kubectl Plugin - v0.0.5](https://github.com/jkremser/log2rbac-operator/pull/48) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 week ago)
-- 💪 [RELEASE: v0.0.5](https://github.com/jkremser/log2rbac-operator/pull/45) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 week ago)
-- 💪 [Bump k3s to v1.25.2](https://github.com/k8gb-io/k8gb/pull/961) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [remove assets from existing (/same) release](https://gist.github.com/cbed1e82bf7f80b689176b5cedac1f1a) (2 days ago)
+- [remove assets from existing (/same) release](https://gist.github.com/cbed1e82bf7f80b689176b5cedac1f1a) (5 days ago)
 - [image pull backoff tweaks](https://gist.github.com/a51bd080b2050aeed8479f1a8c2a686c) (3 weeks ago)
 - [keptn action](https://gist.github.com/4b9355e26643217f318fe37faa9ce444) (3 months ago)
 
 #### ⭐ Recent Stars
 
+- [kubernetes-sigs/about-api](https://github.com/kubernetes-sigs/about-api) - A CRD for arbitrary properties about a cluster (3 days ago)
 - [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes (1 month ago)
 - [sonatype-nexus-community/nancy](https://github.com/sonatype-nexus-community/nancy) - A tool to check for vulnerabilities in your Golang dependencies, powered by Sonatype OSS Index (3 months ago)
 - [knsd/ping-exporter](https://github.com/knsd/ping-exporter) - Prometheus ICMP ping exporter (3 months ago)
-- [liqotech/liqo](https://github.com/liqotech/liqo) - Enable dynamic and seamless Kubernetes multi-cluster topologies (3 months ago)
 
 #### 💬 Feedback
 
