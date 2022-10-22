@@ -17,38 +17,38 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (today)
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 week ago)
-- :octocat: / [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs (1 week ago)
-- :octocat: / [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes (2 weeks ago)
-- :octocat: / [jkremser/cluster-api-provider-kind](https://github.com/jkremser/cluster-api-provider-kind) - cluster-api Infrastructure provider for KIND (2 months ago)
+- :octocat: / [jkremser/NeuroCars](https://github.com/jkremser/NeuroCars) - A simple game, where other cars are driven by artificial neural network (4 layered perceptron architecture with implemented backpropagation learning algorithm) (1 day ago)
+- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 day ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 days ago)
+- :octocat: / [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.10.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.10.0), 1 day ago) - A cloud native Kubernetes Global Balancer
-- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.2.4](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.2.4), 2 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- 🎉 [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) ([v0.0.5](https://github.com/jkremser/log2rbac-operator/releases/tag/v0.0.5), 1 week ago) - Kubernetes operator that helps you to set up your RBAC rules correctly
+- 🎉 [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.1), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- 🎉 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) ([6.2.2](https://github.com/stefanprodan/podinfo/releases/tag/6.2.2), 2 days ago) - Go microservice template for Kubernetes
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.10.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.10.0), 4 days ago) - A cloud native Kubernetes Global Balancer
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [RELEASE: v0.10.0](https://github.com/k8gb-io/k8gb/pull/987) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
-- 💪 [Revert &#34;RELEASE: v0.10.0 (#984)&#34;](https://github.com/k8gb-io/k8gb/pull/986) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
-- 💪 [RELEASE: v0.10.0](https://github.com/k8gb-io/k8gb/pull/984) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
-- 💪 [Revert &#34;RELEASE: v0.10.0 (#981)&#34;](https://github.com/k8gb-io/k8gb/pull/983) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
-- 💪 [RELEASE: v0.10.0](https://github.com/k8gb-io/k8gb/pull/981) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
+- 💪 [operator log2rbac (0.0.5)](https://github.com/k8s-operatorhub/community-operators/pull/1861) on [k8s-operatorhub/community-operators](https://github.com/k8s-operatorhub/community-operators) (1 day ago)
+- 💪 [Fix links at release summary page](https://github.com/k8gb-io/k8gb/pull/1008) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 days ago)
+- 💪 [RELEASE: v0.10.0](https://github.com/k8gb-io/k8gb/pull/987) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (4 days ago)
+- 💪 [Revert &#34;RELEASE: v0.10.0 (#984)&#34;](https://github.com/k8gb-io/k8gb/pull/986) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (4 days ago)
+- 💪 [RELEASE: v0.10.0](https://github.com/k8gb-io/k8gb/pull/984) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (4 days ago)
 
 #### 📓 Gists I wrote
 
 - [remove assets from existing (/same) release](https://gist.github.com/cbed1e82bf7f80b689176b5cedac1f1a) (1 week ago)
-- [image pull backoff tweaks](https://gist.github.com/a51bd080b2050aeed8479f1a8c2a686c) (4 weeks ago)
+- [image pull backoff tweaks](https://gist.github.com/a51bd080b2050aeed8479f1a8c2a686c) (1 month ago)
 - [keptn action](https://gist.github.com/4b9355e26643217f318fe37faa9ce444) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/about-api](https://github.com/kubernetes-sigs/about-api) - A CRD for arbitrary properties about a cluster (6 days ago)
+- [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer) - An experimental package manager for distributing Kubernetes configuration as OCI artifacts. (today)
+- [jkremser/NeuroCars](https://github.com/jkremser/NeuroCars) - A simple game, where other cars are driven by artificial neural network (4 layered perceptron architecture with implemented backpropagation learning algorithm) (1 day ago)
+- [kubernetes-sigs/about-api](https://github.com/kubernetes-sigs/about-api) - A CRD for arbitrary properties about a cluster (1 week ago)
 - [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes (1 month ago)
-- [sonatype-nexus-community/nancy](https://github.com/sonatype-nexus-community/nancy) - A tool to check for vulnerabilities in your Golang dependencies, powered by Sonatype OSS Index (3 months ago)
-- [knsd/ping-exporter](https://github.com/knsd/ping-exporter) - Prometheus ICMP ping exporter (3 months ago)
 
 #### 💬 Feedback
 
