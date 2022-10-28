@@ -18,24 +18,24 @@
 #### 👷 Check out what I'm currently working on
 
 - :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 day ago)
-- :octocat: / [jkremser/NeuroCars](https://github.com/jkremser/NeuroCars) - A simple game, where other cars are driven by artificial neural network (4 layered perceptron architecture with implemented backpropagation learning algorithm) (4 days ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (5 days ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (5 days ago)
-- :octocat: / [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action) - Github Action implementation of SLSA Provenance Generation (2 weeks ago)
+- :octocat: / [k8s-operatorhub/community-operators](https://github.com/k8s-operatorhub/community-operators) - The canonical source for Kubernetes Operators that are published on OperatorHub.io and part of the default catalog of the Operator Lifecycle Manager. (2 days ago)
+- :octocat: / [jkremser/NeuroCars](https://github.com/jkremser/NeuroCars) - A simple game, where other cars are driven by artificial neural network (4 layered perceptron architecture with implemented backpropagation learning algorithm) (1 week ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.1), 5 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- 🎉 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) ([6.2.2](https://github.com/stefanprodan/podinfo/releases/tag/6.2.2), 5 days ago) - Go microservice template for Kubernetes
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.10.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.10.0), 1 week ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ([v0.17.0](https://github.com/kubernetes-sigs/kind/releases/tag/v0.17.0), 2 days ago) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- 🎉 [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.13.0](https://github.com/lima-vm/lima/releases/tag/v0.13.0), 3 days ago) - Linux virtual machines, typically on macOS, for running containerd
+- 🎉 [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.6.0](https://github.com/liqotech/liqo/releases/tag/v0.6.0), 3 days ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Summary](https://github.com/jkremser/log2rbac-operator/pull/68) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 day ago)
-- 💪 [Put the cache back &#43; increase the timeout &#43; verbosity](https://github.com/jkremser/log2rbac-operator/pull/67) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 day ago)
-- 💪 [operator log2rbac (0.0.5)](https://github.com/k8s-operatorhub/community-operators/pull/1861) on [k8s-operatorhub/community-operators](https://github.com/k8s-operatorhub/community-operators) (4 days ago)
-- 💪 [Fix links at release summary page](https://github.com/k8gb-io/k8gb/pull/1008) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (5 days ago)
-- 💪 [RELEASE: v0.10.0](https://github.com/k8gb-io/k8gb/pull/987) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
+- 💪 [Add periodic CodeQL scans](https://github.com/jkremser/log2rbac-operator/pull/87) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 day ago)
+- 💪 [More pinning](https://github.com/jkremser/log2rbac-operator/pull/86) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 day ago)
+- 💪 [Use specified version for golangci-lint](https://github.com/jkremser/log2rbac-operator/pull/83) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 day ago)
+- 💪 [readme: Add link to neat](https://github.com/jkremser/log2rbac-operator/pull/82) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 day ago)
+- 💪 [Pin versions for base containers and pip3 install](https://github.com/jkremser/log2rbac-operator/pull/81) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -45,10 +45,10 @@
 
 #### ⭐ Recent Stars
 
-- [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer) - An experimental package manager for distributing Kubernetes configuration as OCI artifacts. (3 days ago)
-- [jkremser/NeuroCars](https://github.com/jkremser/NeuroCars) - A simple game, where other cars are driven by artificial neural network (4 layered perceptron architecture with implemented backpropagation learning algorithm) (4 days ago)
-- [kubernetes-sigs/about-api](https://github.com/kubernetes-sigs/about-api) - A CRD for arbitrary properties about a cluster (1 week ago)
-- [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes (1 month ago)
+- [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace (1 day ago)
+- [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer) - An experimental package manager for distributing Kubernetes configuration as OCI artifacts. (6 days ago)
+- [jkremser/NeuroCars](https://github.com/jkremser/NeuroCars) - A simple game, where other cars are driven by artificial neural network (4 layered perceptron architecture with implemented backpropagation learning algorithm) (1 week ago)
+- [kubernetes-sigs/about-api](https://github.com/kubernetes-sigs/about-api) - A CRD for arbitrary properties about a cluster (2 weeks ago)
 
 #### 💬 Feedback
 
