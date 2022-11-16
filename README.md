@@ -17,27 +17,27 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (today)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (today)
-- :octocat: / [giantswarm/devctl](https://github.com/giantswarm/devctl) - Command line development utility. (4 days ago)
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (4 days ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (6 days ago)
+- :octocat: / [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) - Cleans up the resources that are left behind by the capvcd provider (2 days ago)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 days ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 days ago)
+- :octocat: / [giantswarm/devctl](https://github.com/giantswarm/devctl) - Command line development utility. (1 week ago)
+- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) ([6.2.3](https://github.com/stefanprodan/podinfo/releases/tag/6.2.3), 4 days ago) - Go microservice template for Kubernetes
-- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v5.12.0](https://github.com/giantswarm/devctl/releases/tag/v5.12.0), 4 days ago) - Command line development utility.
-- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.3.0-beta.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.3.0-beta.1), 5 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.3.0-rc.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.3.0-rc.0), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- 🎉 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) ([6.2.3](https://github.com/stefanprodan/podinfo/releases/tag/6.2.3), 1 week ago) - Go microservice template for Kubernetes
+- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v5.12.0](https://github.com/giantswarm/devctl/releases/tag/v5.12.0), 1 week ago) - Command line development utility.
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/3) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (today)
-- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/2) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (today)
-- 💪 [Add renovate; remove dependabot](https://github.com/k8gb-io/k8gb/pull/1021) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (5 days ago)
+- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/3) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (3 days ago)
+- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/2) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (3 days ago)
+- 💪 [Add renovate; remove dependabot](https://github.com/k8gb-io/k8gb/pull/1021) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [keybase.md](https://gist.github.com/5995bcd02b101618f6143dc60a281bea) (6 days ago)
+- [keybase.md](https://gist.github.com/5995bcd02b101618f6143dc60a281bea) (1 week ago)
 - [remove assets from existing (/same) release](https://gist.github.com/cbed1e82bf7f80b689176b5cedac1f1a) (1 month ago)
 - [image pull backoff tweaks](https://gist.github.com/a51bd080b2050aeed8479f1a8c2a686c) (1 month ago)
 
