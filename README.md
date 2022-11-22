@@ -17,36 +17,37 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) - Cleans up the resources that are left behind by the capvcd provider (today)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 day ago)
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (3 days ago)
-- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (6 days ago)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (6 days ago)
+- :octocat: / [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) - Cleans up the resources that are left behind by the capvcd provider (1 day ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (4 days ago)
+- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (6 days ago)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 week ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.14.0-beta.0](https://github.com/lima-vm/lima/releases/tag/v0.14.0-beta.0), 3 days ago) - Linux virtual machines, typically on macOS, for running containerd
-- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.3.0-rc.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.3.0-rc.0), 4 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- 🎉 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) ([6.2.3](https://github.com/stefanprodan/podinfo/releases/tag/6.2.3), 1 week ago) - Go microservice template for Kubernetes
+- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.2.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.2.6), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- 🎉 [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) ([v0.1.0](https://github.com/giantswarm/cluster-api-cleaner-cloud-director/releases/tag/v0.1.0), 1 day ago) - Cleans up the resources that are left behind by the capvcd provider
+- 🎉 [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.14.0-beta.0](https://github.com/lima-vm/lima/releases/tag/v0.14.0-beta.0), 6 days ago) - Linux virtual machines, typically on macOS, for running containerd
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add some badges to readme file](https://github.com/giantswarm/cluster-api-cleaner-cloud-director/pull/2) on [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) (3 days ago)
-- 💪 [Add logic that cleans the virtual services from cloud director ](https://github.com/giantswarm/cluster-api-cleaner-cloud-director/pull/1) on [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) (3 days ago)
-- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/3) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (6 days ago)
-- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/2) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (6 days ago)
+- 💪 [[wip] More cleaners](https://github.com/giantswarm/cluster-api-cleaner-cloud-director/pull/9) on [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) (1 day ago)
+- 💪 [Prepare changelog for the automation](https://github.com/giantswarm/cluster-api-cleaner-cloud-director/pull/7) on [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) (1 day ago)
+- 💪 [Add some badges to readme file](https://github.com/giantswarm/cluster-api-cleaner-cloud-director/pull/2) on [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) (6 days ago)
+- 💪 [Add logic that cleans the virtual services from cloud director ](https://github.com/giantswarm/cluster-api-cleaner-cloud-director/pull/1) on [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) (6 days ago)
+- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/3) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [keybase.md](https://gist.github.com/5995bcd02b101618f6143dc60a281bea) (1 week ago)
+- [keybase.md](https://gist.github.com/5995bcd02b101618f6143dc60a281bea) (2 weeks ago)
 - [remove assets from existing (/same) release](https://gist.github.com/cbed1e82bf7f80b689176b5cedac1f1a) (1 month ago)
-- [image pull backoff tweaks](https://gist.github.com/a51bd080b2050aeed8479f1a8c2a686c) (1 month ago)
+- [image pull backoff tweaks](https://gist.github.com/a51bd080b2050aeed8479f1a8c2a686c) (2 months ago)
 
 #### ⭐ Recent Stars
 
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace (3 weeks ago)
-- [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer) - An experimental package manager for distributing Kubernetes configuration as OCI artifacts. (4 weeks ago)
-- [jkremser/NeuroCars](https://github.com/jkremser/NeuroCars) - A simple game, where other cars are driven by artificial neural network (4 layered perceptron architecture with implemented backpropagation learning algorithm) (4 weeks ago)
+- [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer) - An experimental package manager for distributing Kubernetes configuration as OCI artifacts. (1 month ago)
+- [jkremser/NeuroCars](https://github.com/jkremser/NeuroCars) - A simple game, where other cars are driven by artificial neural network (4 layered perceptron architecture with implemented backpropagation learning algorithm) (1 month ago)
 - [kubernetes-sigs/about-api](https://github.com/kubernetes-sigs/about-api) - A CRD for arbitrary properties about a cluster (1 month ago)
 
 #### 💬 Feedback
