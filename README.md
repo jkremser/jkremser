@@ -17,25 +17,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) -  (1 day ago)
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 day ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (4 days ago)
-- :octocat: / [giantswarm/homebrew-cd-cli](https://github.com/giantswarm/homebrew-cd-cli) - homebrew tap for https://github.com/giantswarm/cloud-director-cli (6 days ago)
-- :octocat: / [giantswarm/cloud-provider-cloud-director-app](https://github.com/giantswarm/cloud-provider-cloud-director-app) - Contains the CSI and CPI for VMware Cloud Director (VCD) (1 week ago)
+- :octocat: / [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) - Cleans up the resources that are left behind by the capvcd provider (3 days ago)
+- :octocat: / [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) -  (4 days ago)
+- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (4 days ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
+- :octocat: / [giantswarm/homebrew-cd-cli](https://github.com/giantswarm/homebrew-cd-cli) - homebrew tap for https://github.com/giantswarm/cloud-director-cli (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.14.0](https://github.com/lima-vm/lima/releases/tag/v0.14.0), 1 day ago) - Linux virtual machines, typically on macOS, for running containerd
-- 🎉 [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) ([v0.0.7](https://github.com/giantswarm/cloud-director-cli/releases/tag/v0.0.7), 1 day ago) - 
-- 🎉 [giantswarm/cloud-provider-cloud-director-app](https://github.com/giantswarm/cloud-provider-cloud-director-app) ([v0.2.0](https://github.com/giantswarm/cloud-provider-cloud-director-app/releases/tag/v0.2.0), 5 days ago) - Contains the CSI and CPI for VMware Cloud Director (VCD)
+- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v5.15.0](https://github.com/giantswarm/devctl/releases/tag/v5.15.0), 1 day ago) - Command line development utility.
+- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.2.8](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.2.8), 2 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- 🎉 [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.14.1](https://github.com/lima-vm/lima/releases/tag/v0.14.1), 2 days ago) - Linux virtual machines, typically on macOS, for running containerd
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [New linter](https://github.com/jkremser/log2rbac-operator/pull/141) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 day ago)
-- 💪 [Use different gh action for linter](https://github.com/jkremser/log2rbac-operator/pull/139) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 day ago)
-- 💪 [Add cleaner for app port profiles](https://github.com/giantswarm/cluster-api-cleaner-cloud-director/pull/12) on [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) (1 day ago)
-- 💪 [skip cache again, because the action is broken](https://github.com/jkremser/log2rbac-operator/pull/138) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (4 days ago)
-- 💪 [Run go mod tidy before the linter](https://github.com/jkremser/log2rbac-operator/pull/137) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (4 days ago)
+- 💪 [New linter](https://github.com/jkremser/log2rbac-operator/pull/141) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (4 days ago)
+- 💪 [Use different gh action for linter](https://github.com/jkremser/log2rbac-operator/pull/139) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (4 days ago)
+- 💪 [Add cleaner for app port profiles](https://github.com/giantswarm/cluster-api-cleaner-cloud-director/pull/12) on [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) (4 days ago)
+- 💪 [skip cache again, because the action is broken](https://github.com/jkremser/log2rbac-operator/pull/138) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 week ago)
+- 💪 [Run go mod tidy before the linter](https://github.com/jkremser/log2rbac-operator/pull/137) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (1 day ago)
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (4 days ago)
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a Kubernetes-like control plane for workloads on many clusters (1 week ago)
 - [rapid7/metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities. (2 weeks ago)
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace (1 month ago)
