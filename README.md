@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [slashben/beat-ac-cosign-verifier](https://github.com/slashben/beat-ac-cosign-verifier) - This is a POC repository showing how a Kubernetes Admission Controller can be made irrelevant when verifying container image signatures (2 days ago)
-- [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) -  (5 days ago)
+- [slashben/beat-ac-cosign-verifier](https://github.com/slashben/beat-ac-cosign-verifier) - This is a POC repository showing how a Kubernetes Admission Controller can be made irrelevant when verifying container image signatures (3 days ago)
+- [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) -  (6 days ago)
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (2 weeks ago)
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a Kubernetes-like control plane for workloads on many clusters (3 weeks ago)
 
