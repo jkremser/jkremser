@@ -17,21 +17,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) - Cleans up the resources that are left behind by the capvcd provider (5 days ago)
-- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD) (5 days ago)
-- :octocat: / [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) -  (1 month ago)
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 month ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
+- :octocat: / [giantswarm/cloud-director-app-collection](https://github.com/giantswarm/cloud-director-app-collection) -  (1 day ago)
+- :octocat: / [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) - Default apps installed in VCD clusters (1 day ago)
+- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (1 day ago)
+- :octocat: / [giantswarm/default-apps-openstack](https://github.com/giantswarm/default-apps-openstack) - Default Apps installed in OpenStack Clusters (1 day ago)
+- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.9.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.9.0), 6 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v5.17.0](https://github.com/giantswarm/devctl/releases/tag/v5.17.0), 6 days ago) - Command line development utility.
-- 🎉 [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.2), 1 week ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- 🎉 [giantswarm/default-apps-openstack](https://github.com/giantswarm/default-apps-openstack) ([v0.8.2](https://github.com/giantswarm/default-apps-openstack/releases/tag/v0.8.2), 1 day ago) - Default Apps installed in OpenStack Clusters
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.3.6](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.3.6), 1 day ago) - Default apps installed in VCD clusters
+- 🎉 [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) ([v0.7.0](https://github.com/giantswarm/default-apps-vsphere/releases/tag/v0.7.0), 1 day ago) - Default apps installed in vSphere clusters
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Remove vpa &#43; vpa-crd apps from collection](https://github.com/giantswarm/cloud-director-app-collection/pull/31) on [giantswarm/cloud-director-app-collection](https://github.com/giantswarm/cloud-director-app-collection) (3 days ago)
+- 💪 [Typo in the CircleCI badge in readme](https://github.com/giantswarm/cloud-provider-vsphere-app/pull/24) on [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) (1 day ago)
+- 💪 [Update workflow files to those coming from devctl@5.17.0](https://github.com/giantswarm/default-apps-vsphere/pull/47) on [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) (2 days ago)
+- 💪 [Update workflow files to those coming from devctl@5.17.0](https://github.com/giantswarm/default-apps-openstack/pull/112) on [giantswarm/default-apps-openstack](https://github.com/giantswarm/default-apps-openstack) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -41,9 +43,9 @@
 
 #### ⭐ Recent Stars
 
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (1 week ago)
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (2 weeks ago)
 - [slashben/beat-ac-cosign-verifier](https://github.com/slashben/beat-ac-cosign-verifier) - This is a POC repository showing how a Kubernetes Admission Controller can be made irrelevant when verifying container image signatures (3 weeks ago)
-- [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) -  (3 weeks ago)
+- [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) -  (1 month ago)
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (1 month ago)
 
 #### 💬 Feedback
