@@ -17,17 +17,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) - Kubernetes Cloud Provider for vSphere (CPI) https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app (5 days ago)
-- :octocat: / [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) -  (5 days ago)
+- :octocat: / [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) - Kubernetes Cloud Provider for vSphere (CPI) https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app (6 days ago)
+- :octocat: / [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) -  (6 days ago)
 - :octocat: / [giantswarm/cloud-director-app-collection](https://github.com/giantswarm/cloud-director-app-collection) -  (1 week ago)
 - :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (1 week ago)
 - :octocat: / [giantswarm/default-apps-openstack](https://github.com/giantswarm/default-apps-openstack) - Default Apps installed in OpenStack Clusters (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.7.0](https://github.com/liqotech/liqo/releases/tag/v0.7.0), 1 day ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.6.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.6.0), 1 day ago) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD)
-- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v5.18.1](https://github.com/giantswarm/devctl/releases/tag/v5.18.1), 5 days ago) - Command line development utility.
+- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.2.10](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.2.10), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v5.18.2](https://github.com/giantswarm/devctl/releases/tag/v5.18.2), 1 day ago) - Command line development utility.
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.6.1](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.6.1), 1 day ago) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD)
 
 #### 🔨 My recent Pull Requests
 
@@ -37,7 +37,7 @@
 
 #### 📓 Gists I wrote
 
-- [registry-config.toml](https://gist.github.com/af7ada844585e8a0d1a6ee240327e25a) (6 days ago)
+- [registry-config.toml](https://gist.github.com/af7ada844585e8a0d1a6ee240327e25a) (1 week ago)
 - [keybase.md](https://gist.github.com/5995bcd02b101618f6143dc60a281bea) (2 months ago)
 - [remove assets from existing (/same) release](https://gist.github.com/cbed1e82bf7f80b689176b5cedac1f1a) (3 months ago)
 
