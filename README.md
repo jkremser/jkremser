@@ -17,7 +17,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/devctl](https://github.com/giantswarm/devctl) - Command line development utility. (4 days ago)
+- :octocat: / [giantswarm/devctl](https://github.com/giantswarm/devctl) - Command line development utility. (1 week ago)
 - :octocat: / [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) -  (2 weeks ago)
 - :octocat: / [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) - Kubernetes Cloud Provider for vSphere (CPI) https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app (2 weeks ago)
 - :octocat: / [giantswarm/default-apps-openstack](https://github.com/giantswarm/default-apps-openstack) - Default Apps installed in OpenStack Clusters (2 weeks ago)
@@ -31,11 +31,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Make schedulable](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/42) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (2 days ago)
-- 💪 [Merge ci/ci-values.yaml with values.yaml before doing the schema validation](https://github.com/giantswarm/devctl/pull/513) on [giantswarm/devctl](https://github.com/giantswarm/devctl) (4 days ago)
-- 💪 [Not ok change - removed the override value that is needed by schema](https://github.com/jkremser/default-apps-cloud-director/pull/4) on [jkremser/default-apps-cloud-director](https://github.com/jkremser/default-apps-cloud-director) (4 days ago)
-- 💪 [ok - just some version bump](https://github.com/jkremser/default-apps-cloud-director/pull/3) on [jkremser/default-apps-cloud-director](https://github.com/jkremser/default-apps-cloud-director) (4 days ago)
-- 💪 [Test1 - ok](https://github.com/giantswarm/default-apps-cloud-director/pull/71) on [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) (4 days ago)
+- 💪 [Make schedulable](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/42) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (5 days ago)
+- 💪 [Merge ci/ci-values.yaml with values.yaml before doing the schema validation](https://github.com/giantswarm/devctl/pull/513) on [giantswarm/devctl](https://github.com/giantswarm/devctl) (1 week ago)
+- 💪 [Not ok change - removed the override value that is needed by schema](https://github.com/jkremser/default-apps-cloud-director/pull/4) on [jkremser/default-apps-cloud-director](https://github.com/jkremser/default-apps-cloud-director) (1 week ago)
+- 💪 [ok - just some version bump](https://github.com/jkremser/default-apps-cloud-director/pull/3) on [jkremser/default-apps-cloud-director](https://github.com/jkremser/default-apps-cloud-director) (1 week ago)
+- 💪 [Test1 - ok](https://github.com/giantswarm/default-apps-cloud-director/pull/71) on [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) (1 week ago)
 
 #### 📓 Gists I wrote
 
