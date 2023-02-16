@@ -17,31 +17,31 @@
 
 #### 👷 Check out what I'm currently working on
 
+- :octocat: / [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) - Cluster API vSphere controller packaged as a Giant Swarm app (2 days ago)
+- :octocat: / [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app (2 days ago)
 - :octocat: / [giantswarm/devctl](https://github.com/giantswarm/devctl) - Command line development utility. (1 week ago)
-- :octocat: / [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) -  (2 weeks ago)
-- :octocat: / [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) - Kubernetes Cloud Provider for vSphere (CPI) https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app (2 weeks ago)
-- :octocat: / [giantswarm/default-apps-openstack](https://github.com/giantswarm/default-apps-openstack) - Default Apps installed in OpenStack Clusters (2 weeks ago)
-- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (2 weeks ago)
+- :octocat: / [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) -  (3 weeks ago)
+- :octocat: / [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) - Kubernetes Cloud Provider for vSphere (CPI) https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.3.7](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.3.7), 2 days ago) - Default apps installed in VCD clusters
 - 🎉 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) ([6.3.3](https://github.com/stefanprodan/podinfo/releases/tag/6.3.3), 1 week ago) - Go microservice template for Kubernetes
-- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.2.10](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.2.10), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v5.18.2](https://github.com/giantswarm/devctl/releases/tag/v5.18.2), 1 week ago) - Command line development utility.
+- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.2.10](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.2.10), 2 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Make schedulable](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/42) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (5 days ago)
+- 💪 [Rebase on upstream manifests](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/43) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (2 days ago)
+- 💪 [Don&#39;t build&amp;push the container image here](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/pull/44) on [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) (2 days ago)
+- 💪 [Make schedulable](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/42) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (1 week ago)
 - 💪 [Merge ci/ci-values.yaml with values.yaml before doing the schema validation](https://github.com/giantswarm/devctl/pull/513) on [giantswarm/devctl](https://github.com/giantswarm/devctl) (1 week ago)
 - 💪 [Not ok change - removed the override value that is needed by schema](https://github.com/jkremser/default-apps-cloud-director/pull/4) on [jkremser/default-apps-cloud-director](https://github.com/jkremser/default-apps-cloud-director) (1 week ago)
-- 💪 [ok - just some version bump](https://github.com/jkremser/default-apps-cloud-director/pull/3) on [jkremser/default-apps-cloud-director](https://github.com/jkremser/default-apps-cloud-director) (1 week ago)
-- 💪 [Test1 - ok](https://github.com/giantswarm/default-apps-cloud-director/pull/71) on [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [public key](https://gist.github.com/873194a8e2942735cde99e60b4db9861) (1 week ago)
-- [no description](https://gist.github.com/1d42a5d808778bc41afcc96222712a9e) (1 week ago)
-- [registry-config.toml](https://gist.github.com/af7ada844585e8a0d1a6ee240327e25a) (2 weeks ago)
+- [Makefile.custom-jk.mk](https://gist.github.com/672c558b85d471efd99da2235003f0f3) (1 day ago)
+- [public key](https://gist.github.com/873194a8e2942735cde99e60b4db9861) (2 weeks ago)
+- [no description](https://gist.github.com/1d42a5d808778bc41afcc96222712a9e) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
