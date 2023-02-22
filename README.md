@@ -17,29 +17,29 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 days ago)
-- :octocat: / [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) - Cluster API vSphere controller packaged as a Giant Swarm app (3 days ago)
-- :octocat: / [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app (5 days ago)
-- :octocat: / [giantswarm/devctl](https://github.com/giantswarm/devctl) - Command line development utility. (1 week ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (5 days ago)
+- :octocat: / [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) - Cluster API vSphere controller packaged as a Giant Swarm app (6 days ago)
+- :octocat: / [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app (1 week ago)
+- :octocat: / [giantswarm/devctl](https://github.com/giantswarm/devctl) - Command line development utility. (2 weeks ago)
 - :octocat: / [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) - Simple cli tool used for talking with vcd API (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v5.18.3](https://github.com/giantswarm/devctl/releases/tag/v5.18.3), 2 days ago) - Command line development utility.
-- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.3.7](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.3.7), 5 days ago) - Default apps installed in VCD clusters
-- 🎉 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) ([6.3.3](https://github.com/stefanprodan/podinfo/releases/tag/6.3.3), 2 weeks ago) - Go microservice template for Kubernetes
+- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v5.19.0](https://github.com/giantswarm/devctl/releases/tag/v5.19.0), 1 day ago) - Command line development utility.
+- 🎉 [giantswarm/cloud-provider-cloud-director-app](https://github.com/giantswarm/cloud-provider-cloud-director-app) ([v0.2.2](https://github.com/giantswarm/cloud-provider-cloud-director-app/releases/tag/v0.2.2), 1 day ago) - Contains the CSI and CPI for VMware Cloud Director (VCD)
+- 🎉 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) ([6.3.4](https://github.com/stefanprodan/podinfo/releases/tag/6.3.4), 1 day ago) - Go microservice template for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [k8s.gcr.io -&gt; registry.k8s.io](https://github.com/k8gb-io/k8gb/pull/1066) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 days ago)
-- 💪 [Rebase on upstream manifests](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/43) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (5 days ago)
-- 💪 [Don&#39;t build&amp;push the container image here](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/pull/44) on [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) (5 days ago)
-- 💪 [Make schedulable](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/42) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (1 week ago)
-- 💪 [Merge ci/ci-values.yaml with values.yaml before doing the schema validation](https://github.com/giantswarm/devctl/pull/513) on [giantswarm/devctl](https://github.com/giantswarm/devctl) (1 week ago)
+- 💪 [Create shared vsphereclusteridentity (cluster scoped) so that infra-c…](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/44) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (1 day ago)
+- 💪 [Helm Chart renovation](https://github.com/giantswarm/cluster-vsphere/pull/23) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (2 days ago)
+- 💪 [k8s.gcr.io -&gt; registry.k8s.io](https://github.com/k8gb-io/k8gb/pull/1066) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (5 days ago)
+- 💪 [Rebase on upstream manifests](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/43) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (1 week ago)
+- 💪 [Don&#39;t build&amp;push the container image here](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/pull/44) on [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [Makefile.custom-jk.mk](https://gist.github.com/672c558b85d471efd99da2235003f0f3) (4 days ago)
+- [Makefile.custom-jk.mk](https://gist.github.com/672c558b85d471efd99da2235003f0f3) (1 week ago)
 - [public key](https://gist.github.com/873194a8e2942735cde99e60b4db9861) (2 weeks ago)
 - [no description](https://gist.github.com/1d42a5d808778bc41afcc96222712a9e) (2 weeks ago)
 
