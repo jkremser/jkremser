@@ -17,7 +17,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) - Default apps installed in VCD clusters (5 days ago)
+- :octocat: / [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) - Default apps installed in VCD clusters (6 days ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
 - :octocat: / [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) - Cluster API vSphere controller packaged as a Giant Swarm app (1 week ago)
 - :octocat: / [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app (2 weeks ago)
@@ -25,28 +25,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.3.9](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.3.9), 5 days ago) - Default apps installed in VCD clusters
-- 🎉 [giantswarm/cloud-provider-cloud-director-app](https://github.com/giantswarm/cloud-provider-cloud-director-app) ([v0.2.3](https://github.com/giantswarm/cloud-provider-cloud-director-app/releases/tag/v0.2.3), 5 days ago) - Contains the CSI and CPI for VMware Cloud Director (VCD)
-- 🎉 [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.7.1](https://github.com/liqotech/liqo/releases/tag/v0.7.1), 5 days ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
+- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.3.4](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.3.4), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- 🎉 [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.15.0](https://github.com/lima-vm/lima/releases/tag/v0.15.0), 1 day ago) - Linux virtual machines, typically on macOS, for running containerd
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.3.9](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.3.9), 6 days ago) - Default apps installed in VCD clusters
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [:sparkles: Make the cleaning of cluster&#39;s identity secrets configurable with default = true (as is)](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/pull/1803) on [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere) (1 day ago)
-- 💪 [Update workflows](https://github.com/giantswarm/default-apps-cloud-director/pull/83) on [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) (5 days ago)
+- 💪 [:sparkles: Make the cleaning of cluster&#39;s identity secrets configurable with default = true (as is)](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/pull/1803) on [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere) (2 days ago)
+- 💪 [Update workflows](https://github.com/giantswarm/default-apps-cloud-director/pull/83) on [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) (6 days ago)
 - 💪 [Create shared vsphereclusteridentity (cluster scoped) so that infra-c…](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/44) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (1 week ago)
 - 💪 [Helm Chart renovation](https://github.com/giantswarm/cluster-vsphere/pull/23) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 week ago)
 - 💪 [k8s.gcr.io -&gt; registry.k8s.io](https://github.com/k8gb-io/k8gb/pull/1066) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/c834be2ff7cbebd56b58adc4da237289) (6 days ago)
-- [Makefile.custom-jk.mk](https://gist.github.com/672c558b85d471efd99da2235003f0f3) (1 week ago)
+- [no description](https://gist.github.com/c834be2ff7cbebd56b58adc4da237289) (1 week ago)
+- [Makefile.custom-jk.mk](https://gist.github.com/672c558b85d471efd99da2235003f0f3) (2 weeks ago)
 - [public key](https://gist.github.com/873194a8e2942735cde99e60b4db9861) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material. (1 day ago)
-- [giantswarm/schemalint](https://github.com/giantswarm/schemalint) - A JSON schema linter built for some specific purpose at Giant Swarm (1 day ago)
+- [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material. (2 days ago)
+- [giantswarm/schemalint](https://github.com/giantswarm/schemalint) - A JSON schema linter built for some specific purpose at Giant Swarm (2 days ago)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (1 month ago)
 - [slashben/beat-ac-cosign-verifier](https://github.com/slashben/beat-ac-cosign-verifier) - This is a POC repository showing how a Kubernetes Admission Controller can be made irrelevant when verifying container image signatures (2 months ago)
 
