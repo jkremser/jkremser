@@ -17,25 +17,25 @@
 
 #### 👷 Check out what I'm currently working on
 
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 day ago)
 - :octocat: / [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) - Default apps installed in VCD clusters (1 week ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 weeks ago)
 - :octocat: / [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) - Cluster API vSphere controller packaged as a Giant Swarm app (2 weeks ago)
-- :octocat: / [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app (2 weeks ago)
-- :octocat: / [giantswarm/devctl](https://github.com/giantswarm/devctl) - Command line development utility. (3 weeks ago)
+- :octocat: / [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.3.5](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.3.5), 2 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- 🎉 [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.15.0](https://github.com/lima-vm/lima/releases/tag/v0.15.0), 4 days ago) - Linux virtual machines, typically on macOS, for running containerd
+- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.3.5](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.3.5), 5 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- 🎉 [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.15.0](https://github.com/lima-vm/lima/releases/tag/v0.15.0), 1 week ago) - Linux virtual machines, typically on macOS, for running containerd
 - 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.3.9](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.3.9), 1 week ago) - Default apps installed in VCD clusters
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Make the chart hierarchical with two dependencies](https://github.com/giantswarm/cloud-provider-vsphere-app/pull/26) on [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) (3 days ago)
-- 💪 [Make the helm chart up-to-date with the upstream](https://github.com/giantswarm/cloud-provider-vsphere-app/pull/25) on [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) (3 days ago)
-- 💪 [:sparkles: Make the cleaning of cluster&#39;s identity secrets configurable with default = true (as is)](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/pull/1803) on [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere) (5 days ago)
+- 💪 [Make the chart hierarchical with two dependencies](https://github.com/giantswarm/cloud-provider-vsphere-app/pull/26) on [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) (6 days ago)
+- 💪 [Make the helm chart up-to-date with the upstream](https://github.com/giantswarm/cloud-provider-vsphere-app/pull/25) on [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) (6 days ago)
+- 💪 [:sparkles: Make the cleaning of cluster&#39;s identity secrets configurable with default = true (as is)](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/pull/1803) on [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere) (1 week ago)
 - 💪 [Update workflows](https://github.com/giantswarm/default-apps-cloud-director/pull/83) on [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) (1 week ago)
-- 💪 [Create shared vsphereclusteridentity (cluster scoped) so that infra-c…](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/44) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (1 week ago)
+- 💪 [Create shared vsphereclusteridentity (cluster scoped) so that infra-c…](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/44) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material. (5 days ago)
-- [giantswarm/schemalint](https://github.com/giantswarm/schemalint) - A JSON schema linter built for some specific purpose at Giant Swarm (5 days ago)
+- [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material. (1 week ago)
+- [giantswarm/schemalint](https://github.com/giantswarm/schemalint) - A JSON schema linter built for some specific purpose at Giant Swarm (1 week ago)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (1 month ago)
 - [slashben/beat-ac-cosign-verifier](https://github.com/slashben/beat-ac-cosign-verifier) - This is a POC repository showing how a Kubernetes Admission Controller can be made irrelevant when verifying container image signatures (2 months ago)
 
