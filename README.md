@@ -17,30 +17,30 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 day ago)
-- :octocat: / [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) - Default apps installed in VCD clusters (1 week ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 weeks ago)
-- :octocat: / [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) - Cluster API vSphere controller packaged as a Giant Swarm app (2 weeks ago)
-- :octocat: / [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app (3 weeks ago)
+- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD) (2 days ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (2 days ago)
+- :octocat: / [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) - Default apps installed in VCD clusters (2 weeks ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 weeks ago)
+- :octocat: / [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) - Cluster API vSphere controller packaged as a Giant Swarm app (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.3.5](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.3.5), 5 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- 🎉 [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.15.0](https://github.com/lima-vm/lima/releases/tag/v0.15.0), 1 week ago) - Linux virtual machines, typically on macOS, for running containerd
-- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.3.9](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.3.9), 1 week ago) - Default apps installed in VCD clusters
+- 🎉 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) ([6.3.5](https://github.com/stefanprodan/podinfo/releases/tag/6.3.5), 1 day ago) - Go microservice template for Kubernetes
+- 🎉 [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.9.1](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.9.1), 2 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.4.0-beta.2](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.4.0-beta.2), 3 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Make the chart hierarchical with two dependencies](https://github.com/giantswarm/cloud-provider-vsphere-app/pull/26) on [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) (6 days ago)
-- 💪 [Make the helm chart up-to-date with the upstream](https://github.com/giantswarm/cloud-provider-vsphere-app/pull/25) on [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) (6 days ago)
-- 💪 [:sparkles: Make the cleaning of cluster&#39;s identity secrets configurable with default = true (as is)](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/pull/1803) on [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere) (1 week ago)
-- 💪 [Update workflows](https://github.com/giantswarm/default-apps-cloud-director/pull/83) on [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) (1 week ago)
-- 💪 [Create shared vsphereclusteridentity (cluster scoped) so that infra-c…](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/44) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (2 weeks ago)
+- 💪 [pre-install hook for secrets](https://github.com/giantswarm/cluster-vsphere/pull/29) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 day ago)
+- 💪 [Add CPI&amp;CSI (they are both part of that cloud-provider-vsphere helm chart](https://github.com/giantswarm/cluster-vsphere/pull/28) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (2 days ago)
+- 💪 [Don&#39;t put clusterLabels on HelmRe{lease,pository} CRs](https://github.com/giantswarm/cluster-cloud-director/pull/99) on [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) (2 days ago)
+- 💪 [CNI](https://github.com/giantswarm/cluster-vsphere/pull/26) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (3 days ago)
+- 💪 [minor: typo](https://github.com/vmware/load-balancer-and-ingress-services-for-kubernetes/pull/1088) on [vmware/load-balancer-and-ingress-services-for-kubernetes](https://github.com/vmware/load-balancer-and-ingress-services-for-kubernetes) (3 days ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/c834be2ff7cbebd56b58adc4da237289) (1 week ago)
-- [Makefile.custom-jk.mk](https://gist.github.com/672c558b85d471efd99da2235003f0f3) (2 weeks ago)
+- [no description](https://gist.github.com/c834be2ff7cbebd56b58adc4da237289) (2 weeks ago)
+- [Makefile.custom-jk.mk](https://gist.github.com/672c558b85d471efd99da2235003f0f3) (3 weeks ago)
 - [public key](https://gist.github.com/873194a8e2942735cde99e60b4db9861) (1 month ago)
 
 #### ⭐ Recent Stars
