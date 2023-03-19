@@ -20,14 +20,14 @@
 - :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD) (1 week ago)
 - :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 week ago)
 - :octocat: / [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) - Default apps installed in VCD clusters (3 weeks ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 weeks ago)
-- :octocat: / [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) - Cluster API vSphere controller packaged as a Giant Swarm app (4 weeks ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
+- :octocat: / [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) - Cluster API vSphere controller packaged as a Giant Swarm app (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.4.0-rc.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.4.0-rc.0), 2 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- 🎉 [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) ([v1.3.1](https://github.com/giantswarm/cloud-provider-vsphere-app/releases/tag/v1.3.1), 2 days ago) - Kubernetes Cloud Provider for vSphere (CPI) https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app
-- 🎉 [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) ([v0.9.0](https://github.com/giantswarm/cluster-api-provider-vsphere-app/releases/tag/v0.9.0), 2 days ago) - Cluster API vSphere controller packaged as a Giant Swarm app
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.8.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.8.0), 2 days ago) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD)
+- 🎉 [giantswarm/cloud-provider-cloud-director-app](https://github.com/giantswarm/cloud-provider-cloud-director-app) ([v0.2.5](https://github.com/giantswarm/cloud-provider-cloud-director-app/releases/tag/v0.2.5), 2 days ago) - Contains the CSI and CPI for VMware Cloud Director (VCD)
+- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.4.0-rc.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.4.0-rc.0), 5 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 
 #### 🔨 My recent Pull Requests
 
@@ -40,12 +40,12 @@
 #### 📓 Gists I wrote
 
 - [no description](https://gist.github.com/c834be2ff7cbebd56b58adc4da237289) (3 weeks ago)
-- [Makefile.custom-jk.mk](https://gist.github.com/672c558b85d471efd99da2235003f0f3) (4 weeks ago)
+- [Makefile.custom-jk.mk](https://gist.github.com/672c558b85d471efd99da2235003f0f3) (1 month ago)
 - [public key](https://gist.github.com/873194a8e2942735cde99e60b4db9861) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (today)
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (3 days ago)
 - [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material. (2 weeks ago)
 - [giantswarm/schemalint](https://github.com/giantswarm/schemalint) - A JSON schema linter built for some specific purpose at Giant Swarm (2 weeks ago)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (2 months ago)
