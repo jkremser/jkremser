@@ -17,37 +17,37 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/retagger](https://github.com/giantswarm/retagger) - A tool to handle the retagging of third party docker images (6 days ago)
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 week ago)
-- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD) (2 weeks ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (2 days ago)
+- :octocat: / [giantswarm/retagger](https://github.com/giantswarm/retagger) - A tool to handle the retagging of third party docker images (3 days ago)
+- :octocat: / [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) - Contains the CSI and CPI for vSphere https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app (3 days ago)
+- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD) (3 weeks ago)
 - :octocat: / [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) - Default apps installed in VCD clusters (1 month ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.3.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.3.0), 1 day ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.4.1](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.4.1), 3 days ago) - Default apps installed in VCD clusters
-- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v5.20.1](https://github.com/giantswarm/devctl/releases/tag/v5.20.1), 4 days ago) - Command line development utility.
+- 🎉 [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ([v0.18.0](https://github.com/kubernetes-sigs/kind/releases/tag/v0.18.0), 1 day ago) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v5.21.0](https://github.com/giantswarm/devctl/releases/tag/v5.21.0), 1 day ago) - Command line development utility.
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.5.0](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.5.0), 1 day ago) - Default apps installed in VCD clusters
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Fix broken link](https://github.com/kube-vip/helm-charts/pull/20) on [kube-vip/helm-charts](https://github.com/kube-vip/helm-charts) (5 days ago)
-- 💪 [lb](https://github.com/giantswarm/cluster-vsphere/pull/39) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (5 days ago)
-- 💪 [wip: don&#39;t merge me](https://github.com/giantswarm/cluster-vsphere/pull/37) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (6 days ago)
-- 💪 [Missing space (yaml indentation)](https://github.com/giantswarm/cluster-vsphere/pull/35) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 week ago)
-- 💪 [Use retagged images](https://github.com/giantswarm/cloud-provider-vsphere-app/pull/35) on [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) (1 week ago)
+- 💪 [Bump cloud-provider-vsphere version to 1.3.3](https://github.com/giantswarm/cluster-vsphere/pull/42) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (2 days ago)
+- 💪 [Redundant image](https://github.com/giantswarm/retagger/pull/816) on [giantswarm/retagger](https://github.com/giantswarm/retagger) (3 days ago)
+- 💪 [Fix broken link](https://github.com/kube-vip/helm-charts/pull/20) on [kube-vip/helm-charts](https://github.com/kube-vip/helm-charts) (1 week ago)
+- 💪 [lb](https://github.com/giantswarm/cluster-vsphere/pull/39) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 week ago)
+- 💪 [wip: don&#39;t merge me](https://github.com/giantswarm/cluster-vsphere/pull/37) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 week ago)
 
 #### 📓 Gists I wrote
 
+- [no description](https://gist.github.com/7fb07237a9c75a81cb03dd87ee181b13) (1 day ago)
 - [no description](https://gist.github.com/c834be2ff7cbebd56b58adc4da237289) (1 month ago)
 - [Makefile.custom-jk.mk](https://gist.github.com/672c558b85d471efd99da2235003f0f3) (1 month ago)
-- [public key](https://gist.github.com/873194a8e2942735cde99e60b4db9861) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 week ago)
-- [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material. (4 weeks ago)
-- [giantswarm/schemalint](https://github.com/giantswarm/schemalint) - A JSON schema linter built for some specific purpose at Giant Swarm (4 weeks ago)
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (2 weeks ago)
+- [nicolai-wachenschwan/arc-overhang-prusaslicer-integration](https://github.com/nicolai-wachenschwan/arc-overhang-prusaslicer-integration) - A 3D printer slicing algorithm that lets you print 90° overhangs without support material. (1 month ago)
+- [giantswarm/schemalint](https://github.com/giantswarm/schemalint) - A JSON schema linter built for some specific purposes at Giant Swarm (1 month ago)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (2 months ago)
 
 #### 💬 Feedback
