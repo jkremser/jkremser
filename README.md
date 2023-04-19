@@ -17,35 +17,35 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (2 days ago)
-- :octocat: / [jkremser/keyless-signing-action](https://github.com/jkremser/keyless-signing-action) -  (4 days ago)
-- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (5 days ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
-- :octocat: / [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) - Contains the CSI and CPI for vSphere https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app (2 weeks ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (5 days ago)
+- :octocat: / [jkremser/keyless-signing-action](https://github.com/jkremser/keyless-signing-action) -  (1 week ago)
+- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (1 week ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
+- :octocat: / [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) - Contains the CSI and CPI for vSphere https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.15.1](https://github.com/lima-vm/lima/releases/tag/v0.15.1), 1 day ago) - Linux virtual machines, typically on macOS, for running containerd
-- 🎉 [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.10.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.10.0), 1 day ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- 🎉 [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.8.0](https://github.com/liqotech/liqo/releases/tag/v0.8.0), 2 days ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
+- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v5.23.0](https://github.com/giantswarm/devctl/releases/tag/v5.23.0), 1 day ago) - Command line development utility.
+- 🎉 [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.8.1](https://github.com/liqotech/liqo/releases/tag/v0.8.1), 1 day ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
+- 🎉 [k8gb-io/coredns-crd-plugin](https://github.com/k8gb-io/coredns-crd-plugin) ([v0.0.10](https://github.com/k8gb-io/coredns-crd-plugin/releases/tag/v0.0.10), 2 days ago) - CoreDNS plugin to use DNSEndpoint custom resource.
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add an option to add custom certSANs](https://github.com/giantswarm/cluster-vsphere/pull/50) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (3 days ago)
-- 💪 [Tweak timing parameters for CNI installation](https://github.com/giantswarm/cluster-vsphere/pull/49) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (3 days ago)
-- 💪 [Enable configuration of Apps with the extraConfig key](https://github.com/giantswarm/default-apps-vsphere/pull/70) on [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) (5 days ago)
+- 💪 [Add an option to add custom certSANs](https://github.com/giantswarm/cluster-vsphere/pull/50) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (6 days ago)
+- 💪 [Tweak timing parameters for CNI installation](https://github.com/giantswarm/cluster-vsphere/pull/49) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (6 days ago)
+- 💪 [Enable configuration of Apps with the extraConfig key](https://github.com/giantswarm/default-apps-vsphere/pull/70) on [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (4 days ago)
+- [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (1 week ago)
 - [no description](https://gist.github.com/7fb07237a9c75a81cb03dd87ee181b13) (2 weeks ago)
 - [no description](https://gist.github.com/c834be2ff7cbebd56b58adc4da237289) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [dkorunic/betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory (maybe) (4 days ago)
-- [Ullaakut/astronomer](https://github.com/Ullaakut/astronomer) - A tool to detect illegitimate stars from bot accounts on GitHub projects (1 week ago)
-- [giantswarm/etcd-backup-operator](https://github.com/giantswarm/etcd-backup-operator) - Creates etcd backups and uploads them to AWS S3 (1 week ago)
+- [dkorunic/betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory (maybe) (1 week ago)
+- [Ullaakut/astronomer](https://github.com/Ullaakut/astronomer) - A tool to detect illegitimate stars from bot accounts on GitHub projects (2 weeks ago)
+- [giantswarm/etcd-backup-operator](https://github.com/giantswarm/etcd-backup-operator) - Creates etcd backups and uploads them to AWS S3 (2 weeks ago)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 month ago)
 
 #### 💬 Feedback
