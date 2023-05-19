@@ -17,24 +17,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 day ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 day ago)
-- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (6 days ago)
-- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 week ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 weeks ago)
+- :octocat: / [giantswarm/retagger](https://github.com/giantswarm/retagger) - A tool to handle the retagging of third party docker images (1 day ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (4 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (4 days ago)
+- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (1 week ago)
+- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.10.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.10.0), 1 day ago) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD)
-- 🎉 [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) ([v0.0.10](https://github.com/giantswarm/cloud-director-cli/releases/tag/v0.0.10), 1 day ago) - Simple cli tool used for talking with vcd API
-- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.0.11](https://github.com/giantswarm/clustertest/releases/tag/v0.0.11), 5 days ago) - A test framework for helping with E2E testing of cluster creation
+- 🎉 [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) ([v0.9.3](https://github.com/giantswarm/cluster-api-provider-vsphere-app/releases/tag/v0.9.3), 2 days ago) - Cluster API vSphere controller packaged as a Giant Swarm app
+- 🎉 [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ([v0.19.0](https://github.com/kubernetes-sigs/kind/releases/tag/v0.19.0), 2 days ago) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.0.12](https://github.com/giantswarm/clustertest/releases/tag/v0.0.12), 3 days ago) - A test framework for helping with E2E testing of cluster creation
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [Add default/runtime seccomp profile &#43; make PSPs optional](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/pull/53) on [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) (3 days ago)
+- 💪 [use semver matching for csi-cloud-director](https://github.com/giantswarm/retagger/pull/833) on [giantswarm/retagger](https://github.com/giantswarm/retagger) (3 days ago)
 - 💪 [Include also deployments starting with capi-](https://github.com/giantswarm/kyverno-policies-connectivity/pull/60) on [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) (1 week ago)
-- 💪 [\n -&gt; \r\n (new lines for gh comments)](https://github.com/giantswarm/tekton-resources/pull/61) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (1 week ago)
-- 💪 [k8s version bump](https://github.com/giantswarm/cluster-vsphere/pull/57) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 week ago)
-- 💪 [Don&#39;t let renovate bot to update the versions on the release pipeline](https://github.com/k8gb-io/k8gb/pull/1156) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
+- 💪 [\n -&gt; \r\n (new lines for gh comments)](https://github.com/giantswarm/tekton-resources/pull/61) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (2 weeks ago)
+- 💪 [k8s version bump](https://github.com/giantswarm/cluster-vsphere/pull/57) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
