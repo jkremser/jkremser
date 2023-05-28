@@ -17,25 +17,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 day ago)
-- :octocat: / [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app (3 days ago)
+- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (3 days ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (3 days ago)
+- :octocat: / [giantswarm/clustertest](https://github.com/giantswarm/clustertest) - A test framework for helping with E2E testing of cluster creation (3 days ago)
+- :octocat: / [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app (6 days ago)
 - :octocat: / [giantswarm/retagger](https://github.com/giantswarm/retagger) - A tool to handle the retagging of third party docker images (1 week ago)
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 week ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.11.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.11.0), 2 days ago) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD)
-- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.5.3](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.5.3), 2 days ago) - Default apps installed in VCD clusters
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.5.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.5.0), 3 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.0.13](https://github.com/giantswarm/clustertest/releases/tag/v0.0.13), 3 days ago) - A test framework for helping with E2E testing of cluster creation
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.11.1](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.11.1), 3 days ago) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD)
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.5.3](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.5.3), 5 days ago) - Default apps installed in VCD clusters
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Turn on the VPN for the cluster-test-suites repo itself (PRs on it)](https://github.com/giantswarm/tekton-resources/pull/73) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (1 day ago)
-- 💪 [Add a way to pass .spec.extraConfigs to cluster app ](https://github.com/giantswarm/clustertest/pull/35) on [giantswarm/clustertest](https://github.com/giantswarm/clustertest) (1 day ago)
-- 💪 [Add encrypt&amp;decrypt makefile targets &#43; some simple verification](https://github.com/giantswarm/tekton-resources/pull/72) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (1 day ago)
-- 💪 [Adding the correct kubeconfig for capv](https://github.com/giantswarm/tekton-resources/pull/70) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (2 days ago)
-- 💪 [Let&#39;s provide the default value also to default values.yaml](https://github.com/giantswarm/cluster-vsphere/pull/61) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (3 days ago)
+- 💪 [Remove sops stuff](https://github.com/giantswarm/tekton-resources/pull/74) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (3 days ago)
+- 💪 [Add metrics derived from vsphere infra CRs](https://github.com/giantswarm/cluster-api-monitoring-app/pull/47) on [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) (3 days ago)
+- 💪 [Turn on the VPN for the cluster-test-suites repo itself (PRs on it)](https://github.com/giantswarm/tekton-resources/pull/73) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (4 days ago)
+- 💪 [Add a way to pass .spec.extraConfigs to cluster app ](https://github.com/giantswarm/clustertest/pull/35) on [giantswarm/clustertest](https://github.com/giantswarm/clustertest) (4 days ago)
+- 💪 [Add encrypt&amp;decrypt makefile targets &#43; some simple verification](https://github.com/giantswarm/tekton-resources/pull/72) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (4 days ago)
 
 #### 📓 Gists I wrote
 
