@@ -17,24 +17,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 day ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 day ago)
 - :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (1 day ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 day ago)
-- :octocat: / [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) -  (1 day ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 day ago)
+- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) ([v1.5.0](https://github.com/giantswarm/cluster-api-monitoring-app/releases/tag/v1.5.0), 1 day ago) - 
-- 🎉 [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.8.3](https://github.com/liqotech/liqo/releases/tag/v0.8.3), 1 day ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
-- 🎉 [lima-vm/lima](https://github.com/lima-vm/lima) ([v0.16.0](https://github.com/lima-vm/lima/releases/tag/v0.16.0), 1 day ago) - Linux virtual machines, typically on macOS, for running containerd
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.3.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.3.0), 1 day ago) - 
+- 🎉 [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) ([v1.6.0](https://github.com/giantswarm/cluster-api-monitoring-app/releases/tag/v1.6.0), 1 day ago) - 
+- 🎉 [liqotech/liqo](https://github.com/liqotech/liqo) ([v0.8.3](https://github.com/liqotech/liqo/releases/tag/v0.8.3), 2 days ago) - Enable dynamic and seamless Kubernetes multi-cluster topologies
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/5) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (1 day ago)
-- 💪 [Add metrics derived from vcd infra CRs](https://github.com/giantswarm/cluster-api-monitoring-app/pull/49) on [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) (1 day ago)
-- 💪 [bump ginkgo v2.9.2 -&gt; v2.9.4](https://github.com/giantswarm/cluster-test-suites/pull/23) on [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) (1 day ago)
-- 💪 [don&#39;t merge me: testing test](https://github.com/giantswarm/cluster-vsphere/pull/65) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 day ago)
+- 💪 [Add template for pr](https://github.com/giantswarm/cluster-vsphere/pull/66) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 day ago)
+- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/7) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (1 day ago)
+- 💪 [Add very simple pr template describing the CI](https://github.com/k8gb-io/k8gb/pull/1186) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
+- 💪 [Fix 1078: don&#39;t use -i for sed (platform differences)](https://github.com/k8gb-io/k8gb/pull/1185) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
+- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/6) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -44,10 +45,10 @@
 
 #### ⭐ Recent Stars
 
-- [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2) - RKE2 bootstrap and control-plane Cluster API providers. (1 day ago)
+- [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (1 day ago)
+- [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2) - RKE2 bootstrap and control-plane Cluster API providers. (2 days ago)
 - [dkorunic/betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory (maybe) (1 month ago)
 - [Ullaakut/astronomer](https://github.com/Ullaakut/astronomer) - A tool to detect illegitimate stars from bot accounts on GitHub projects (1 month ago)
-- [giantswarm/etcd-backup-operator](https://github.com/giantswarm/etcd-backup-operator) - Creates etcd backups and uploads them to AWS S3 (1 month ago)
 
 #### 💬 Feedback
 
