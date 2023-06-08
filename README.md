@@ -7,12 +7,14 @@
 ![jkremser's github stats](https://github-readme-stats.vercel.app/api?username=jkremser&count_private=true&show_icons=true&hide_border=false&theme=tokyonight&title_color=5bcdec&bg_color=0d1117&border_radius=false) ![head](https://user-images.githubusercontent.com/535866/175570014-71166aaa-95f7-4a4f-869c-93a16481de4e.jpeg)
 
 
-![activity graph](https://activity-graph.herokuapp.com/graph?username=jkremser&theme=react-dark)
+<!-- ![activity graph](https://activity-graph.herokuapp.com/graph?username=jkremser&theme=react-dark) -->
 ![counter](https://komarev.com/ghpvc/?username=jkremser&color=5bcdec&style=for-the-badge)
 
 #### 🎖 Certificates
 <p align="left"><a href="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url">
 <img src="https://raw.githubusercontent.com/cncf/artwork/master/other/cka/color/kubernetes-cka-color.png" alt="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url" width="100" height="100"/> </a>
+<a href="https://rhtapps.redhat.com/verify/?certId=120-194-022">
+<img src="./rhca.png" alt="https://rhtapps.redhat.com/verify/?certId=120-194-022" width="100" height="100"/> </a>
 </p>
 
 #### 👷 Check out what I'm currently working on
