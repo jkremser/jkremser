@@ -22,24 +22,24 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) - Cluster API App (1 day ago)
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 day ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
-- :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (1 week ago)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 week ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 day ago)
+- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 day ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (2 days ago)
+- :octocat: / [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) - Cluster API App (2 days ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.5.1](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.5.1), 2 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.4.3](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.4.3), 3 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.5.1](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.5.1), 3 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.4.3](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.4.3), 4 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.3.1](https://github.com/giantswarm/devctl/releases/tag/v6.3.1), 1 week ago) - Command line development utility.
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add missing network policy for bootstrap-controller-manager](https://github.com/giantswarm/cluster-api-app/pull/137) on [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) (1 day ago)
-- 💪 [Add &#39;resource-policy: keep&#39; annotation on some resources so that helm won&#39;t delete them](https://github.com/giantswarm/cluster-vsphere/pull/73) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 day ago)
-- 💪 [Bump coredns](https://github.com/giantswarm/cluster-vsphere/pull/71) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (2 days ago)
-- 💪 [Add controlplane ip explicitly to certSANs list](https://github.com/giantswarm/cluster-vsphere/pull/70) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (3 days ago)
+- 💪 [Add missing network policy for bootstrap-controller-manager](https://github.com/giantswarm/cluster-api-app/pull/137) on [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) (2 days ago)
+- 💪 [Add &#39;resource-policy: keep&#39; annotation on some resources so that helm won&#39;t delete them](https://github.com/giantswarm/cluster-vsphere/pull/73) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (2 days ago)
+- 💪 [Bump coredns](https://github.com/giantswarm/cluster-vsphere/pull/71) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (3 days ago)
+- 💪 [Add controlplane ip explicitly to certSANs list](https://github.com/giantswarm/cluster-vsphere/pull/70) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (4 days ago)
 
 #### 📓 Gists I wrote
 
