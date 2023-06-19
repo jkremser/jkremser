@@ -22,22 +22,24 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/byt-vodova](https://github.com/jkremser/byt-vodova) -  (4 days ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
+- :octocat: / [jkremser/JavaScriptPlayground](https://github.com/jkremser/JavaScriptPlayground) -  (2 days ago)
+- :octocat: / [jkremser/byt-vodova](https://github.com/jkremser/byt-vodova) -  (1 week ago)
 - :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 week ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
 - :octocat: / [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) - Cluster API App (1 week ago)
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) ([v1.7.1](https://github.com/giantswarm/cluster-api-monitoring-app/releases/tag/v1.7.1), 1 day ago) - 
-- 🎉 [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ([v0.20.0](https://github.com/kubernetes-sigs/kind/releases/tag/v0.20.0), 1 day ago) - Kubernetes IN Docker - local clusters for testing Kubernetes
-- 🎉 [kube-vip/helm-charts](https://github.com/kube-vip/helm-charts) ([kube-vip-0.4.4](https://github.com/kube-vip/helm-charts/releases/tag/kube-vip-0.4.4), 2 days ago) - 
+- 🎉 [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) ([v0.1.0](https://github.com/giantswarm/cloud-director-cli/releases/tag/v0.1.0), 3 days ago) - Simple cli tool used for talking with vcd API
+- 🎉 [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) ([v1.7.1](https://github.com/giantswarm/cluster-api-monitoring-app/releases/tag/v1.7.1), 4 days ago) - 
+- 🎉 [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ([v0.20.0](https://github.com/kubernetes-sigs/kind/releases/tag/v0.20.0), 4 days ago) - Kubernetes IN Docker - local clusters for testing Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add support for mac (kustomize)](https://github.com/metal3-io/ip-address-manager/pull/267) on [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) (1 day ago)
-- 💪 [Add workload-cluster-ip kyverno policy](https://github.com/giantswarm/kyverno-policies-connectivity/pull/66) on [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) (2 days ago)
+- 💪 [[wip] Add IPAM for workload clusters ](https://github.com/giantswarm/cluster-vsphere/pull/75) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (3 days ago)
+- 💪 [Add a way to switch between existing contexts in the config file](https://github.com/giantswarm/cloud-director-cli/pull/7) on [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) (3 days ago)
+- 💪 [Add support for mac (kustomize)](https://github.com/metal3-io/ip-address-manager/pull/267) on [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) (4 days ago)
+- 💪 [Add workload-cluster-ip kyverno policy](https://github.com/giantswarm/kyverno-policies-connectivity/pull/66) on [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) (5 days ago)
 
 #### 📓 Gists I wrote
 
