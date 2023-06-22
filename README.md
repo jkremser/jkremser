@@ -22,35 +22,36 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/JavaScriptPlayground](https://github.com/jkremser/JavaScriptPlayground) -  (2 days ago)
-- :octocat: / [jkremser/byt-vodova](https://github.com/jkremser/byt-vodova) -  (1 week ago)
-- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 week ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
-- :octocat: / [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) - Cluster API App (1 week ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 days ago)
+- :octocat: / [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) - Simple cli tool used for talking with vcd API (2 days ago)
+- :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) -  (2 days ago)
+- :octocat: / [jkremser/JavaScriptPlayground](https://github.com/jkremser/JavaScriptPlayground) -  (5 days ago)
+- :octocat: / [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) - IP address Manager for Cluster API Provider Metal3 (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) ([v0.1.0](https://github.com/giantswarm/cloud-director-cli/releases/tag/v0.1.0), 3 days ago) - Simple cli tool used for talking with vcd API
-- 🎉 [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) ([v1.7.1](https://github.com/giantswarm/cluster-api-monitoring-app/releases/tag/v1.7.1), 4 days ago) - 
-- 🎉 [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ([v0.20.0](https://github.com/kubernetes-sigs/kind/releases/tag/v0.20.0), 4 days ago) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- 🎉 [giantswarm/cloud-provider-cloud-director-app](https://github.com/giantswarm/cloud-provider-cloud-director-app) ([v0.2.8](https://github.com/giantswarm/cloud-provider-cloud-director-app/releases/tag/v0.2.8), 1 day ago) - Contains the CSI and CPI for VMware Cloud Director (VCD)
+- 🎉 [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.11.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.11.0), 2 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- 🎉 [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) ([v0.2.0](https://github.com/giantswarm/cloud-director-cli/releases/tag/v0.2.0), 2 days ago) - Simple cli tool used for talking with vcd API
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [[wip] Add IPAM for workload clusters ](https://github.com/giantswarm/cluster-vsphere/pull/75) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (3 days ago)
-- 💪 [Add a way to switch between existing contexts in the config file](https://github.com/giantswarm/cloud-director-cli/pull/7) on [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) (3 days ago)
-- 💪 [Add support for mac (kustomize)](https://github.com/metal3-io/ip-address-manager/pull/267) on [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) (4 days ago)
-- 💪 [Add workload-cluster-ip kyverno policy](https://github.com/giantswarm/kyverno-policies-connectivity/pull/66) on [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) (5 days ago)
+- 💪 [devctl gen renovate -l go -i &#39;after 4am on sunday&#39;](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/2) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (2 days ago)
+- 💪 [Readme](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/1) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (2 days ago)
+- 💪 [[wip] Add IPAM for workload clusters ](https://github.com/giantswarm/cluster-vsphere/pull/75) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (6 days ago)
+- 💪 [Add a way to switch between existing contexts in the config file](https://github.com/giantswarm/cloud-director-cli/pull/7) on [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) (6 days ago)
+- 💪 [Add support for mac (kustomize)](https://github.com/metal3-io/ip-address-manager/pull/267) on [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (2 weeks ago)
+- [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (3 weeks ago)
 - [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (2 months ago)
 - [no description](https://gist.github.com/7fb07237a9c75a81cb03dd87ee181b13) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (2 weeks ago)
-- [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2) - RKE2 bootstrap and control-plane Cluster API providers. (2 weeks ago)
+- [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (3 weeks ago)
+- [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2) - RKE2 bootstrap and control-plane Cluster API providers. (3 weeks ago)
 - [dkorunic/betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory (maybe) (2 months ago)
 - [Ullaakut/astronomer](https://github.com/Ullaakut/astronomer) - A tool to detect illegitimate stars from bot accounts on GitHub projects (2 months ago)
 
