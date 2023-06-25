@@ -22,25 +22,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 days ago)
-- :octocat: / [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) - Simple cli tool used for talking with vcd API (2 days ago)
 - :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) -  (2 days ago)
-- :octocat: / [jkremser/JavaScriptPlayground](https://github.com/jkremser/JavaScriptPlayground) -  (5 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 days ago)
+- :octocat: / [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) - Simple cli tool used for talking with vcd API (5 days ago)
+- :octocat: / [jkremser/JavaScriptPlayground](https://github.com/jkremser/JavaScriptPlayground) -  (1 week ago)
 - :octocat: / [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) - IP address Manager for Cluster API Provider Metal3 (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cloud-provider-cloud-director-app](https://github.com/giantswarm/cloud-provider-cloud-director-app) ([v0.2.8](https://github.com/giantswarm/cloud-provider-cloud-director-app/releases/tag/v0.2.8), 1 day ago) - Contains the CSI and CPI for VMware Cloud Director (VCD)
-- 🎉 [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.11.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.11.0), 2 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- 🎉 [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) ([v0.2.0](https://github.com/giantswarm/cloud-director-cli/releases/tag/v0.2.0), 2 days ago) - Simple cli tool used for talking with vcd API
+- 🎉 [giantswarm/cloud-provider-cloud-director-app](https://github.com/giantswarm/cloud-provider-cloud-director-app) ([v0.2.8](https://github.com/giantswarm/cloud-provider-cloud-director-app/releases/tag/v0.2.8), 4 days ago) - Contains the CSI and CPI for VMware Cloud Director (VCD)
+- 🎉 [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.11.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.11.0), 5 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+- 🎉 [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) ([v0.2.0](https://github.com/giantswarm/cloud-director-cli/releases/tag/v0.2.0), 5 days ago) - Simple cli tool used for talking with vcd API
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [devctl gen renovate -l go -i &#39;after 4am on sunday&#39;](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/2) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (2 days ago)
-- 💪 [Readme](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/1) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (2 days ago)
-- 💪 [[wip] Add IPAM for workload clusters ](https://github.com/giantswarm/cluster-vsphere/pull/75) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (6 days ago)
-- 💪 [Add a way to switch between existing contexts in the config file](https://github.com/giantswarm/cloud-director-cli/pull/7) on [giantswarm/cloud-director-cli](https://github.com/giantswarm/cloud-director-cli) (6 days ago)
-- 💪 [Add support for mac (kustomize)](https://github.com/metal3-io/ip-address-manager/pull/267) on [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) (1 week ago)
+- 💪 [circle ci manifest](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/3) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (2 days ago)
 
 #### 📓 Gists I wrote
 
