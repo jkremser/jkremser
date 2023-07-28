@@ -22,31 +22,31 @@
 
 #### 👷 Check out what I'm currently working on
 
+- :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (1 day ago)
+- :octocat: / [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app (1 day ago)
+- :octocat: / [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) - Cluster API vSphere controller packaged as a Giant Swarm app (2 days ago)
+- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD) (2 days ago)
 - :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (1 week ago)
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 week ago)
-- :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (1 week ago)
-- :octocat: / [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) - Cluster API vSphere controller packaged as a Giant Swarm app (1 week ago)
-- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) ([v1.7.1](https://github.com/giantswarm/cluster-api-app/releases/tag/v1.7.1), 1 day ago) - Cluster API App
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.7.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.7.0), 5 days ago) - 
-- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.0.18](https://github.com/giantswarm/clustertest/releases/tag/v0.0.18), 5 days ago) - A test framework for helping with E2E testing of cluster creation
+- 🎉 [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) ([v0.0.11](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/releases/tag/v0.0.11), 1 day ago) - simple controller for IpAddressClaim
+- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.1.0](https://github.com/giantswarm/clustertest/releases/tag/v0.1.0), 1 day ago) - A test framework for helping with E2E testing of cluster creation
+- 🎉 [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) ([v1.13.0](https://github.com/giantswarm/cluster-api-app/releases/tag/v1.13.0), 1 day ago) - Cluster API App
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Capv auto ip2](https://github.com/giantswarm/cluster-test-suites/pull/35) on [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) (1 week ago)
-- 💪 [Enable capv tests &amp; let the IPAM in gcapeverde assign the IP for wc&#39;s control plane](https://github.com/giantswarm/cluster-test-suites/pull/34) on [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) (1 week ago)
-- 💪 [Update kubeconfig for gcapeverde](https://github.com/giantswarm/tekton-resources/pull/92) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (1 week ago)
-- 💪 [InClusterIPPool -&gt; GlobalInClusterIPPool (namespace scope not required)](https://github.com/giantswarm/cluster-vsphere/pull/82) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 week ago)
-- 💪 [InClusterIPPool -&gt; GlobalInClusterIPPool (namespace scope not required)](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/21) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (1 week ago)
+- 💪 [Fix cross-namespace IpAddressClaims referencing the same GlobalInCluserIPPool](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/25) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (2 days ago)
+- 💪 [:bug: Make sure the ListAddressesInUse doesn&#39;t take the namespace into account for GlobalInClusterIPPools](https://github.com/kubernetes-sigs/cluster-api-ipam-provider-in-cluster/pull/176) on [kubernetes-sigs/cluster-api-ipam-provider-in-cluster](https://github.com/kubernetes-sigs/cluster-api-ipam-provider-in-cluster) (2 days ago)
+- 💪 [Fix the gh action that detects the drift](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/71) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (2 days ago)
+- 💪 [Test pr (ok)](https://github.com/jkremser/cluster-api-provider-vsphere-app/pull/2) on [jkremser/cluster-api-provider-vsphere-app](https://github.com/jkremser/cluster-api-provider-vsphere-app) (2 days ago)
+- 💪 [Test pr (not ok)](https://github.com/jkremser/cluster-api-provider-vsphere-app/pull/1) on [jkremser/cluster-api-provider-vsphere-app](https://github.com/jkremser/cluster-api-provider-vsphere-app) (2 days ago)
 
 #### 📓 Gists I wrote
 
 - [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (1 month ago)
 - [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (3 months ago)
-- [no description](https://gist.github.com/7fb07237a9c75a81cb03dd87ee181b13) (3 months ago)
+- [no description](https://gist.github.com/7fb07237a9c75a81cb03dd87ee181b13) (4 months ago)
 
 #### ⭐ Recent Stars
 
