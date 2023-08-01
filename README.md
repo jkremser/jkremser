@@ -22,23 +22,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (4 days ago)
-- :octocat: / [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app (4 days ago)
-- :octocat: / [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) - Cluster API vSphere controller packaged as a Giant Swarm app (5 days ago)
-- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD) (5 days ago)
+- :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (5 days ago)
+- :octocat: / [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app (5 days ago)
+- :octocat: / [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) - Cluster API vSphere controller packaged as a Giant Swarm app (6 days ago)
+- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD) (6 days ago)
 - :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.1.1](https://github.com/giantswarm/clustertest/releases/tag/v0.1.1), 3 days ago) - A test framework for helping with E2E testing of cluster creation
-- 🎉 [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) ([v0.0.11](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/releases/tag/v0.0.11), 4 days ago) - simple controller for IpAddressClaim
-- 🎉 [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) ([v1.13.0](https://github.com/giantswarm/cluster-api-app/releases/tag/v1.13.0), 4 days ago) - Cluster API App
+- 🎉 [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) ([v0.5.0](https://github.com/giantswarm/kyverno-policies-connectivity/releases/tag/v0.5.0), 1 day ago) - Kyverno policies for managing connectivity in Giant Swarm clusters.
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.13.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.13.0), 1 day ago) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD)
+- 🎉 [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) ([v0.10.1](https://github.com/giantswarm/cluster-api-provider-vsphere-app/releases/tag/v0.10.1), 1 day ago) - Cluster API vSphere controller packaged as a Giant Swarm app
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add the gh action that detects the drift in manifests](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/pull/68) on [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) (3 days ago)
-- 💪 [Fix cross-namespace IpAddressClaims referencing the same GlobalInCluserIPPool](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/25) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (5 days ago)
-- 💪 [:bug: Make sure the ListAddressesInUse doesn&#39;t take the namespace into account for GlobalInClusterIPPools](https://github.com/kubernetes-sigs/cluster-api-ipam-provider-in-cluster/pull/176) on [kubernetes-sigs/cluster-api-ipam-provider-in-cluster](https://github.com/kubernetes-sigs/cluster-api-ipam-provider-in-cluster) (5 days ago)
+- 💪 [Add the gh action that detects the drift in manifests](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/pull/68) on [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) (4 days ago)
+- 💪 [Fix cross-namespace IpAddressClaims referencing the same GlobalInCluserIPPool](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/25) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (6 days ago)
+- 💪 [:bug: Make sure the ListAddressesInUse doesn&#39;t take the namespace into account for GlobalInClusterIPPools](https://github.com/kubernetes-sigs/cluster-api-ipam-provider-in-cluster/pull/176) on [kubernetes-sigs/cluster-api-ipam-provider-in-cluster](https://github.com/kubernetes-sigs/cluster-api-ipam-provider-in-cluster) (6 days ago)
 
 #### 📓 Gists I wrote
 
