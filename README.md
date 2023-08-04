@@ -22,23 +22,24 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (5 days ago)
-- :octocat: / [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app (5 days ago)
-- :octocat: / [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) - Cluster API vSphere controller packaged as a Giant Swarm app (6 days ago)
-- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD) (6 days ago)
-- :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (2 weeks ago)
+- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (1 day ago)
+- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (1 day ago)
+- :octocat: / [giantswarm/capv-clusters-fleet](https://github.com/giantswarm/capv-clusters-fleet) -  (2 days ago)
+- :octocat: / [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app (3 days ago)
+- :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) ([v0.5.0](https://github.com/giantswarm/kyverno-policies-connectivity/releases/tag/v0.5.0), 1 day ago) - Kyverno policies for managing connectivity in Giant Swarm clusters.
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.13.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.13.0), 1 day ago) - Helm chart for deploying Kubernetes clusters on VMware Cloud Director (VCD)
-- 🎉 [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) ([v0.10.1](https://github.com/giantswarm/cluster-api-provider-vsphere-app/releases/tag/v0.10.1), 1 day ago) - Cluster API vSphere controller packaged as a Giant Swarm app
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.6.0](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.6.0), 1 day ago) - Default apps installed in VCD clusters
+- 🎉 [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) ([v0.10.1](https://github.com/giantswarm/default-apps-vsphere/releases/tag/v0.10.1), 1 day ago) - Default apps installed in vSphere clusters
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.6.2](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.6.2), 1 day ago) - Helm chart for deploying Kubernetes clusters on VSphere
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add the gh action that detects the drift in manifests](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/pull/68) on [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) (4 days ago)
-- 💪 [Fix cross-namespace IpAddressClaims referencing the same GlobalInCluserIPPool](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/25) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (6 days ago)
-- 💪 [:bug: Make sure the ListAddressesInUse doesn&#39;t take the namespace into account for GlobalInClusterIPPools](https://github.com/kubernetes-sigs/cluster-api-ipam-provider-in-cluster/pull/176) on [kubernetes-sigs/cluster-api-ipam-provider-in-cluster](https://github.com/kubernetes-sigs/cluster-api-ipam-provider-in-cluster) (6 days ago)
+- 💪 [Update kubeconfig for gcapeverde (cluster was re-created)](https://github.com/giantswarm/tekton-resources/pull/109) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (1 day ago)
+- 💪 [Automate kubeconfig renewal](https://github.com/giantswarm/tekton-resources/pull/108) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (1 day ago)
+- 💪 [Remove invalid kubeconfig](https://github.com/giantswarm/kyverno-policies-connectivity/pull/75) on [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) (1 day ago)
+- 💪 [sort](https://github.com/giantswarm/capv-clusters-fleet/pull/1) on [giantswarm/capv-clusters-fleet](https://github.com/giantswarm/capv-clusters-fleet) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -51,7 +52,7 @@
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (2 months ago)
 - [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2) - RKE2 bootstrap and control-plane Cluster API providers. (2 months ago)
 - [dkorunic/betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory (maybe) (3 months ago)
-- [Ullaakut/astronomer](https://github.com/Ullaakut/astronomer) - A tool to detect illegitimate stars from bot accounts on GitHub projects (3 months ago)
+- [Ullaakut/astronomer](https://github.com/Ullaakut/astronomer) - A tool to detect illegitimate stars from bot accounts on GitHub projects (4 months ago)
 
 #### 💬 Feedback
 
