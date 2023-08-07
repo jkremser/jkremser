@@ -22,24 +22,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (1 day ago)
-- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (1 day ago)
-- :octocat: / [giantswarm/capv-clusters-fleet](https://github.com/giantswarm/capv-clusters-fleet) -  (2 days ago)
-- :octocat: / [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app (3 days ago)
-- :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (1 week ago)
+- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (3 days ago)
+- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (3 days ago)
+- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (4 days ago)
+- :octocat: / [giantswarm/capv-clusters-fleet](https://github.com/giantswarm/capv-clusters-fleet) -  (5 days ago)
+- :octocat: / [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.6.0](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.6.0), 1 day ago) - Default apps installed in VCD clusters
-- 🎉 [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) ([v0.10.1](https://github.com/giantswarm/default-apps-vsphere/releases/tag/v0.10.1), 1 day ago) - Default apps installed in vSphere clusters
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.6.2](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.6.2), 1 day ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) ([v0.5.2](https://github.com/giantswarm/kyverno-policies-connectivity/releases/tag/v0.5.2), 3 days ago) - Kyverno policies for managing connectivity in Giant Swarm clusters.
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.11.2](https://github.com/k8gb-io/k8gb/releases/tag/v0.11.2), 3 days ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.6.0](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.6.0), 4 days ago) - Default apps installed in VCD clusters
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update kubeconfig for gcapeverde (cluster was re-created)](https://github.com/giantswarm/tekton-resources/pull/109) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (1 day ago)
-- 💪 [Automate kubeconfig renewal](https://github.com/giantswarm/tekton-resources/pull/108) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (1 day ago)
-- 💪 [Remove invalid kubeconfig](https://github.com/giantswarm/kyverno-policies-connectivity/pull/75) on [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) (1 day ago)
-- 💪 [sort](https://github.com/giantswarm/capv-clusters-fleet/pull/1) on [giantswarm/capv-clusters-fleet](https://github.com/giantswarm/capv-clusters-fleet) (2 days ago)
+- 💪 [Forgot to comment out the example ip range](https://github.com/giantswarm/kyverno-policies-connectivity/pull/77) on [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) (3 days ago)
+- 💪 [Update kubeconfig for gcapeverde (cluster was re-created)](https://github.com/giantswarm/tekton-resources/pull/109) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (4 days ago)
+- 💪 [Automate kubeconfig renewal](https://github.com/giantswarm/tekton-resources/pull/108) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (4 days ago)
 
 #### 📓 Gists I wrote
 
