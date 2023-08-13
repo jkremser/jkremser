@@ -22,34 +22,35 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 day ago)
-- :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (2 days ago)
-- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (6 days ago)
-- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (6 days ago)
-- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (1 week ago)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 days ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 days ago)
+- :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (5 days ago)
+- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (1 week ago)
+- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) ([v1.14.0](https://github.com/giantswarm/cluster-api-app/releases/tag/v1.14.0), 1 day ago) - Cluster API App
-- 🎉 [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) ([v0.0.12](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/releases/tag/v0.0.12), 2 days ago) - simple controller for IpAddressClaim
-- 🎉 [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) ([v1.8.0](https://github.com/giantswarm/cluster-api-monitoring-app/releases/tag/v1.8.0), 3 days ago) - 
+- 🎉 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) ([6.4.1](https://github.com/stefanprodan/podinfo/releases/tag/6.4.1), 3 days ago) - Go microservice template for Kubernetes
+- 🎉 [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) ([v1.14.0](https://github.com/giantswarm/cluster-api-app/releases/tag/v1.14.0), 4 days ago) - Cluster API App
+- 🎉 [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) ([v0.0.12](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/releases/tag/v0.0.12), 5 days ago) - simple controller for IpAddressClaim
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Blog post](https://github.com/jkremser/web/pull/2) on [jkremser/web](https://github.com/jkremser/web) (1 day ago)
-- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/8) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (1 day ago)
-- 💪 [Blog post](https://github.com/jkremser/web/pull/1) on [jkremser/web](https://github.com/jkremser/web) (1 day ago)
-- 💪 [netpol for webhooks: the previous selector was not sufficient](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/27) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (2 days ago)
+- 💪 [Fix missing apiVersion in manifest](https://github.com/giantswarm/kyverno-policies-connectivity/pull/80) on [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) (2 days ago)
+- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/9) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (3 days ago)
+- 💪 [Blog post](https://github.com/jkremser/web/pull/2) on [jkremser/web](https://github.com/jkremser/web) (4 days ago)
+- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/8) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (4 days ago)
+- 💪 [Blog post](https://github.com/jkremser/web/pull/1) on [jkremser/web](https://github.com/jkremser/web) (4 days ago)
 
 #### 📓 Gists I wrote
 
+- [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (1 week ago)
 - [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (2 months ago)
 - [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (4 months ago)
-- [no description](https://gist.github.com/7fb07237a9c75a81cb03dd87ee181b13) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 day ago)
+- [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (4 days ago)
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (2 months ago)
 - [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2) - RKE2 bootstrap and control-plane Cluster API providers. (2 months ago)
 - [dkorunic/betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory (maybe) (4 months ago)
