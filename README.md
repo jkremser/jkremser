@@ -22,22 +22,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (2 days ago)
-- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (2 days ago)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (6 days ago)
-- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (6 days ago)
+- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (5 days ago)
+- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (5 days ago)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 week ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 week ago)
 - :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) ([v0.7.0](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/releases/tag/v0.7.0), 1 day ago) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app
-- 🎉 [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) ([v0.5.3](https://github.com/giantswarm/kyverno-policies-connectivity/releases/tag/v0.5.3), 2 days ago) - Kyverno policies for managing connectivity in Giant Swarm clusters.
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.8.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.8.0), 2 days ago) - 
+- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.7.0](https://github.com/giantswarm/devctl/releases/tag/v6.7.0), 1 day ago) - CLI for common development tasks at Giant Swarm
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.7.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.7.0), 2 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.2.0](https://github.com/giantswarm/clustertest/releases/tag/v0.2.0), 2 days ago) - A test framework for helping with E2E testing of cluster creation
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Fix missing apiVersion in manifest](https://github.com/giantswarm/kyverno-policies-connectivity/pull/80) on [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) (5 days ago)
-- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/9) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (6 days ago)
+- 💪 [Fix missing apiVersion in manifest](https://github.com/giantswarm/kyverno-policies-connectivity/pull/80) on [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) (1 week ago)
+- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/9) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (1 week ago)
 - 💪 [Blog post](https://github.com/jkremser/web/pull/2) on [jkremser/web](https://github.com/jkremser/web) (1 week ago)
 - 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/8) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (1 week ago)
 - 💪 [Blog post](https://github.com/jkremser/web/pull/1) on [jkremser/web](https://github.com/jkremser/web) (1 week ago)
