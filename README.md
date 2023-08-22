@@ -22,17 +22,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (5 days ago)
-- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (5 days ago)
+- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 week ago)
+- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (1 week ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 week ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 week ago)
-- :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (1 week ago)
+- :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.7.0](https://github.com/giantswarm/devctl/releases/tag/v6.7.0), 1 day ago) - CLI for common development tasks at Giant Swarm
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.7.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.7.0), 2 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.2.0](https://github.com/giantswarm/clustertest/releases/tag/v0.2.0), 2 days ago) - A test framework for helping with E2E testing of cluster creation
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.9.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.9.0), 1 day ago) - 
+- 🎉 [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.3.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.3.3), 1 day ago) - IP address Manager for Cluster API Provider Metal3
+- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.7.0](https://github.com/giantswarm/devctl/releases/tag/v6.7.0), 4 days ago) - CLI for common development tasks at Giant Swarm
 
 #### 🔨 My recent Pull Requests
 
