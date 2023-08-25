@@ -24,33 +24,33 @@
 
 - :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 week ago)
 - :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (1 week ago)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 week ago)
-- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 week ago)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (2 weeks ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (2 weeks ago)
 - :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.9.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.9.0), 1 day ago) - 
-- 🎉 [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.3.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.3.3), 1 day ago) - IP address Manager for Cluster API Provider Metal3
-- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.7.0](https://github.com/giantswarm/devctl/releases/tag/v6.7.0), 4 days ago) - CLI for common development tasks at Giant Swarm
+- 🎉 [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) ([v0.7.1](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/releases/tag/v0.7.1), 1 day ago) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app
+- 🎉 [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) ([v0.3.1](https://github.com/giantswarm/cluster-api-cleaner-cloud-director/releases/tag/v0.3.1), 1 day ago) - Cleans up the resources that are left behind by the capvcd provider
+- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.3.0](https://github.com/giantswarm/clustertest/releases/tag/v0.3.0), 1 day ago) - A test framework for helping with E2E testing of cluster creation
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Fix missing apiVersion in manifest](https://github.com/giantswarm/kyverno-policies-connectivity/pull/80) on [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) (1 week ago)
-- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/9) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (1 week ago)
-- 💪 [Blog post](https://github.com/jkremser/web/pull/2) on [jkremser/web](https://github.com/jkremser/web) (1 week ago)
-- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/8) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (1 week ago)
-- 💪 [Blog post](https://github.com/jkremser/web/pull/1) on [jkremser/web](https://github.com/jkremser/web) (1 week ago)
+- 💪 [Fix missing apiVersion in manifest](https://github.com/giantswarm/kyverno-policies-connectivity/pull/80) on [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) (2 weeks ago)
+- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/9) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (2 weeks ago)
+- 💪 [Blog post](https://github.com/jkremser/web/pull/2) on [jkremser/web](https://github.com/jkremser/web) (2 weeks ago)
+- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/8) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (2 weeks ago)
+- 💪 [Blog post](https://github.com/jkremser/web/pull/1) on [jkremser/web](https://github.com/jkremser/web) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
-- [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (2 weeks ago)
+- [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (3 weeks ago)
 - [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (2 months ago)
 - [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 week ago)
+- [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (2 weeks ago)
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (2 months ago)
 - [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2) - RKE2 bootstrap and control-plane Cluster API providers. (2 months ago)
 - [dkorunic/betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory (maybe) (4 months ago)
