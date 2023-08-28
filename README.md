@@ -22,17 +22,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 week ago)
-- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (1 week ago)
+- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (2 weeks ago)
+- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (2 weeks ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (2 weeks ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (2 weeks ago)
 - :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) ([v0.7.1](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/releases/tag/v0.7.1), 1 day ago) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app
-- 🎉 [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) ([v0.3.1](https://github.com/giantswarm/cluster-api-cleaner-cloud-director/releases/tag/v0.3.1), 1 day ago) - Cleans up the resources that are left behind by the capvcd provider
-- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.3.0](https://github.com/giantswarm/clustertest/releases/tag/v0.3.0), 1 day ago) - A test framework for helping with E2E testing of cluster creation
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.6.1](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.6.1), 3 days ago) - Default apps installed in VCD clusters
+- 🎉 [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.4.2](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.4.2), 3 days ago) - IP address Manager for Cluster API Provider Metal3
+- 🎉 [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) ([v0.7.1](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/releases/tag/v0.7.1), 4 days ago) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app
 
 #### 🔨 My recent Pull Requests
 
@@ -52,7 +52,7 @@
 
 - [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (2 weeks ago)
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (2 months ago)
-- [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2) - RKE2 bootstrap and control-plane Cluster API providers. (2 months ago)
+- [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2) - RKE2 bootstrap and control-plane Cluster API providers. (3 months ago)
 - [dkorunic/betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory (maybe) (4 months ago)
 
 #### 💬 Feedback
