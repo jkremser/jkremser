@@ -30,13 +30,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.5.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.5.0), 1 day ago) - IP address Manager for Cluster API Provider Metal3
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.11.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.11.0), 2 days ago) - 
-- 🎉 [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) ([v0.10.2](https://github.com/giantswarm/default-apps-vsphere/releases/tag/v0.10.2), 2 days ago) - Default apps installed in vSphere clusters
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.11.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.11.1), 1 day ago) - 
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.6.2](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.6.2), 1 day ago) - Default apps installed in VCD clusters
+- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.3.1](https://github.com/giantswarm/clustertest/releases/tag/v0.3.1), 1 day ago) - A test framework for helping with E2E testing of cluster creation
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Fix missing apiVersion in manifest](https://github.com/giantswarm/kyverno-policies-connectivity/pull/80) on [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) (2 weeks ago)
+- 💪 [Fix missing apiVersion in manifest](https://github.com/giantswarm/kyverno-policies-connectivity/pull/80) on [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) (3 weeks ago)
 - 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/9) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (3 weeks ago)
 - 💪 [Blog post](https://github.com/jkremser/web/pull/2) on [jkremser/web](https://github.com/jkremser/web) (3 weeks ago)
 - 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/8) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (3 weeks ago)
@@ -44,7 +44,7 @@
 
 #### 📓 Gists I wrote
 
-- [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (4 weeks ago)
+- [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (1 month ago)
 - [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (3 months ago)
 - [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (4 months ago)
 
