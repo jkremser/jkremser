@@ -22,17 +22,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (2 weeks ago)
-- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (2 weeks ago)
+- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (3 weeks ago)
+- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (3 weeks ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 weeks ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 weeks ago)
 - :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.11.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.11.1), 1 day ago) - 
-- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.6.2](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.6.2), 1 day ago) - Default apps installed in VCD clusters
-- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.3.1](https://github.com/giantswarm/clustertest/releases/tag/v0.3.1), 1 day ago) - A test framework for helping with E2E testing of cluster creation
+- 🎉 [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) ([v0.11.0](https://github.com/giantswarm/default-apps-vsphere/releases/tag/v0.11.0), 3 days ago) - Default apps installed in vSphere clusters
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.11.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.11.1), 4 days ago) - 
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.6.2](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.6.2), 4 days ago) - Default apps installed in VCD clusters
 
 #### 🔨 My recent Pull Requests
 
