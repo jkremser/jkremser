@@ -22,24 +22,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (3 weeks ago)
-- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (3 weeks ago)
+- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 month ago)
+- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (1 month ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 month ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 month ago)
 - :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.11.4](https://github.com/k8gb-io/k8gb/releases/tag/v0.11.4), 3 days ago) - A cloud native Kubernetes Global Balancer
-- 🎉 [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ([v3.12.0](https://github.com/kubernetes-sigs/kubebuilder/releases/tag/v3.12.0), 4 days ago) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.7.1](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.7.1), 6 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.12.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.12.1), 1 day ago) - 
+- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.4.0](https://github.com/giantswarm/clustertest/releases/tag/v0.4.0), 1 day ago) - A test framework for helping with E2E testing of cluster creation
+- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.8.0](https://github.com/giantswarm/devctl/releases/tag/v6.8.0), 1 day ago) - CLI for common development tasks at Giant Swarm
 
 #### 🔨 My recent Pull Requests
 
 - 💪 [Fix missing apiVersion in manifest](https://github.com/giantswarm/kyverno-policies-connectivity/pull/80) on [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) (1 month ago)
 - 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/9) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (1 month ago)
 - 💪 [Blog post](https://github.com/jkremser/web/pull/2) on [jkremser/web](https://github.com/jkremser/web) (1 month ago)
-- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/8) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (1 month ago)
 
 #### 📓 Gists I wrote
 
