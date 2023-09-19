@@ -22,17 +22,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (5 days ago)
 - :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 month ago)
 - :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (1 month ago)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 month ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 month ago)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.13.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.13.0), 1 day ago) - 
-- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.7.0](https://github.com/giantswarm/clustertest/releases/tag/v0.7.0), 1 day ago) - A test framework for helping with E2E testing of cluster creation
-- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.10.0](https://github.com/giantswarm/devctl/releases/tag/v6.10.0), 1 day ago) - CLI for common development tasks at Giant Swarm
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.13.1](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.13.1), 1 day ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.13.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.13.0), 4 days ago) - 
+- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.7.0](https://github.com/giantswarm/clustertest/releases/tag/v0.7.0), 4 days ago) - A test framework for helping with E2E testing of cluster creation
 
 #### 🔨 My recent Pull Requests
 
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (1 day ago)
+- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (4 days ago)
 - [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 month ago)
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (3 months ago)
 - [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2) - RKE2 bootstrap and control-plane Cluster API providers. (3 months ago)
