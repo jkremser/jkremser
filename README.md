@@ -22,22 +22,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (5 days ago)
-- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 month ago)
+- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (3 days ago)
+- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (3 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
 - :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (1 month ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 month ago)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.13.1](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.13.1), 1 day ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.13.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.13.0), 4 days ago) - 
-- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.7.0](https://github.com/giantswarm/clustertest/releases/tag/v0.7.0), 4 days ago) - A test framework for helping with E2E testing of cluster creation
+- 🎉 [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) ([v0.11.1](https://github.com/giantswarm/default-apps-vsphere/releases/tag/v0.11.1), 1 day ago) - Default apps installed in vSphere clusters
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.6.3](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.6.3), 2 days ago) - Default apps installed in VCD clusters
+- 🎉 [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) ([v1.14.1](https://github.com/giantswarm/cluster-api-app/releases/tag/v1.14.1), 2 days ago) - Cluster API App
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Fix missing apiVersion in manifest](https://github.com/giantswarm/kyverno-policies-connectivity/pull/80) on [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) (1 month ago)
-- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/9) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (1 month ago)
+- 💪 [Update kubeconfig for gcapeverde (cluster was re-created)](https://github.com/giantswarm/tekton-resources/pull/143) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (3 days ago)
+- 💪 [Add the annotation back to prevent paging about node-exporter not bei…](https://github.com/giantswarm/default-apps-vsphere/pull/129) on [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (4 days ago)
+- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (1 week ago)
 - [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 month ago)
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (3 months ago)
 - [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2) - RKE2 bootstrap and control-plane Cluster API providers. (3 months ago)
