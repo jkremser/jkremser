@@ -22,22 +22,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (3 days ago)
-- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (3 days ago)
+- :octocat: / [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) - Default apps installed in VCD clusters (3 days ago)
+- :octocat: / [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) - Cleans up the resources that are left behind by the capvcd provider (3 days ago)
+- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (6 days ago)
+- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (6 days ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
-- :octocat: / [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) - Kyverno policies for managing connectivity in Giant Swarm clusters. (1 month ago)
-- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) ([v0.11.1](https://github.com/giantswarm/default-apps-vsphere/releases/tag/v0.11.1), 1 day ago) - Default apps installed in vSphere clusters
-- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.6.3](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.6.3), 2 days ago) - Default apps installed in VCD clusters
-- 🎉 [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) ([v1.14.1](https://github.com/giantswarm/cluster-api-app/releases/tag/v1.14.1), 2 days ago) - Cluster API App
+- 🎉 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) ([6.5.0](https://github.com/stefanprodan/podinfo/releases/tag/6.5.0), 2 days ago) - Go microservice template for Kubernetes
+- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.11.0](https://github.com/giantswarm/devctl/releases/tag/v6.11.0), 3 days ago) - CLI for common development tasks at Giant Swarm
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.6.4](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.6.4), 3 days ago) - Default apps installed in VCD clusters
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update kubeconfig for gcapeverde (cluster was re-created)](https://github.com/giantswarm/tekton-resources/pull/143) on [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) (3 days ago)
-- 💪 [Add the annotation back to prevent paging about node-exporter not bei…](https://github.com/giantswarm/default-apps-vsphere/pull/129) on [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) (3 days ago)
+- 💪 [Add the annotation back to prevent paging about node-exporter not bei…](https://github.com/giantswarm/default-apps-cloud-director/pull/172) on [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) (3 days ago)
 
 #### 📓 Gists I wrote
 
