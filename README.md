@@ -22,21 +22,20 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) - Default apps installed in VCD clusters (3 days ago)
-- :octocat: / [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) - Cleans up the resources that are left behind by the capvcd provider (3 days ago)
-- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (6 days ago)
-- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (6 days ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
+- :octocat: / [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) - Default apps installed in VCD clusters (6 days ago)
+- :octocat: / [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) - Cleans up the resources that are left behind by the capvcd provider (6 days ago)
+- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 week ago)
+- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (1 week ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) ([6.5.0](https://github.com/stefanprodan/podinfo/releases/tag/6.5.0), 2 days ago) - Go microservice template for Kubernetes
-- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.11.0](https://github.com/giantswarm/devctl/releases/tag/v6.11.0), 3 days ago) - CLI for common development tasks at Giant Swarm
-- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.6.4](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.6.4), 3 days ago) - Default apps installed in VCD clusters
+- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.8.0](https://github.com/giantswarm/clustertest/releases/tag/v0.8.0), 1 day ago) - A test framework for helping with E2E testing of cluster creation
+- 🎉 [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.3.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.3.4), 2 days ago) - IP address Manager for Cluster API Provider Metal3
+- 🎉 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) ([6.5.0](https://github.com/stefanprodan/podinfo/releases/tag/6.5.0), 5 days ago) - Go microservice template for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add the annotation back to prevent paging about node-exporter not bei…](https://github.com/giantswarm/default-apps-cloud-director/pull/172) on [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -48,8 +47,8 @@
 
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (1 week ago)
 - [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 month ago)
-- [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (3 months ago)
-- [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2) - RKE2 bootstrap and control-plane Cluster API providers. (3 months ago)
+- [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (4 months ago)
+- [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2) - RKE2 bootstrap and control-plane Cluster API providers. (4 months ago)
 
 #### 💬 Feedback
 
