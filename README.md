@@ -22,30 +22,35 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) - Default apps installed in VCD clusters (6 days ago)
-- :octocat: / [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) - Cleans up the resources that are left behind by the capvcd provider (6 days ago)
+- :octocat: / [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) - Default apps installed in VCD clusters (1 week ago)
+- :octocat: / [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) - Cleans up the resources that are left behind by the capvcd provider (1 week ago)
 - :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 week ago)
 - :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (1 week ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.8.0](https://github.com/giantswarm/clustertest/releases/tag/v0.8.0), 1 day ago) - A test framework for helping with E2E testing of cluster creation
-- 🎉 [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.3.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.3.4), 2 days ago) - IP address Manager for Cluster API Provider Metal3
-- 🎉 [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) ([6.5.0](https://github.com/stefanprodan/podinfo/releases/tag/6.5.0), 5 days ago) - Go microservice template for Kubernetes
+- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.12.0](https://github.com/giantswarm/devctl/releases/tag/v6.12.0), 3 days ago) - CLI for common development tasks at Giant Swarm
+- 🎉 [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.5.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.5.1), 3 days ago) - IP address Manager for Cluster API Provider Metal3
+- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.8.0](https://github.com/giantswarm/clustertest/releases/tag/v0.8.0), 4 days ago) - A test framework for helping with E2E testing of cluster creation
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [PSS](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/81) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (2 days ago)
+- 💪 [PSS compliance](https://github.com/giantswarm/cloud-provider-cloud-director-app/pull/62) on [giantswarm/cloud-provider-cloud-director-app](https://github.com/giantswarm/cloud-provider-cloud-director-app) (2 days ago)
+- 💪 [PSS (again)](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/pull/75) on [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) (2 days ago)
+- 💪 [PSS compliance](https://github.com/giantswarm/cluster-api-monitoring-app/pull/66) on [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) (2 days ago)
+- 💪 [PSS (jobs), the deployment itself is ok](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/29) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (2 days ago)
 
 #### 📓 Gists I wrote
 
-- [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (1 month ago)
-- [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (3 months ago)
+- [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (2 months ago)
+- [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (4 months ago)
 - [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (1 week ago)
+- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (2 weeks ago)
 - [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 month ago)
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (4 months ago)
 - [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2) - RKE2 bootstrap and control-plane Cluster API providers. (4 months ago)
