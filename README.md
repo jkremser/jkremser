@@ -22,25 +22,24 @@
 
 #### 👷 Check out what I'm currently working on
 
+- :octocat: / [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) -  (1 day ago)
+- :octocat: / [giantswarm/vsphere-csi-app](https://github.com/giantswarm/vsphere-csi-app) - vSphere CSI packaged as a Giant Swarm app (1 day ago)
 - :octocat: / [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) - Default apps installed in VCD clusters (1 week ago)
 - :octocat: / [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) - Cleans up the resources that are left behind by the capvcd provider (1 week ago)
-- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (1 week ago)
-- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (1 week ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
+- :octocat: / [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.12.0](https://github.com/giantswarm/devctl/releases/tag/v6.12.0), 3 days ago) - CLI for common development tasks at Giant Swarm
-- 🎉 [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.5.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.5.1), 3 days ago) - IP address Manager for Cluster API Provider Metal3
-- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.8.0](https://github.com/giantswarm/clustertest/releases/tag/v0.8.0), 4 days ago) - A test framework for helping with E2E testing of cluster creation
+- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.12.0](https://github.com/giantswarm/devctl/releases/tag/v6.12.0), 6 days ago) - CLI for common development tasks at Giant Swarm
+- 🎉 [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.5.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.5.1), 6 days ago) - IP address Manager for Cluster API Provider Metal3
+- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.8.0](https://github.com/giantswarm/clustertest/releases/tag/v0.8.0), 1 week ago) - A test framework for helping with E2E testing of cluster creation
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [PSS](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/81) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (2 days ago)
-- 💪 [PSS compliance](https://github.com/giantswarm/cloud-provider-cloud-director-app/pull/62) on [giantswarm/cloud-provider-cloud-director-app](https://github.com/giantswarm/cloud-provider-cloud-director-app) (2 days ago)
-- 💪 [PSS (again)](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/pull/75) on [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) (2 days ago)
-- 💪 [PSS compliance](https://github.com/giantswarm/cluster-api-monitoring-app/pull/66) on [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) (2 days ago)
-- 💪 [PSS (jobs), the deployment itself is ok](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/29) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (2 days ago)
+- 💪 [pss](https://github.com/giantswarm/dns-operator-route53/pull/136) on [giantswarm/dns-operator-route53](https://github.com/giantswarm/dns-operator-route53) (1 day ago)
+- 💪 [Archiving](https://github.com/giantswarm/vsphere-csi-app/pull/9) on [giantswarm/vsphere-csi-app](https://github.com/giantswarm/vsphere-csi-app) (1 day ago)
+- 💪 [PSS](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/81) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (5 days ago)
+- 💪 [PSS compliance](https://github.com/giantswarm/cloud-provider-cloud-director-app/pull/62) on [giantswarm/cloud-provider-cloud-director-app](https://github.com/giantswarm/cloud-provider-cloud-director-app) (5 days ago)
 
 #### 📓 Gists I wrote
 
