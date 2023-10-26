@@ -16,13 +16,13 @@
 
 #### 🎖 Certificates
 <p align="left">
-    <a href="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url">
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/other/cka/color/kubernetes-cka-color.png" alt="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url" width="110" height="110"/>
+    <a style="text-decoration: none;" href="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url">
+        <img src="https://training.linuxfoundation.org/wp-content/uploads/2022/11/CKA.png" alt="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url" width="110" height="110"/>
     </a>
-    <a href="https://www.credly.com/badges/346440ab-00a3-4c19-bc5d-0b46378c1191/public_url">
-        <img src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="https://www.credly.com/badges/346440ab-00a3-4c19-bc5d-0b46378c1191/public_url" width="110" height="110"/>
+    <a style="text-decoration: none;" href="https://www.credly.com/badges/346440ab-00a3-4c19-bc5d-0b46378c1191/public_url">
+        <img src="https://training.linuxfoundation.org/wp-content/uploads/2022/11/CKS.png" alt="https://www.credly.com/badges/346440ab-00a3-4c19-bc5d-0b46378c1191/public_url" width="110" height="110"/>
     </a>
-    <a href="https://rhtapps.redhat.com/verify/?certId=120-194-022">
+    <a style="text-decoration: none;" href="https://rhtapps.redhat.com/verify/?certId=120-194-022">
         <img src="./rhca.png" alt="https://rhtapps.redhat.com/verify/?certId=120-194-022" width="100" height="100"/>
     </a>
 </p>
