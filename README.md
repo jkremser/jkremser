@@ -29,23 +29,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (5 days ago)
-- :octocat: / [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) - kubectl plugin helping with custom resources by Giant Swarm (5 days ago)
-- :octocat: / [giantswarm/docs](https://github.com/giantswarm/docs) - The Giant Swarm documentation site (6 days ago)
-- :octocat: / [jkremser/kubectl-clu](https://github.com/jkremser/kubectl-clu) - simple kubectl plugin for creating k8s clusters (1 week ago)
-- :octocat: / [redhat-openshift-ecosystem/community-operators-prod](https://github.com/redhat-openshift-ecosystem/community-operators-prod) - community-operators metadata backing OpenShift OperatorHub (1 week ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 day ago)
+- :octocat: / [jkremser/kubectl-clu](https://github.com/jkremser/kubectl-clu) - simple kubectl plugin for creating k8s clusters (1 day ago)
+- :octocat: / [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) - kubectl plugin helping with custom resources by Giant Swarm (1 day ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 day ago)
+- :octocat: / [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) - simple controller for IpAddressClaim (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/docs](https://github.com/giantswarm/docs) ([v2.2.934](https://github.com/giantswarm/docs/releases/tag/v2.2.934), 1 day ago) - The Giant Swarm documentation site
-- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.11.0](https://github.com/giantswarm/clustertest/releases/tag/v0.11.0), 4 days ago) - A test framework for helping with E2E testing of cluster creation
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.45.3](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.45.3), 5 days ago) - kubectl plugin helping with custom resources by Giant Swarm
+- 🎉 [jkremser/kubectl-clu](https://github.com/jkremser/kubectl-clu) ([v0.0.7](https://github.com/jkremser/kubectl-clu/releases/tag/v0.0.7), 1 day ago) - simple kubectl plugin for creating k8s clusters
+- 🎉 [giantswarm/docs](https://github.com/giantswarm/docs) ([v2.2.935](https://github.com/giantswarm/docs/releases/tag/v2.2.935), 1 day ago) - The Giant Swarm documentation site
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.8.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.8.0), 1 day ago) - Helm chart for deploying Kubernetes clusters on VSphere
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [vsphere: k8s version defaulting was not ok](https://github.com/giantswarm/kubectl-gs/pull/1154) on [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) (6 days ago)
-- 💪 [Support for multiple pools](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/35) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (1 week ago)
-- 💪 [Update Kubectl Plugin - v0.0.6](https://github.com/jkremser/kubectl-clu/pull/9) on [jkremser/kubectl-clu](https://github.com/jkremser/kubectl-clu) (1 week ago)
+- 💪 [placing the self-assessment under correct section](https://github.com/k8gb-io/k8gb/pull/1319) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
+- 💪 [ignore self_assessment check in .clomonitor.yml](https://github.com/k8gb-io/k8gb/pull/1318) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
+- 💪 [Update Kubectl Plugin - v0.0.7](https://github.com/jkremser/kubectl-clu/pull/10) on [jkremser/kubectl-clu](https://github.com/jkremser/kubectl-clu) (1 day ago)
+- 💪 [Add first shot of self-assessment.md file](https://github.com/k8gb-io/k8gb/pull/1317) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
+- 💪 [Add env-dependencies-policy to SECURITY-INSIGHTS.yml](https://github.com/k8gb-io/k8gb/pull/1316) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -55,10 +57,10 @@
 
 #### ⭐ Recent Stars
 
+- [cncf/clomonitor](https://github.com/cncf/clomonitor) - CLOMonitor is a tool that periodically checks open source projects repositories to verify they meet certain project health best practices (1 day ago)
 - [KittyCAD/modeling-app](https://github.com/KittyCAD/modeling-app) - The KittyCAD modeling app. (1 week ago)
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (1 month ago)
 - [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (2 months ago)
-- [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (5 months ago)
 
 #### 💬 Feedback
 
