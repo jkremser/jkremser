@@ -29,38 +29,38 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/kubectl-clu](https://github.com/jkremser/kubectl-clu) - simple kubectl plugin for creating k8s clusters (5 days ago)
-- :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (5 days ago)
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (5 days ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (6 days ago)
-- :octocat: / [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) - kubectl plugin helping with custom resources by Giant Swarm (1 week ago)
+- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (1 day ago)
+- :octocat: / [jkremser/kubectl-clu](https://github.com/jkremser/kubectl-clu) - simple kubectl plugin for creating k8s clusters (1 day ago)
+- :octocat: / [giantswarm/kube-vip-cloud-provider-app](https://github.com/giantswarm/kube-vip-cloud-provider-app) -  (3 days ago)
+- :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (1 week ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.16.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.16.1), 4 days ago) - 
-- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.12.1](https://github.com/giantswarm/clustertest/releases/tag/v0.12.1), 4 days ago) - A test framework for helping with E2E testing of cluster creation
-- 🎉 [giantswarm/docs](https://github.com/giantswarm/docs) ([v2.2.936](https://github.com/giantswarm/docs/releases/tag/v2.2.936), 4 days ago) - The Giant Swarm documentation site
+- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.12.5](https://github.com/giantswarm/clustertest/releases/tag/v0.12.5), 1 day ago) - A test framework for helping with E2E testing of cluster creation
+- 🎉 [jkremser/kubectl-clu](https://github.com/jkremser/kubectl-clu) ([v0.1.1](https://github.com/jkremser/kubectl-clu/releases/tag/v0.1.1), 1 day ago) - simple kubectl plugin for creating k8s clusters
+- 🎉 [giantswarm/docs](https://github.com/giantswarm/docs) ([v2.2.944](https://github.com/giantswarm/docs/releases/tag/v2.2.944), 2 days ago) - The Giant Swarm documentation site
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Null the resource versions ](https://github.com/giantswarm/clustertest/pull/118) on [giantswarm/clustertest](https://github.com/giantswarm/clustertest) (4 days ago)
-- 💪 [Update Kubectl Plugin - v0.0.8](https://github.com/jkremser/kubectl-clu/pull/11) on [jkremser/kubectl-clu](https://github.com/jkremser/kubectl-clu) (5 days ago)
-- 💪 [svc lb ipam 4 example values.yaml](https://github.com/giantswarm/cluster-vsphere/pull/106) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (5 days ago)
-- 💪 [Remove hard-coded IP for Service load balancer and use ip pool instead](https://github.com/giantswarm/cluster-test-suites/pull/121) on [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) (5 days ago)
-- 💪 [Skip terratest for renovate PRs](https://github.com/k8gb-io/k8gb/pull/1321) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (6 days ago)
+- 💪 [Update Kubectl Plugin - v0.1.1](https://github.com/jkremser/kubectl-clu/pull/15) on [jkremser/kubectl-clu](https://github.com/jkremser/kubectl-clu) (1 day ago)
+- 💪 [Update Kubectl Plugin - v0.1.0](https://github.com/jkremser/kubectl-clu/pull/14) on [jkremser/kubectl-clu](https://github.com/jkremser/kubectl-clu) (1 day ago)
+- 💪 [Update Kubectl Plugin - v0.1.0](https://github.com/jkremser/kubectl-clu/pull/13) on [jkremser/kubectl-clu](https://github.com/jkremser/kubectl-clu) (1 day ago)
+- 💪 [Update Kubectl Plugin - v0.0.9](https://github.com/jkremser/kubectl-clu/pull/12) on [jkremser/kubectl-clu](https://github.com/jkremser/kubectl-clu) (1 day ago)
+- 💪 [Revert &#34;Enable ciliumnetworkpolicies for kube-state-metrics&#34;](https://github.com/giantswarm/default-apps-vsphere/pull/164) on [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) (1 day ago)
 
 #### 📓 Gists I wrote
 
 - [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (3 months ago)
 - [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (5 months ago)
-- [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (6 months ago)
+- [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (7 months ago)
 
 #### ⭐ Recent Stars
 
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
+- [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer (3 days ago)
 - [cncf/clomonitor](https://github.com/cncf/clomonitor) - CLOMonitor is a tool that periodically checks open source projects repositories to verify they meet certain project health best practices (1 week ago)
-- [KittyCAD/modeling-app](https://github.com/KittyCAD/modeling-app) - The KittyCAD modeling app. (2 weeks ago)
-- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (1 month ago)
-- [giantswarm/tekton-resources](https://github.com/giantswarm/tekton-resources) - Contains Tekton installation resources along with Tekton Tasks and Pipelines (3 months ago)
 
 #### 💬 Feedback
 
