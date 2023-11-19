@@ -29,25 +29,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) - Cluster API vSphere controller packaged as a Giant Swarm app (1 day ago)
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 day ago)
-- :octocat: / [jkremser/kubectl-luster](https://github.com/jkremser/kubectl-luster) - simple kubectl plugin for creating k8s clusters (6 days ago)
-- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (1 week ago)
+- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (3 days ago)
+- :octocat: / [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) - Cluster API vSphere controller packaged as a Giant Swarm app (4 days ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (4 days ago)
+- :octocat: / [jkremser/kubectl-luster](https://github.com/jkremser/kubectl-luster) - simple kubectl plugin for creating k8s clusters (1 week ago)
 - :octocat: / [giantswarm/kube-vip-cloud-provider-app](https://github.com/giantswarm/kube-vip-cloud-provider-app) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/docs](https://github.com/giantswarm/docs) ([v2.2.948](https://github.com/giantswarm/docs/releases/tag/v2.2.948), 1 day ago) - The Giant Swarm documentation site
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.9.2](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.9.2), 1 day ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.47.1](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.47.1), 1 day ago) - kubectl plugin helping with custom resources by Giant Swarm
+- 🎉 [giantswarm/docs](https://github.com/giantswarm/docs) ([v2.2.953](https://github.com/giantswarm/docs/releases/tag/v2.2.953), 2 days ago) - The Giant Swarm documentation site
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.9.2](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.9.2), 4 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.47.1](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.47.1), 4 days ago) - kubectl plugin helping with custom resources by Giant Swarm
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [fix quotes &#43; use --ignore-not-found](https://github.com/giantswarm/cluster-vsphere/pull/114) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 day ago)
-- 💪 [Add toleration for master node](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/88) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (1 day ago)
-- 💪 [Enable ciliumnetworkpolicies for kube-state-metrics](https://github.com/giantswarm/default-apps-vsphere/pull/168) on [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) (1 day ago)
-- 💪 [Add systemd unit that will run ethtool to turn off &#39;hardware segmentation offload&#39;](https://github.com/giantswarm/cluster-vsphere/pull/112) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 day ago)
-- 💪 [When IP was not obtained it failed after first attempt ](https://github.com/giantswarm/cluster-vsphere/pull/109) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (6 days ago)
+- 💪 [fix quotes &#43; use --ignore-not-found](https://github.com/giantswarm/cluster-vsphere/pull/114) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (4 days ago)
+- 💪 [Add toleration for master node](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/88) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (4 days ago)
+- 💪 [Enable ciliumnetworkpolicies for kube-state-metrics](https://github.com/giantswarm/default-apps-vsphere/pull/168) on [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) (4 days ago)
+- 💪 [Add systemd unit that will run ethtool to turn off &#39;hardware segmentation offload&#39;](https://github.com/giantswarm/cluster-vsphere/pull/112) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (4 days ago)
+- 💪 [When IP was not obtained it failed after first attempt ](https://github.com/giantswarm/cluster-vsphere/pull/109) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 week ago)
 
 #### 📓 Gists I wrote
 
