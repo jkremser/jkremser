@@ -30,24 +30,23 @@
 #### 👷 Check out what I'm currently working on
 
 - :octocat: / [jkremser/kubectl-luster](https://github.com/jkremser/kubectl-luster) - simple kubectl plugin for creating k8s clusters (1 day ago)
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 day ago)
-- :octocat: / [giantswarm/network-policies-app](https://github.com/giantswarm/network-policies-app) -  (1 day ago)
-- :octocat: / [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) - Default apps installed in vSphere clusters (6 days ago)
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 week ago)
+- :octocat: / [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) - Contains the CSI and CPI for vSphere https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app (2 days ago)
+- :octocat: / [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) - kubectl plugin helping with custom resources by Giant Swarm (3 days ago)
+- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (4 days ago)
+- :octocat: / [giantswarm/network-policies-app](https://github.com/giantswarm/network-policies-app) -  (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/network-policies-app](https://github.com/giantswarm/network-policies-app) ([v0.0.3](https://github.com/giantswarm/network-policies-app/releases/tag/v0.0.3), 1 day ago) - 
-- 🎉 [giantswarm/docs](https://github.com/giantswarm/docs) ([v2.2.958](https://github.com/giantswarm/docs/releases/tag/v2.2.958), 1 day ago) - The Giant Swarm documentation site
-- 🎉 [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) ([v0.11.3](https://github.com/giantswarm/default-apps-vsphere/releases/tag/v0.11.3), 2 days ago) - Default apps installed in vSphere clusters
+- 🎉 [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) ([v1.5.1](https://github.com/giantswarm/cloud-provider-vsphere-app/releases/tag/v1.5.1), 1 day ago) - Contains the CSI and CPI for vSphere https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app
+- 🎉 [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.4.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.4.4), 1 day ago) - IP address Manager for Cluster API Provider Metal3
+- 🎉 [jkremser/kubectl-luster](https://github.com/jkremser/kubectl-luster) ([v0.1.3](https://github.com/jkremser/kubectl-luster/releases/tag/v0.1.3), 1 day ago) - simple kubectl plugin for creating k8s clusters
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [master -&gt; main](https://github.com/jkremser/log2rbac-operator/pull/201) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 day ago)
-- 💪 [fix quotes &#43; use --ignore-not-found](https://github.com/giantswarm/cluster-vsphere/pull/114) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 week ago)
-- 💪 [Add toleration for master node](https://github.com/giantswarm/cluster-api-provider-vsphere-app/pull/88) on [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) (1 week ago)
-- 💪 [Enable ciliumnetworkpolicies for kube-state-metrics](https://github.com/giantswarm/default-apps-vsphere/pull/168) on [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) (1 week ago)
-- 💪 [Add systemd unit that will run ethtool to turn off &#39;hardware segmentation offload&#39;](https://github.com/giantswarm/cluster-vsphere/pull/112) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 week ago)
+- 💪 [Update Kubectl Plugin - v0.1.3](https://github.com/jkremser/kubectl-luster/pull/18) on [jkremser/kubectl-luster](https://github.com/jkremser/kubectl-luster) (1 day ago)
+- 💪 [Bump kubevip to new version &#43; consuming our own retagged images](https://github.com/giantswarm/cluster-vsphere/pull/121) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 day ago)
+- 💪 [don&#39;t merge me - npol test only](https://github.com/giantswarm/cluster-vsphere/pull/119) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (2 days ago)
+- 💪 [using flatcar as default image for vsphere cluster template](https://github.com/giantswarm/kubectl-gs/pull/1203) on [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) (3 days ago)
 
 #### 📓 Gists I wrote
 
