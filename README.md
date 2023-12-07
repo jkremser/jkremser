@@ -29,25 +29,24 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (6 days ago)
-- :octocat: / [jkremser/kubectl-luster](https://github.com/jkremser/kubectl-luster) - simple kubectl plugin for creating k8s clusters (1 week ago)
-- :octocat: / [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) - Contains the CSI and CPI for vSphere https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app (1 week ago)
-- :octocat: / [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) - kubectl plugin helping with custom resources by Giant Swarm (1 week ago)
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 week ago)
+- :octocat: / [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) -  (1 day ago)
+- :octocat: / [jkremser/kubectl-luster](https://github.com/jkremser/kubectl-luster) - simple kubectl plugin for creating k8s clusters (1 day ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 week ago)
+- :octocat: / [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) - Contains the CSI and CPI for vSphere https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app (2 weeks ago)
+- :octocat: / [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) - kubectl plugin helping with custom resources by Giant Swarm (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.19.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.19.0), 3 days ago) - 
-- 🎉 [giantswarm/docs](https://github.com/giantswarm/docs) ([v2.2.979](https://github.com/giantswarm/docs/releases/tag/v2.2.979), 4 days ago) - The Giant Swarm documentation site
-- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.13.0](https://github.com/giantswarm/clustertest/releases/tag/v0.13.0), 4 days ago) - A test framework for helping with E2E testing of cluster creation
+- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.16.4](https://github.com/giantswarm/kyverno-app/releases/tag/v0.16.4), 1 day ago) - 
+- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.49.1](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.49.1), 1 day ago) - kubectl plugin helping with custom resources by Giant Swarm
+- 🎉 [giantswarm/docs](https://github.com/giantswarm/docs) ([v2.2.981](https://github.com/giantswarm/docs/releases/tag/v2.2.981), 2 days ago) - The Giant Swarm documentation site
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [use tagged/released image](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/38) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (3 days ago)
-- 💪 [new image for cluster-api-ipam-provider-in-cluster ](https://github.com/giantswarm/retagger/pull/946) on [giantswarm/retagger](https://github.com/giantswarm/retagger) (3 days ago)
-- 💪 [Bump k8s version of k3s from 1.25 to 1.28](https://github.com/k8gb-io/k8gb/pull/1338) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (4 days ago)
-- 💪 [Update Kubectl Plugin - v0.1.3](https://github.com/jkremser/kubectl-luster/pull/18) on [jkremser/kubectl-luster](https://github.com/jkremser/kubectl-luster) (1 week ago)
-- 💪 [Bump kubevip to new version &#43; consuming our own retagged images](https://github.com/giantswarm/cluster-vsphere/pull/121) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 week ago)
+- 💪 [Lock everything by default in giantswarm and kube-system namespaces](https://github.com/giantswarm/cluster-cloud-director/pull/227) on [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) (1 day ago)
+- 💪 [Add missing CiliumNetworkPolicies ](https://github.com/giantswarm/kyverno-app/pull/316) on [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) (2 days ago)
+- 💪 [use tagged/released image](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/38) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (6 days ago)
+- 💪 [new image for cluster-api-ipam-provider-in-cluster ](https://github.com/giantswarm/retagger/pull/946) on [giantswarm/retagger](https://github.com/giantswarm/retagger) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -57,10 +56,10 @@
 
 #### ⭐ Recent Stars
 
-- [r0binak/MTKPI](https://github.com/r0binak/MTKPI) - 🧰 Multi Tool Kubernetes Pentest Image  (2 days ago)
-- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (3 weeks ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
-- [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer (3 weeks ago)
+- [r0binak/MTKPI](https://github.com/r0binak/MTKPI) - 🧰 Multi Tool Kubernetes Pentest Image  (5 days ago)
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (4 weeks ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
+- [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer (1 month ago)
 
 #### 💬 Feedback
 
