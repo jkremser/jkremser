@@ -29,35 +29,33 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) -  (1 day ago)
-- :octocat: / [jkremser/kubectl-luster](https://github.com/jkremser/kubectl-luster) - simple kubectl plugin for creating k8s clusters (1 day ago)
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 week ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (2 days ago)
+- :octocat: / [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) -  (4 days ago)
+- :octocat: / [jkremser/kubectl-luster](https://github.com/jkremser/kubectl-luster) - simple kubectl plugin for creating k8s clusters (4 days ago)
 - :octocat: / [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) - Contains the CSI and CPI for vSphere https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app (2 weeks ago)
 - :octocat: / [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) - kubectl plugin helping with custom resources by Giant Swarm (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.16.4](https://github.com/giantswarm/kyverno-app/releases/tag/v0.16.4), 1 day ago) - 
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.49.1](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.49.1), 1 day ago) - kubectl plugin helping with custom resources by Giant Swarm
-- 🎉 [giantswarm/docs](https://github.com/giantswarm/docs) ([v2.2.981](https://github.com/giantswarm/docs/releases/tag/v2.2.981), 2 days ago) - The Giant Swarm documentation site
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.7.0](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.7.0), 2 days ago) - Default apps installed in VCD clusters
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.9.3](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.9.3), 3 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/docs](https://github.com/giantswarm/docs) ([v2.2.982](https://github.com/giantswarm/docs/releases/tag/v2.2.982), 3 days ago) - The Giant Swarm documentation site
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Lock everything by default in giantswarm and kube-system namespaces](https://github.com/giantswarm/cluster-cloud-director/pull/227) on [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) (1 day ago)
-- 💪 [Add missing CiliumNetworkPolicies ](https://github.com/giantswarm/kyverno-app/pull/316) on [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) (2 days ago)
-- 💪 [use tagged/released image](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/38) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (6 days ago)
-- 💪 [new image for cluster-api-ipam-provider-in-cluster ](https://github.com/giantswarm/retagger/pull/946) on [giantswarm/retagger](https://github.com/giantswarm/retagger) (6 days ago)
+- 💪 [Add KubeadmControlPlane.spec.kubeadmConfigSpec.clusterConfiguration.a…](https://github.com/giantswarm/cluster-vsphere/pull/130) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (2 days ago)
+- 💪 [Apply default deny-all network policies to giantswarm and kube-system namespaces](https://github.com/giantswarm/cluster-test-suites/pull/159) on [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) (3 days ago)
 
 #### 📓 Gists I wrote
 
 - [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (4 months ago)
 - [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (6 months ago)
-- [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (7 months ago)
+- [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (8 months ago)
 
 #### ⭐ Recent Stars
 
-- [r0binak/MTKPI](https://github.com/r0binak/MTKPI) - 🧰 Multi Tool Kubernetes Pentest Image  (5 days ago)
-- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (4 weeks ago)
+- [r0binak/MTKPI](https://github.com/r0binak/MTKPI) - 🧰 Multi Tool Kubernetes Pentest Image  (1 week ago)
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (1 month ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 - [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer (1 month ago)
 
