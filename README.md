@@ -29,22 +29,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (2 days ago)
-- :octocat: / [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) -  (4 days ago)
-- :octocat: / [jkremser/kubectl-luster](https://github.com/jkremser/kubectl-luster) - simple kubectl plugin for creating k8s clusters (4 days ago)
-- :octocat: / [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) - Contains the CSI and CPI for vSphere https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app (2 weeks ago)
-- :octocat: / [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) - kubectl plugin helping with custom resources by Giant Swarm (2 weeks ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 day ago)
+- :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (2 days ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (5 days ago)
+- :octocat: / [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) -  (1 week ago)
+- :octocat: / [jkremser/kubectl-luster](https://github.com/jkremser/kubectl-luster) - simple kubectl plugin for creating k8s clusters (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.7.0](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.7.0), 2 days ago) - Default apps installed in VCD clusters
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.9.3](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.9.3), 3 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [giantswarm/docs](https://github.com/giantswarm/docs) ([v2.2.982](https://github.com/giantswarm/docs/releases/tag/v2.2.982), 3 days ago) - The Giant Swarm documentation site
+- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.50.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.50.0), 1 day ago) - kubectl plugin helping with custom resources by Giant Swarm
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.13.2](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.13.2), 1 day ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
+- 🎉 [giantswarm/cloud-provider-cloud-director-app](https://github.com/giantswarm/cloud-provider-cloud-director-app) ([v0.2.9](https://github.com/giantswarm/cloud-provider-cloud-director-app/releases/tag/v0.2.9), 1 day ago) - Contains the CSI and CPI for VMware Cloud Director (VCD)
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add KubeadmControlPlane.spec.kubeadmConfigSpec.clusterConfiguration.a…](https://github.com/giantswarm/cluster-vsphere/pull/130) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (2 days ago)
-- 💪 [Apply default deny-all network policies to giantswarm and kube-system namespaces](https://github.com/giantswarm/cluster-test-suites/pull/159) on [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) (3 days ago)
+- 💪 [Add KubeadmControlPlane.spec.kubeadmConfigSpec.clusterConfiguration.a…](https://github.com/giantswarm/cluster-vsphere/pull/130) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (5 days ago)
+- 💪 [Apply default deny-all network policies to giantswarm and kube-system namespaces](https://github.com/giantswarm/cluster-test-suites/pull/159) on [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) (6 days ago)
+- 💪 [Lock everything by default in giantswarm and kube-system namespaces](https://github.com/giantswarm/cluster-cloud-director/pull/227) on [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) (1 week ago)
+- 💪 [Add missing CiliumNetworkPolicies ](https://github.com/giantswarm/kyverno-app/pull/316) on [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) (1 week ago)
+- 💪 [use tagged/released image](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app/pull/38) on [giantswarm/cluster-api-ipam-provider-in-cluster-app](https://github.com/giantswarm/cluster-api-ipam-provider-in-cluster-app) (1 week ago)
 
 #### 📓 Gists I wrote
 
