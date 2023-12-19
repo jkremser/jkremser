@@ -29,22 +29,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 day ago)
-- :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (5 days ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (4 days ago)
+- :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (1 week ago)
 - :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 week ago)
 - :octocat: / [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) -  (1 week ago)
 - :octocat: / [jkremser/kubectl-luster](https://github.com/jkremser/kubectl-luster) - simple kubectl plugin for creating k8s clusters (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.9.6](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.9.6), 2 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.20.2](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.20.2), 3 days ago) - 
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.50.1](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.50.1), 3 days ago) - kubectl plugin helping with custom resources by Giant Swarm
+- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.18.0](https://github.com/giantswarm/devctl/releases/tag/v6.18.0), 1 day ago) - CLI for common development tasks at Giant Swarm
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.9.6](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.9.6), 5 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.20.2](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.20.2), 6 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Let renovate update the k3d manifests](https://github.com/k8gb-io/k8gb/pull/1349) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 days ago)
-- 💪 [Let renovate update the k3d manifests](https://github.com/jkremser/k8gb/pull/74) on [jkremser/k8gb](https://github.com/jkremser/k8gb) (2 days ago)
+- 💪 [Let renovate update the k3d manifests](https://github.com/k8gb-io/k8gb/pull/1349) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (5 days ago)
+- 💪 [Let renovate update the k3d manifests](https://github.com/jkremser/k8gb/pull/74) on [jkremser/k8gb](https://github.com/jkremser/k8gb) (5 days ago)
 - 💪 [Add KubeadmControlPlane.spec.kubeadmConfigSpec.clusterConfiguration.a…](https://github.com/giantswarm/cluster-vsphere/pull/130) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 week ago)
 - 💪 [Apply default deny-all network policies to giantswarm and kube-system namespaces](https://github.com/giantswarm/cluster-test-suites/pull/159) on [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) (1 week ago)
 - 💪 [Lock everything by default in giantswarm and kube-system namespaces](https://github.com/giantswarm/cluster-cloud-director/pull/227) on [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) (1 week ago)
