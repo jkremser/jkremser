@@ -29,25 +29,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (4 days ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 day ago)
+- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform (2 days ago)
 - :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (1 week ago)
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 week ago)
-- :octocat: / [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) -  (1 week ago)
-- :octocat: / [jkremser/kubectl-luster](https://github.com/jkremser/kubectl-luster) - simple kubectl plugin for creating k8s clusters (1 week ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (2 weeks ago)
+- :octocat: / [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.18.0](https://github.com/giantswarm/devctl/releases/tag/v6.18.0), 1 day ago) - CLI for common development tasks at Giant Swarm
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.9.6](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.9.6), 5 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.20.2](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.20.2), 6 days ago) - 
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.12.2](https://github.com/k8gb-io/k8gb/releases/tag/v0.12.2), 1 day ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) ([v1.15.0](https://github.com/giantswarm/cluster-api-app/releases/tag/v1.15.0), 2 days ago) - Cluster API App
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.14.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.14.0), 2 days ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Let renovate update the k3d manifests](https://github.com/k8gb-io/k8gb/pull/1349) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (5 days ago)
-- 💪 [Let renovate update the k3d manifests](https://github.com/jkremser/k8gb/pull/74) on [jkremser/k8gb](https://github.com/jkremser/k8gb) (5 days ago)
-- 💪 [Add KubeadmControlPlane.spec.kubeadmConfigSpec.clusterConfiguration.a…](https://github.com/giantswarm/cluster-vsphere/pull/130) on [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) (1 week ago)
-- 💪 [Apply default deny-all network policies to giantswarm and kube-system namespaces](https://github.com/giantswarm/cluster-test-suites/pull/159) on [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) (1 week ago)
-- 💪 [Lock everything by default in giantswarm and kube-system namespaces](https://github.com/giantswarm/cluster-cloud-director/pull/227) on [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) (1 week ago)
+- 💪 [Don&#39;t let OLM job invocations fail the helm pipeline job &#43; fix the second invocation](https://github.com/k8gb-io/k8gb/pull/1371) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (today)
+- 💪 [renovate: fix new line &#43; don&#39;t group the pr with library bumps](https://github.com/k8gb-io/k8gb/pull/1370) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (today)
+- 💪 [RELEASE: v0.12.2](https://github.com/k8gb-io/k8gb/pull/1367) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
+- 💪 [Let renovate update the k3d manifests](https://github.com/k8gb-io/k8gb/pull/1349) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
+- 💪 [Let renovate update the k3d manifests](https://github.com/jkremser/k8gb/pull/74) on [jkremser/k8gb](https://github.com/jkremser/k8gb) (1 week ago)
 
 #### 📓 Gists I wrote
 
