@@ -29,25 +29,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 days ago)
-- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform (1 week ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (6 days ago)
+- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform (2 weeks ago)
 - :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (3 weeks ago)
 - :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (3 weeks ago)
-- :octocat: / [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) -  (3 weeks ago)
+- :octocat: / [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) -  (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.12.2](https://github.com/k8gb-io/k8gb/releases/tag/v0.12.2), 1 week ago) - A cloud native Kubernetes Global Balancer
-- 🎉 [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) ([v1.15.0](https://github.com/giantswarm/cluster-api-app/releases/tag/v1.15.0), 1 week ago) - Cluster API App
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.14.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.14.0), 1 week ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.12.2](https://github.com/k8gb-io/k8gb/releases/tag/v0.12.2), 2 weeks ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) ([v1.15.0](https://github.com/giantswarm/cluster-api-app/releases/tag/v1.15.0), 2 weeks ago) - Cluster API App
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.14.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.14.0), 2 weeks ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
 
 #### 🔨 My recent Pull Requests
 
 - 💪 [Don&#39;t let OLM job invocations fail the helm pipeline job &#43; fix the second invocation](https://github.com/k8gb-io/k8gb/pull/1371) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
 - 💪 [renovate: fix new line &#43; don&#39;t group the pr with library bumps](https://github.com/k8gb-io/k8gb/pull/1370) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
-- 💪 [RELEASE: v0.12.2](https://github.com/k8gb-io/k8gb/pull/1367) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
-- 💪 [Let renovate update the k3d manifests](https://github.com/k8gb-io/k8gb/pull/1349) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
-- 💪 [Let renovate update the k3d manifests](https://github.com/jkremser/k8gb/pull/74) on [jkremser/k8gb](https://github.com/jkremser/k8gb) (2 weeks ago)
+- 💪 [RELEASE: v0.12.2](https://github.com/k8gb-io/k8gb/pull/1367) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 weeks ago)
+- 💪 [Let renovate update the k3d manifests](https://github.com/k8gb-io/k8gb/pull/1349) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
+- 💪 [Let renovate update the k3d manifests](https://github.com/jkremser/k8gb/pull/74) on [jkremser/k8gb](https://github.com/jkremser/k8gb) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
