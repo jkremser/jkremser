@@ -30,16 +30,16 @@
 #### 👷 Check out what I'm currently working on
 
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
-- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform (2 weeks ago)
-- :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (3 weeks ago)
+- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform (3 weeks ago)
+- :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (1 month ago)
 - :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 month ago)
 - :octocat: / [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.7.1](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.7.1), 3 days ago) - Default apps installed in VCD clusters
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.12.2](https://github.com/k8gb-io/k8gb/releases/tag/v0.12.2), 2 weeks ago) - A cloud native Kubernetes Global Balancer
-- 🎉 [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) ([v1.15.0](https://github.com/giantswarm/cluster-api-app/releases/tag/v1.15.0), 2 weeks ago) - Cluster API App
+- 🎉 [giantswarm/kyverno-policies-connectivity](https://github.com/giantswarm/kyverno-policies-connectivity) ([v0.5.4](https://github.com/giantswarm/kyverno-policies-connectivity/releases/tag/v0.5.4), 1 day ago) - Kyverno policies for managing connectivity in Giant Swarm clusters.
+- 🎉 [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.6.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.6.0), 2 days ago) - IP address Manager for Cluster API Provider Metal3
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.20.4](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.20.4), 2 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
