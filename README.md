@@ -29,7 +29,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (today)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 days ago)
 - :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform (3 weeks ago)
 - :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (1 month ago)
 - :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 month ago)
@@ -37,14 +37,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.21.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.21.1), 2 days ago) - 
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.51.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.51.0), 3 days ago) - kubectl plugin helping with custom resources by Giant Swarm
-- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.18.1](https://github.com/giantswarm/devctl/releases/tag/v6.18.1), 3 days ago) - CLI for common development tasks at Giant Swarm
+- 🎉 [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) ([v1.15.1](https://github.com/giantswarm/cluster-api-app/releases/tag/v1.15.1), 1 day ago) - Cluster API App
+- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.0](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.0), 1 day ago) - 
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.21.2](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.21.2), 1 day ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [aws setup - docs](https://github.com/k8gb-io/k8gb/pull/1400) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
-- 💪 [Update affiliations for @jkremser](https://github.com/cncf/gitdm/pull/253) on [cncf/gitdm](https://github.com/cncf/gitdm) (1 day ago)
+- 💪 [aws setup - docs](https://github.com/k8gb-io/k8gb/pull/1400) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (4 days ago)
+- 💪 [Update affiliations for @jkremser](https://github.com/cncf/gitdm/pull/253) on [cncf/gitdm](https://github.com/cncf/gitdm) (4 days ago)
 - 💪 [Don&#39;t let OLM job invocations fail the helm pipeline job &#43; fix the second invocation](https://github.com/k8gb-io/k8gb/pull/1371) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
 - 💪 [renovate: fix new line &#43; don&#39;t group the pr with library bumps](https://github.com/k8gb-io/k8gb/pull/1370) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
 - 💪 [RELEASE: v0.12.2](https://github.com/k8gb-io/k8gb/pull/1367) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
