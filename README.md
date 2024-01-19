@@ -29,25 +29,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 days ago)
-- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform (3 weeks ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (6 days ago)
+- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform (1 month ago)
 - :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (1 month ago)
 - :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 month ago)
 - :octocat: / [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) ([v1.15.1](https://github.com/giantswarm/cluster-api-app/releases/tag/v1.15.1), 1 day ago) - Cluster API App
-- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.0](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.0), 1 day ago) - 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.21.2](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.21.2), 1 day ago) - 
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.22.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.22.0), 1 day ago) - 
+- 🎉 [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) ([v1.8.1](https://github.com/giantswarm/cluster-api-monitoring-app/releases/tag/v1.8.1), 1 day ago) - 
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.14.1](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.14.1), 1 day ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [aws setup - docs](https://github.com/k8gb-io/k8gb/pull/1400) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (4 days ago)
-- 💪 [Update affiliations for @jkremser](https://github.com/cncf/gitdm/pull/253) on [cncf/gitdm](https://github.com/cncf/gitdm) (4 days ago)
-- 💪 [Don&#39;t let OLM job invocations fail the helm pipeline job &#43; fix the second invocation](https://github.com/k8gb-io/k8gb/pull/1371) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
-- 💪 [renovate: fix new line &#43; don&#39;t group the pr with library bumps](https://github.com/k8gb-io/k8gb/pull/1370) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
-- 💪 [RELEASE: v0.12.2](https://github.com/k8gb-io/k8gb/pull/1367) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 weeks ago)
+- 💪 [aws setup - docs](https://github.com/k8gb-io/k8gb/pull/1400) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -57,10 +53,10 @@
 
 #### ⭐ Recent Stars
 
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (2 days ago)
 - [r0binak/MTKPI](https://github.com/r0binak/MTKPI) - 🧰 Multi Tool Kubernetes Pentest Image  (1 month ago)
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (2 months ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 months ago)
-- [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer (2 months ago)
 
 #### 💬 Feedback
 
