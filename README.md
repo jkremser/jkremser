@@ -37,13 +37,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) ([v1.5.4](https://github.com/giantswarm/cluster-api-app/releases/tag/v1.5.4), 3 days ago) - Cluster API App
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.23.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.23.1), 3 days ago) - 
-- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.18.2](https://github.com/giantswarm/devctl/releases/tag/v6.18.2), 3 days ago) - CLI for common development tasks at Giant Swarm
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.9.7](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.9.7), 2 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) ([v1.15.2](https://github.com/giantswarm/cluster-api-app/releases/tag/v1.15.2), 3 days ago) - Cluster API App
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.23.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.23.1), 6 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [aws setup - docs](https://github.com/k8gb-io/k8gb/pull/1400) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -53,7 +52,7 @@
 
 #### ⭐ Recent Stars
 
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (5 days ago)
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (1 week ago)
 - [r0binak/MTKPI](https://github.com/r0binak/MTKPI) - 🧰 Multi Tool Kubernetes Pentest Image  (1 month ago)
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (2 months ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 months ago)
