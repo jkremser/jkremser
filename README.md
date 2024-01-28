@@ -29,17 +29,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
+- :octocat: / [k8gb-io/k8gb-manim](https://github.com/k8gb-io/k8gb-manim) - Simple animation explaining the k8gb functionality (2 days ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 weeks ago)
 - :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform (1 month ago)
 - :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (1 month ago)
 - :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 month ago)
-- :octocat: / [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.9.7](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.9.7), 2 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [giantswarm/cluster-api-app](https://github.com/giantswarm/cluster-api-app) ([v1.15.2](https://github.com/giantswarm/cluster-api-app/releases/tag/v1.15.2), 3 days ago) - Cluster API App
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.23.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.23.1), 6 days ago) - 
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.24.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.24.0), 2 days ago) - 
+- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.3](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.3), 2 days ago) - 
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.14.2](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.14.2), 3 days ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
 
 #### 🔨 My recent Pull Requests
 
@@ -47,7 +47,7 @@
 #### 📓 Gists I wrote
 
 - [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (5 months ago)
-- [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (7 months ago)
+- [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (8 months ago)
 - [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (9 months ago)
 
 #### ⭐ Recent Stars
