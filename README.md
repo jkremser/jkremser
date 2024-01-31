@@ -29,33 +29,36 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [k8gb-io/k8gb-manim](https://github.com/k8gb-io/k8gb-manim) - Simple animation explaining the k8gb functionality (2 days ago)
+- :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (today)
+- :octocat: / [k8gb-io/k8gb-manim](https://github.com/k8gb-io/k8gb-manim) - Simple animation explaining the k8gb functionality (1 day ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 day ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 weeks ago)
-- :octocat: / [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform (1 month ago)
-- :octocat: / [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) -  (1 month ago)
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 month ago)
+- :octocat: / [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.24.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.24.0), 2 days ago) - 
-- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.3](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.3), 2 days ago) - 
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.14.2](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.14.2), 3 days ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.25.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.25.0), 1 day ago) - 
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.7.2](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.7.2), 1 day ago) - Default apps installed in VCD clusters
+- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.3](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.3), 5 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [Adding a new cluster in us-east-2 region](https://github.com/jkremser/fosdemo-clusters/pull/1) on [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) (today)
+- 💪 [Update k8gb.py](https://github.com/k8gb-io/k8gb-manim/pull/7) on [k8gb-io/k8gb-manim](https://github.com/k8gb-io/k8gb-manim) (1 day ago)
+- 💪 [Allow to change dnsPolicy of ExternalDNS deployment](https://github.com/k8gb-io/k8gb/pull/1428) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
 
 #### 📓 Gists I wrote
 
-- [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (5 months ago)
+- [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (6 months ago)
 - [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (8 months ago)
 - [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (9 months ago)
 
 #### ⭐ Recent Stars
 
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (1 week ago)
-- [r0binak/MTKPI](https://github.com/r0binak/MTKPI) - 🧰 Multi Tool Kubernetes Pentest Image  (1 month ago)
+- [kubernetes-sigs/cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) - Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts. (2 days ago)
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (2 weeks ago)
+- [r0binak/MTKPI](https://github.com/r0binak/MTKPI) - 🧰 Multi Tool Kubernetes Pentest Image  (2 months ago)
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (2 months ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 months ago)
 
 #### 💬 Feedback
 
