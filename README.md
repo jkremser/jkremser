@@ -29,23 +29,24 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (today)
-- :octocat: / [k8gb-io/k8gb-manim](https://github.com/k8gb-io/k8gb-manim) - Simple animation explaining the k8gb functionality (1 day ago)
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 day ago)
+- :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (1 day ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (2 days ago)
+- :octocat: / [k8gb-io/k8gb-manim](https://github.com/k8gb-io/k8gb-manim) - Simple animation explaining the k8gb functionality (2 days ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 weeks ago)
 - :octocat: / [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.25.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.25.0), 1 day ago) - 
-- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.7.2](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.7.2), 1 day ago) - Default apps installed in VCD clusters
-- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.3](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.3), 5 days ago) - 
+- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.20.0](https://github.com/giantswarm/devctl/releases/tag/v6.20.0), 1 day ago) - CLI for common development tasks at Giant Swarm
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.25.2](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.25.2), 1 day ago) - 
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.7.2](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.7.2), 2 days ago) - Default apps installed in VCD clusters
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Adding a new cluster in us-east-2 region](https://github.com/jkremser/fosdemo-clusters/pull/1) on [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) (today)
-- 💪 [Update k8gb.py](https://github.com/k8gb-io/k8gb-manim/pull/7) on [k8gb-io/k8gb-manim](https://github.com/k8gb-io/k8gb-manim) (1 day ago)
-- 💪 [Allow to change dnsPolicy of ExternalDNS deployment](https://github.com/k8gb-io/k8gb/pull/1428) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 day ago)
+- 💪 [Adding a new cluster in us-east-2 region](https://github.com/jkremser/fosdemo-clusters/pull/2) on [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) (1 day ago)
+- 💪 [Adding a new cluster in us-east-2 region](https://github.com/jkremser/fosdemo-clusters/pull/1) on [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) (1 day ago)
+- 💪 [Update k8gb.py](https://github.com/k8gb-io/k8gb-manim/pull/7) on [k8gb-io/k8gb-manim](https://github.com/k8gb-io/k8gb-manim) (2 days ago)
+- 💪 [Allow to change dnsPolicy of ExternalDNS deployment](https://github.com/k8gb-io/k8gb/pull/1428) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -55,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) - Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts. (2 days ago)
+- [kubernetes-sigs/cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) - Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts. (3 days ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (2 weeks ago)
 - [r0binak/MTKPI](https://github.com/r0binak/MTKPI) - 🧰 Multi Tool Kubernetes Pentest Image  (2 months ago)
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (2 months ago)
