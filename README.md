@@ -29,38 +29,38 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (1 day ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 days ago)
-- :octocat: / [k8gb-io/k8gb-manim](https://github.com/k8gb-io/k8gb-manim) - Simple animation explaining the k8gb functionality (5 days ago)
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (5 days ago)
+- :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (4 days ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (5 days ago)
+- :octocat: / [k8gb-io/k8gb-manim](https://github.com/k8gb-io/k8gb-manim) - Simple animation explaining the k8gb functionality (1 week ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 week ago)
 - :octocat: / [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/devctl](https://github.com/giantswarm/devctl) ([v6.20.1](https://github.com/giantswarm/devctl/releases/tag/v6.20.1), 2 days ago) - CLI for common development tasks at Giant Swarm
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.52.1](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.52.1), 3 days ago) - kubectl plugin helping with custom resources by Giant Swarm
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.25.2](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.25.2), 4 days ago) - 
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.25.3](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.25.3), 2 days ago) - 
+- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.52.1](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.52.1), 6 days ago) - kubectl plugin helping with custom resources by Giant Swarm
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.7.2](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.7.2), 1 week ago) - Default apps installed in VCD clusters
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Adding a new cluster in us-east-2 region](https://github.com/jkremser/fosdemo-clusters/pull/4) on [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) (1 day ago)
-- 💪 [Adding a new cluster in us-east-2 region](https://github.com/jkremser/fosdemo-clusters/pull/3) on [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) (3 days ago)
-- 💪 [Adding a new cluster in us-east-2 region](https://github.com/jkremser/fosdemo-clusters/pull/2) on [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) (4 days ago)
-- 💪 [Adding a new cluster in us-east-2 region](https://github.com/jkremser/fosdemo-clusters/pull/1) on [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) (4 days ago)
-- 💪 [Update k8gb.py](https://github.com/k8gb-io/k8gb-manim/pull/7) on [k8gb-io/k8gb-manim](https://github.com/k8gb-io/k8gb-manim) (5 days ago)
+- 💪 [Adding a new cluster in us-east-2 region](https://github.com/jkremser/fosdemo-clusters/pull/4) on [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) (4 days ago)
+- 💪 [Adding a new cluster in us-east-2 region](https://github.com/jkremser/fosdemo-clusters/pull/3) on [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) (6 days ago)
+- 💪 [Adding a new cluster in us-east-2 region](https://github.com/jkremser/fosdemo-clusters/pull/2) on [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) (1 week ago)
+- 💪 [Adding a new cluster in us-east-2 region](https://github.com/jkremser/fosdemo-clusters/pull/1) on [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) (1 week ago)
+- 💪 [Update k8gb.py](https://github.com/k8gb-io/k8gb-manim/pull/7) on [k8gb-io/k8gb-manim](https://github.com/k8gb-io/k8gb-manim) (1 week ago)
 
 #### 📓 Gists I wrote
 
 - [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (6 months ago)
 - [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (8 months ago)
-- [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (9 months ago)
+- [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (10 months ago)
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) - Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts. (6 days ago)
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (2 weeks ago)
+- [kubernetes-sigs/cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) - Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts. (1 week ago)
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (3 weeks ago)
 - [r0binak/MTKPI](https://github.com/r0binak/MTKPI) - 🧰 Multi Tool Kubernetes Pentest Image  (2 months ago)
-- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (2 months ago)
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (3 months ago)
 
 #### 💬 Feedback
 
