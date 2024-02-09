@@ -15,6 +15,9 @@
 ![counter](https://komarev.com/ghpvc/?username=jkremser&color=5bcdec&style=for-the-badge)
 
 #### 🎖 Certificates
+```
+k get cert -A
+```
 <p align="left">
     <a style="text-decoration: none !important;" href="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url">
         <img src="https://training.linuxfoundation.org/wp-content/uploads/2022/11/CKA.png" alt="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url" width="110" height="110"/>
@@ -29,25 +32,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (4 days ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (5 days ago)
-- :octocat: / [k8gb-io/k8gb-manim](https://github.com/k8gb-io/k8gb-manim) - Simple animation explaining the k8gb functionality (1 week ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (today)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (today)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 day ago)
+- :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (6 days ago)
 - :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 week ago)
-- :octocat: / [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.25.3](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.25.3), 2 days ago) - 
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.52.1](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.52.1), 6 days ago) - kubectl plugin helping with custom resources by Giant Swarm
-- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.7.2](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.7.2), 1 week ago) - Default apps installed in VCD clusters
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.26.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.26.0), today) - 
+- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.5](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.5), 1 day ago) - 
+- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.52.1](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.52.1), 1 week ago) - kubectl plugin helping with custom resources by Giant Swarm
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Adding a new cluster in us-east-2 region](https://github.com/jkremser/fosdemo-clusters/pull/4) on [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) (4 days ago)
-- 💪 [Adding a new cluster in us-east-2 region](https://github.com/jkremser/fosdemo-clusters/pull/3) on [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) (6 days ago)
-- 💪 [Adding a new cluster in us-east-2 region](https://github.com/jkremser/fosdemo-clusters/pull/2) on [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) (1 week ago)
-- 💪 [Adding a new cluster in us-east-2 region](https://github.com/jkremser/fosdemo-clusters/pull/1) on [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) (1 week ago)
-- 💪 [Update k8gb.py](https://github.com/k8gb-io/k8gb-manim/pull/7) on [k8gb-io/k8gb-manim](https://github.com/k8gb-io/k8gb-manim) (1 week ago)
+- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/10) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (today)
 
 #### 📓 Gists I wrote
 
