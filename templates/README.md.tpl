@@ -15,6 +15,9 @@
 ![counter](https://komarev.com/ghpvc/?username=jkremser&color=5bcdec&style=for-the-badge)
 
 #### 🎖 Certificates
+```
+k get cert -A
+```
 <p align="left">
     <a style="text-decoration: none !important;" href="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url">
         <img src="https://training.linuxfoundation.org/wp-content/uploads/2022/11/CKA.png" alt="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url" width="110" height="110"/>
