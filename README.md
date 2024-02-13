@@ -32,21 +32,21 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 day ago)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 day ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 days ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (4 days ago)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (4 days ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (5 days ago)
 - :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (1 week ago)
-- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (1 week ago)
+- :octocat: / [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) - Helm chart for deploying Kubernetes clusters on VSphere (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.26.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.26.0), 1 day ago) - 
-- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.5](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.5), 2 days ago) - 
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.52.1](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.52.1), 1 week ago) - kubectl plugin helping with custom resources by Giant Swarm
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.7.3](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.7.3), 1 day ago) - Default apps installed in VCD clusters
+- 🎉 [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) ([v0.12.1](https://github.com/giantswarm/default-apps-vsphere/releases/tag/v0.12.1), 1 day ago) - Default apps installed in vSphere clusters
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.14.3](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.14.3), 1 day ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/10) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (1 day ago)
+- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/10) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -56,7 +56,7 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) - Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts. (1 week ago)
+- [kubernetes-sigs/cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) - Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts. (2 weeks ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (3 weeks ago)
 - [r0binak/MTKPI](https://github.com/r0binak/MTKPI) - 🧰 Multi Tool Kubernetes Pentest Image  (2 months ago)
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (3 months ago)
