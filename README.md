@@ -32,30 +32,30 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [giantswarm/retagger](https://github.com/giantswarm/retagger) - A tool to handle the retagging of third party docker images (2 days ago)
-- :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (5 days ago)
+- :octocat: / [giantswarm/retagger](https://github.com/giantswarm/retagger) - A tool to handle the retagging of third party docker images (5 days ago)
+- :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (1 week ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (2 weeks ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kube-vip/helm-charts](https://github.com/kube-vip/helm-charts) ([kube-vip-0.5.0](https://github.com/kube-vip/helm-charts/releases/tag/kube-vip-0.5.0), 1 day ago) - 
-- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.6](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.6), 3 days ago) - 
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.14.6](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.14.6), 6 days ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
+- 🎉 [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) ([v0.13.0](https://github.com/giantswarm/default-apps-vsphere/releases/tag/v0.13.0), 1 day ago) - Default apps installed in vSphere clusters
+- 🎉 [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) ([v1.6.0](https://github.com/giantswarm/cloud-provider-vsphere-app/releases/tag/v1.6.0), 1 day ago) - Contains the CSI and CPI for vSphere https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app
+- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.15.0](https://github.com/giantswarm/clustertest/releases/tag/v0.15.0), 2 days ago) - A test framework for helping with E2E testing of cluster creation
 
 #### 🔨 My recent Pull Requests
 
 
 #### 📓 Gists I wrote
 
-- [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (6 months ago)
-- [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (8 months ago)
+- [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (7 months ago)
+- [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (9 months ago)
 - [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (10 months ago)
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) - Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts. (3 weeks ago)
+- [kubernetes-sigs/cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) - Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts. (1 month ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (1 month ago)
 - [r0binak/MTKPI](https://github.com/r0binak/MTKPI) - 🧰 Multi Tool Kubernetes Pentest Image  (2 months ago)
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (3 months ago)
