@@ -34,15 +34,15 @@ k get cert -A
 
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
 - :octocat: / [giantswarm/retagger](https://github.com/giantswarm/retagger) - A tool to handle the retagging of third party docker images (2 weeks ago)
-- :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (2 weeks ago)
+- :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (3 weeks ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 month ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) ([v0.4.1](https://github.com/giantswarm/cluster-api-cleaner-cloud-director/releases/tag/v0.4.1), 2 days ago) - Cleans up the resources that are left behind by the capvcd provider
-- 🎉 [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) ([v0.7.2](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/releases/tag/v0.7.2), 2 days ago) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.15.1](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.15.1), 2 days ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.30.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.30.0), 1 day ago) - 
+- 🎉 [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) ([v0.4.2](https://github.com/giantswarm/cluster-api-cleaner-cloud-director/releases/tag/v0.4.2), 1 day ago) - Cleans up the resources that are left behind by the capvcd provider
+- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.16.0](https://github.com/giantswarm/clustertest/releases/tag/v0.16.0), 2 days ago) - A test framework for helping with E2E testing of cluster creation
 
 #### 🔨 My recent Pull Requests
 
