@@ -32,15 +32,15 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (5 days ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 weeks ago)
-- :octocat: / [giantswarm/retagger](https://github.com/giantswarm/retagger) - A tool to handle the retagging of third party docker images (4 weeks ago)
+- :octocat: / [giantswarm/retagger](https://github.com/giantswarm/retagger) - A tool to handle the retagging of third party docker images (1 month ago)
 - :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (1 month ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.32.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.32.0), 1 day ago) - 
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.32.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.32.0), 4 days ago) - 
 - 🎉 [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) ([v1.10.0](https://github.com/giantswarm/cluster-api-monitoring-app/releases/tag/v1.10.0), 1 week ago) - 
 - 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.15.2](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.15.2), 1 week ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
 
