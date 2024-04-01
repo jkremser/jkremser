@@ -32,7 +32,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (5 days ago)
+- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (6 days ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 weeks ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 - :octocat: / [giantswarm/retagger](https://github.com/giantswarm/retagger) - A tool to handle the retagging of third party docker images (1 month ago)
@@ -40,13 +40,13 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.33.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.33.0), 3 days ago) - 
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.52.2](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.52.2), 5 days ago) - kubectl plugin helping with custom resources by Giant Swarm
-- 🎉 [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.0-beta.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.0-beta.0), 6 days ago) - IP address Manager for Cluster API Provider Metal3
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.33.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.33.0), 4 days ago) - 
+- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.52.2](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.52.2), 6 days ago) - kubectl plugin helping with custom resources by Giant Swarm
+- 🎉 [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.0-beta.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.0-beta.0), 1 week ago) - IP address Manager for Cluster API Provider Metal3
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Support csv-format for WATCH_NAMESPACE env var](https://github.com/kedacore/keda/pull/5631) on [kedacore/keda](https://github.com/kedacore/keda) (4 days ago)
+- 💪 [Support csv-format for WATCH_NAMESPACE env var](https://github.com/kedacore/keda/pull/5631) on [kedacore/keda](https://github.com/kedacore/keda) (5 days ago)
 
 #### 📓 Gists I wrote
 
