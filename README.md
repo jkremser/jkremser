@@ -32,21 +32,21 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (6 days ago)
+- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 week ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 weeks ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
-- :octocat: / [giantswarm/retagger](https://github.com/giantswarm/retagger) - A tool to handle the retagging of third party docker images (1 month ago)
+- :octocat: / [giantswarm/retagger](https://github.com/giantswarm/retagger) - A tool to handle the retagging of third party container images (1 month ago)
 - :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.33.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.33.0), 4 days ago) - 
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.52.2](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.52.2), 6 days ago) - kubectl plugin helping with custom resources by Giant Swarm
-- 🎉 [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.0-beta.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.0-beta.0), 1 week ago) - IP address Manager for Cluster API Provider Metal3
+- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.9](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.9), 1 day ago) - 
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.10.2](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.10.2), 2 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.17.0](https://github.com/giantswarm/clustertest/releases/tag/v0.17.0), 2 days ago) - A test framework for helping with E2E testing of cluster creation
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Support csv-format for WATCH_NAMESPACE env var](https://github.com/kedacore/keda/pull/5631) on [kedacore/keda](https://github.com/kedacore/keda) (5 days ago)
+- 💪 [Support csv-format for WATCH_NAMESPACE env var](https://github.com/kedacore/keda/pull/5631) on [kedacore/keda](https://github.com/kedacore/keda) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -56,7 +56,7 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [loft-sh/cluster-api-provider-vcluster](https://github.com/loft-sh/cluster-api-provider-vcluster) -  (2 weeks ago)
+- [loft-sh/cluster-api-provider-vcluster](https://github.com/loft-sh/cluster-api-provider-vcluster) -  (3 weeks ago)
 - [AverageMarcus/cel-tester](https://github.com/AverageMarcus/cel-tester) -  (1 month ago)
 - [kubernetes-sigs/cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) - Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts. (2 months ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (2 months ago)
