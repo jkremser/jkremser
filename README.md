@@ -33,16 +33,16 @@ k get cert -A
 #### 👷 Check out what I'm currently working on
 
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 week ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 weeks ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 weeks ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 - :octocat: / [giantswarm/retagger](https://github.com/giantswarm/retagger) - A tool to handle the retagging of third party container images (1 month ago)
 - :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.9](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.9), 1 day ago) - 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.10.2](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.10.2), 2 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.17.0](https://github.com/giantswarm/clustertest/releases/tag/v0.17.0), 2 days ago) - A test framework for helping with E2E testing of cluster creation
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.34.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.34.0), 3 days ago) - 
+- 🎉 [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) ([v0.8.0](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/releases/tag/v0.8.0), 3 days ago) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app
+- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.9](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.9), 4 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
@@ -52,7 +52,7 @@ k get cert -A
 
 - [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (8 months ago)
 - [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (10 months ago)
-- [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (11 months ago)
+- [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (1 year ago)
 
 #### ⭐ Recent Stars
 
