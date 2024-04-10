@@ -32,7 +32,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 week ago)
+- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (2 weeks ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 weeks ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 - :octocat: / [giantswarm/retagger](https://github.com/giantswarm/retagger) - A tool to handle the retagging of third party container images (1 month ago)
@@ -40,13 +40,14 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.34.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.34.0), 3 days ago) - 
-- 🎉 [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) ([v0.8.0](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/releases/tag/v0.8.0), 3 days ago) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app
-- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.9](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.9), 4 days ago) - 
+- 🎉 [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) ([v1.11.0](https://github.com/giantswarm/cluster-api-monitoring-app/releases/tag/v1.11.0), 1 day ago) - 
+- 🎉 [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) ([v0.14.0](https://github.com/giantswarm/default-apps-vsphere/releases/tag/v0.14.0), 1 day ago) - Default apps installed in vSphere clusters
+- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.8.0](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.8.0), 1 day ago) - Default apps installed in VCD clusters
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Support csv-format for WATCH_NAMESPACE env var](https://github.com/kedacore/keda/pull/5631) on [kedacore/keda](https://github.com/kedacore/keda) (1 week ago)
+- 💪 [No need to list all secret in the namespace to find just one](https://github.com/kedacore/keda/pull/5669) on [kedacore/keda](https://github.com/kedacore/keda) (1 day ago)
+- 💪 [[wip] More secure rbac](https://github.com/kedacore/charts/pull/625) on [kedacore/charts](https://github.com/kedacore/charts) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -56,7 +57,7 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [loft-sh/cluster-api-provider-vcluster](https://github.com/loft-sh/cluster-api-provider-vcluster) -  (3 weeks ago)
+- [loft-sh/cluster-api-provider-vcluster](https://github.com/loft-sh/cluster-api-provider-vcluster) -  (4 weeks ago)
 - [AverageMarcus/cel-tester](https://github.com/AverageMarcus/cel-tester) -  (1 month ago)
 - [kubernetes-sigs/cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) - Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts. (2 months ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (2 months ago)
