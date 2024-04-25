@@ -32,23 +32,22 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (6 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 days ago)
+- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 week ago)
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 week ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
-- :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (1 week ago)
+- :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (2 weeks ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.18.0](https://github.com/giantswarm/clustertest/releases/tag/v0.18.0), 4 days ago) - A test framework for helping with E2E testing of cluster creation
-- 🎉 [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.0), 4 days ago) - IP address Manager for Cluster API Provider Metal3
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.36.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.36.0), 4 days ago) - 
+- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.53.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.53.0), 2 days ago) - kubectl plugin helping with custom resources by Giant Swarm
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.50.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.50.0), 2 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.37.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.37.0), 3 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/4) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
-- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/3) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
-- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/2) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
+- 💪 [Flowcontrol needs to be allowed in Metrics Server with k8s](https://github.com/kedacore/charts/pull/628) on [kedacore/charts](https://github.com/kedacore/charts) (1 day ago)
+- 💪 [Add json schema for values so that it catches typos and unsupported values](https://github.com/kedify/charts/pull/5) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
 
 #### 📓 Gists I wrote
 
