@@ -32,7 +32,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (5 days ago)
 - :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 week ago)
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 week ago)
 - :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (2 weeks ago)
@@ -40,26 +40,29 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.53.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.53.0), 2 days ago) - kubectl plugin helping with custom resources by Giant Swarm
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.50.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.50.0), 2 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.37.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.37.0), 3 days ago) - 
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.39.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.39.0), 2 days ago) - 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.0](https://github.com/kedacore/charts/releases/tag/v2.14.0), 3 days ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.0](https://github.com/kedacore/keda/releases/tag/v2.14.0), 3 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Flowcontrol needs to be allowed in Metrics Server with k8s](https://github.com/kedacore/charts/pull/628) on [kedacore/charts](https://github.com/kedacore/charts) (1 day ago)
-- 💪 [Add json schema for values so that it catches typos and unsupported values](https://github.com/kedify/charts/pull/5) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/15) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
+- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/14) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
+- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/13) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
+- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/12) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
+- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/11) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
 
 #### 📓 Gists I wrote
 
-- [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (8 months ago)
-- [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (10 months ago)
+- [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (9 months ago)
+- [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (11 months ago)
 - [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (1 year ago)
 
 #### ⭐ Recent Stars
 
 - [loft-sh/cluster-api-provider-vcluster](https://github.com/loft-sh/cluster-api-provider-vcluster) -  (1 month ago)
 - [AverageMarcus/cel-tester](https://github.com/AverageMarcus/cel-tester) -  (1 month ago)
-- [kubernetes-sigs/cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) - Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts. (2 months ago)
+- [kubernetes-sigs/cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) - Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts. (3 months ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (3 months ago)
 
 #### 💬 Feedback
