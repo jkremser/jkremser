@@ -32,25 +32,22 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (5 days ago)
-- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 week ago)
-- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 week ago)
-- :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (2 weeks ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
+- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (2 weeks ago)
+- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (2 weeks ago)
+- :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (3 weeks ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.39.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.39.0), 2 days ago) - 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.0](https://github.com/kedacore/charts/releases/tag/v2.14.0), 3 days ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.0](https://github.com/kedacore/keda/releases/tag/v2.14.0), 3 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.10](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.10), 1 day ago) - 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.1](https://github.com/kedacore/charts/releases/tag/v2.14.1), 2 days ago) - Helm charts for KEDA
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.39.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.39.1), 2 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/15) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
-- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/14) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
-- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/13) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
-- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/12) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
-- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/11) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
+- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/35) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
+- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/34) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -61,7 +58,7 @@ k get cert -A
 #### ⭐ Recent Stars
 
 - [loft-sh/cluster-api-provider-vcluster](https://github.com/loft-sh/cluster-api-provider-vcluster) -  (1 month ago)
-- [AverageMarcus/cel-tester](https://github.com/AverageMarcus/cel-tester) -  (1 month ago)
+- [AverageMarcus/cel-tester](https://github.com/AverageMarcus/cel-tester) -  (2 months ago)
 - [kubernetes-sigs/cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) - Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts. (3 months ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (3 months ago)
 
