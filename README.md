@@ -40,27 +40,25 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.10](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.10), 1 day ago) - 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.1](https://github.com/kedacore/charts/releases/tag/v2.14.1), 2 days ago) - Helm charts for KEDA
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.39.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.39.1), 2 days ago) - 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.2](https://github.com/kedacore/charts/releases/tag/v2.14.2), 1 day ago) - Helm charts for KEDA
+- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.10](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.10), 4 days ago) - 
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.39.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.39.1), 5 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/35) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
-- 💪 [Syncing upstream helm charts](https://github.com/kedify/charts/pull/34) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
 
 #### 📓 Gists I wrote
 
+- [no description](https://gist.github.com/d61a99a53023aefe09c0ca6cba218294) (2 days ago)
 - [cluster api tui](https://gist.github.com/176c5bae04a9db8feea0f72217e8eff5) (9 months ago)
 - [debug helm](https://gist.github.com/40bc6009eefdea63b57854becf8409a5) (11 months ago)
-- [kubecon-booth-demo.md](https://gist.github.com/8ec12c94e4ff2fc8aa0ee0754363a035) (1 year ago)
 
 #### ⭐ Recent Stars
 
+- [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) (2 days ago)
 - [loft-sh/cluster-api-provider-vcluster](https://github.com/loft-sh/cluster-api-provider-vcluster) -  (1 month ago)
 - [AverageMarcus/cel-tester](https://github.com/AverageMarcus/cel-tester) -  (2 months ago)
 - [kubernetes-sigs/cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) - Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts. (3 months ago)
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (3 months ago)
 
 #### 💬 Feedback
 
