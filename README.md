@@ -32,26 +32,27 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 days ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 weeks ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 days ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (5 days ago)
 - :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 month ago)
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 month ago)
 - :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.52.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.52.0), 1 day ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.42.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.42.0), 2 days ago) - 
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.55.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.55.0), 2 days ago) - kubectl plugin helping with custom resources by Giant Swarm
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.44.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.44.1), 2 days ago) - 
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.51.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.51.0), 3 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.11](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.11), 3 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Switch to -k3s1 tags and also bump k8s to v1.29.2](https://github.com/k8gb-io/k8gb/pull/1556) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 days ago)
-- 💪 [Rancher changed the suffix from k3s2 back to k3s1](https://github.com/k8gb-io/k8gb/pull/1555) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 days ago)
+- 💪 [[wip] Add stable diffusion use case](https://github.com/kedify/examples/pull/5) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
+- 💪 [Switch to -k3s1 tags and also bump k8s to v1.29.2](https://github.com/k8gb-io/k8gb/pull/1556) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (6 days ago)
+- 💪 [Rancher changed the suffix from k3s2 back to k3s1](https://github.com/k8gb-io/k8gb/pull/1555) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (6 days ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (3 days ago)
+- [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (6 days ago)
 - [no description](https://gist.github.com/ac5044a3305fb4d057bd66af22683c3a) (1 week ago)
 - [no description](https://gist.github.com/d61a99a53023aefe09c0ca6cba218294) (2 weeks ago)
 
