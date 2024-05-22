@@ -32,36 +32,37 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 days ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (5 days ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (6 days ago)
 - :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 month ago)
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 month ago)
 - :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.44.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.44.1), 2 days ago) - 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.51.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.51.0), 3 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.11](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.11), 3 days ago) - 
+- 🎉 [giantswarm/clustertest](https://github.com/giantswarm/clustertest) ([v0.22.0](https://github.com/giantswarm/clustertest/releases/tag/v0.22.0), 2 days ago) - A test framework for helping with E2E testing of cluster creation
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.44.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.44.1), 5 days ago) - 
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.51.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.51.0), 6 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [[wip] Add stable diffusion use case](https://github.com/kedify/examples/pull/5) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
-- 💪 [Switch to -k3s1 tags and also bump k8s to v1.29.2](https://github.com/k8gb-io/k8gb/pull/1556) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (6 days ago)
-- 💪 [Rancher changed the suffix from k3s2 back to k3s1](https://github.com/k8gb-io/k8gb/pull/1555) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (6 days ago)
+- 💪 [Downgrade scorecard action to one that worked](https://github.com/k8gb-io/k8gb/pull/1567) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (2 days ago)
+- 💪 [Add stable diffusion use case](https://github.com/kedify/examples/pull/5) on [kedify/examples](https://github.com/kedify/examples) (5 days ago)
+- 💪 [Switch to -k3s1 tags and also bump k8s to v1.29.2](https://github.com/k8gb-io/k8gb/pull/1556) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
+- 💪 [Rancher changed the suffix from k3s2 back to k3s1](https://github.com/k8gb-io/k8gb/pull/1555) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (6 days ago)
-- [no description](https://gist.github.com/ac5044a3305fb4d057bd66af22683c3a) (1 week ago)
+- [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (1 week ago)
+- [no description](https://gist.github.com/ac5044a3305fb4d057bd66af22683c3a) (2 weeks ago)
 - [no description](https://gist.github.com/d61a99a53023aefe09c0ca6cba218294) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [simeji/jid](https://github.com/simeji/jid) - json incremental digger (1 day ago)
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (1 day ago)
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) (2 weeks ago)
 - [loft-sh/cluster-api-provider-vcluster](https://github.com/loft-sh/cluster-api-provider-vcluster) -  (2 months ago)
-- [AverageMarcus/cel-tester](https://github.com/AverageMarcus/cel-tester) -  (2 months ago)
-- [kubernetes-sigs/cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) - Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts. (3 months ago)
 
 #### 💬 Feedback
 
