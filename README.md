@@ -33,33 +33,34 @@ k get cert -A
 #### 👷 Check out what I'm currently working on
 
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 day ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 weeks ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
 - :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 month ago)
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cloud-provider-cloud-director-app](https://github.com/giantswarm/cloud-provider-cloud-director-app) ([v0.2.11](https://github.com/giantswarm/cloud-provider-cloud-director-app/releases/tag/v0.2.11), 2 days ago) - Contains the CSI and CPI for VMware Cloud Director (VCD)
-- 🎉 [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) ([v1.14.0](https://github.com/giantswarm/cluster-api-monitoring-app/releases/tag/v1.14.0), 3 days ago) - 
+- 🎉 [giantswarm/cloud-provider-cloud-director-app](https://github.com/giantswarm/cloud-provider-cloud-director-app) ([v0.2.11](https://github.com/giantswarm/cloud-provider-cloud-director-app/releases/tag/v0.2.11), 5 days ago) - Contains the CSI and CPI for VMware Cloud Director (VCD)
+- 🎉 [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) ([v1.14.0](https://github.com/giantswarm/cluster-api-monitoring-app/releases/tag/v1.14.0), 6 days ago) - 
 - 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.52.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.52.0), 1 week ago) - Helm chart for deploying Kubernetes clusters on VSphere
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [stable-diff: add pre-stop hook that kills amqp-consume that runs in a…](https://github.com/kedify/examples/pull/21) on [kedify/examples](https://github.com/kedify/examples) (1 day ago)
-- 💪 [docs 4 stable diffusion](https://github.com/kedify/examples/pull/20) on [kedify/examples](https://github.com/kedify/examples) (1 day ago)
-- 💪 [Update page.tsx](https://github.com/kedify/examples/pull/19) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
+- 💪 [[wip] Add makefile target for creating read-only kubeconfig &amp; preparation f…](https://github.com/kedify/examples/pull/25) on [kedify/examples](https://github.com/kedify/examples) (1 day ago)
+- 💪 [css hell](https://github.com/kedify/examples/pull/24) on [kedify/examples](https://github.com/kedify/examples) (1 day ago)
+- 💪 [css foobar](https://github.com/kedify/examples/pull/23) on [kedify/examples](https://github.com/kedify/examples) (1 day ago)
+- 💪 [Data retention; light theme; probes](https://github.com/kedify/examples/pull/22) on [kedify/examples](https://github.com/kedify/examples) (1 day ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (2 weeks ago)
-- [no description](https://gist.github.com/ac5044a3305fb4d057bd66af22683c3a) (3 weeks ago)
+- [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (3 weeks ago)
+- [no description](https://gist.github.com/ac5044a3305fb4d057bd66af22683c3a) (4 weeks ago)
 - [no description](https://gist.github.com/d61a99a53023aefe09c0ca6cba218294) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [simeji/jid](https://github.com/simeji/jid) - json incremental digger (1 week ago)
-- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (1 week ago)
+- [simeji/jid](https://github.com/simeji/jid) - json incremental digger (2 weeks ago)
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (2 weeks ago)
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) (1 month ago)
 - [loft-sh/cluster-api-provider-vcluster](https://github.com/loft-sh/cluster-api-provider-vcluster) -  (2 months ago)
 
