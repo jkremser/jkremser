@@ -32,38 +32,37 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (5 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 days ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 weeks ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 weeks ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (4 weeks ago)
 - :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 month ago)
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.53.1](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.53.1), 1 day ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.53.1](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.53.1), 2 days ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
-- 🎉 [giantswarm/cluster-api-provider-vsphere-app](https://github.com/giantswarm/cluster-api-provider-vsphere-app) ([v0.12.1](https://github.com/giantswarm/cluster-api-provider-vsphere-app/releases/tag/v0.12.1), 3 days ago) - Cluster API vSphere controller packaged as a Giant Swarm app
+- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.14](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.14), 1 day ago) - 
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.45.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.45.0), 3 days ago) - 
+- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.56.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.56.0), 3 days ago) - kubectl plugin helping with custom resources by Giant Swarm
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [in parallel checkbox](https://github.com/kedify/examples/pull/26) on [kedify/examples](https://github.com/kedify/examples) (5 days ago)
+- 💪 [Switch to SJ (link, successfulJobsHistoryLimit, etc.)](https://github.com/kedify/examples/pull/27) on [kedify/examples](https://github.com/kedify/examples) (3 days ago)
+- 💪 [in parallel checkbox](https://github.com/kedify/examples/pull/26) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
 - 💪 [[wip] Add makefile target for creating read-only kubeconfig &amp; preparation f…](https://github.com/kedify/examples/pull/25) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
 - 💪 [css hell](https://github.com/kedify/examples/pull/24) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
-- 💪 [css foobar](https://github.com/kedify/examples/pull/23) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
-- 💪 [Data retention; light theme; probes](https://github.com/kedify/examples/pull/22) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (4 weeks ago)
+- [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (1 month ago)
 - [no description](https://gist.github.com/ac5044a3305fb4d057bd66af22683c3a) (1 month ago)
 - [no description](https://gist.github.com/d61a99a53023aefe09c0ca6cba218294) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (2 days ago)
-- [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 days ago)
-- [simeji/jid](https://github.com/simeji/jid) - json incremental digger (2 weeks ago)
-- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (2 weeks ago)
+- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (5 days ago)
+- [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (5 days ago)
+- [simeji/jid](https://github.com/simeji/jid) - json incremental digger (3 weeks ago)
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (3 weeks ago)
 
 #### 💬 Feedback
 
