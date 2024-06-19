@@ -32,20 +32,21 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (5 days ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 weeks ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (today)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 - :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (2 months ago)
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.47.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.47.0), 2 days ago) - 
-- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.14](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.14), 4 days ago) - 
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.56.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.56.0), 6 days ago) - kubectl plugin helping with custom resources by Giant Swarm
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.47.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.47.0), 5 days ago) - 
+- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.14](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.14), 1 week ago) - 
+- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.56.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.56.0), 1 week ago) - kubectl plugin helping with custom resources by Giant Swarm
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [Init q](https://github.com/kedify/examples/pull/28) on [kedify/examples](https://github.com/kedify/examples) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -57,8 +58,8 @@ k get cert -A
 
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (1 week ago)
 - [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
-- [simeji/jid](https://github.com/simeji/jid) - json incremental digger (3 weeks ago)
-- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (3 weeks ago)
+- [simeji/jid](https://github.com/simeji/jid) - json incremental digger (4 weeks ago)
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (4 weeks ago)
 
 #### 💬 Feedback
 
