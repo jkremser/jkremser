@@ -32,21 +32,25 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (today)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 day ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 days ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 days ago)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 days ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
-- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (2 months ago)
-- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.47.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.47.0), 5 days ago) - 
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.49.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.49.0), 1 day ago) - 
+- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.57.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.57.0), 1 day ago) - kubectl plugin helping with custom resources by Giant Swarm
 - 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.14](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.14), 1 week ago) - 
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v2.56.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v2.56.0), 1 week ago) - kubectl plugin helping with custom resources by Giant Swarm
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Init q](https://github.com/kedify/examples/pull/28) on [kedify/examples](https://github.com/kedify/examples) (1 day ago)
+- 💪 [more nsfw words](https://github.com/kedify/examples/pull/33) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
+- 💪 [stable-diff: safety checker (negating the condition)](https://github.com/kedify/examples/pull/32) on [kedify/examples](https://github.com/kedify/examples) (3 days ago)
+- 💪 [stable-diff: Add also a stoplist for the prompt](https://github.com/kedify/examples/pull/31) on [kedify/examples](https://github.com/kedify/examples) (3 days ago)
+- 💪 [stable-diff: Don&#39;t allow to create nsfw content](https://github.com/kedify/examples/pull/30) on [kedify/examples](https://github.com/kedify/examples) (3 days ago)
+- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/11) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -56,10 +60,10 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (1 week ago)
-- [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
-- [simeji/jid](https://github.com/simeji/jid) - json incremental digger (4 weeks ago)
-- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (4 weeks ago)
+- [elmiko/karpenter-provider-cluster-api](https://github.com/elmiko/karpenter-provider-cluster-api) - Cluster API Karpenter provider (3 days ago)
+- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (2 weeks ago)
+- [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
+- [simeji/jid](https://github.com/simeji/jid) - json incremental digger (1 month ago)
 
 #### 💬 Feedback
 
