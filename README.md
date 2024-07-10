@@ -32,32 +32,32 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (5 days ago)
+- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 week ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
-- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (2 weeks ago)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (2 weeks ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 weeks ago)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.57.2](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.57.2), 2 days ago) - 
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.13.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.13.0), 4 days ago) - A cloud native Kubernetes Global Balancer
-- 🎉 [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) ([v1.9.0](https://github.com/giantswarm/cloud-provider-vsphere-app/releases/tag/v1.9.0), 4 days ago) - Contains the CSI and CPI for vSphere https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.59.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.59.0), 1 day ago) - 
+- 🎉 [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) ([v1.10.0](https://github.com/giantswarm/cloud-provider-vsphere-app/releases/tag/v1.10.0), 2 days ago) - Contains the CSI and CPI for vSphere https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app
+- 🎉 [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) ([v0.15.0](https://github.com/giantswarm/default-apps-vsphere/releases/tag/v0.15.0), 2 days ago) - Default apps installed in vSphere clusters
 
 #### 🔨 My recent Pull Requests
 
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/767a53a8cbc4efaebb0423c66d5e3fdb) (1 week ago)
+- [no description](https://gist.github.com/767a53a8cbc4efaebb0423c66d5e3fdb) (2 weeks ago)
 - [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (1 month ago)
 - [no description](https://gist.github.com/ac5044a3305fb4d057bd66af22683c3a) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [elmiko/karpenter-provider-cluster-api](https://github.com/elmiko/karpenter-provider-cluster-api) - Cluster API Karpenter provider (2 weeks ago)
-- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (4 weeks ago)
-- [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (4 weeks ago)
+- [elmiko/karpenter-provider-cluster-api](https://github.com/elmiko/karpenter-provider-cluster-api) - Cluster API Karpenter provider (3 weeks ago)
+- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (1 month ago)
+- [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 month ago)
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger (1 month ago)
 
 #### 💬 Feedback
