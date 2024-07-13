@@ -33,16 +33,16 @@ k get cert -A
 #### 👷 Check out what I'm currently working on
 
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 week ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 weeks ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 weeks ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.59.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.59.0), 1 day ago) - 
-- 🎉 [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) ([v1.10.0](https://github.com/giantswarm/cloud-provider-vsphere-app/releases/tag/v1.10.0), 2 days ago) - Contains the CSI and CPI for vSphere https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app
-- 🎉 [giantswarm/default-apps-vsphere](https://github.com/giantswarm/default-apps-vsphere) ([v0.15.0](https://github.com/giantswarm/default-apps-vsphere/releases/tag/v0.15.0), 2 days ago) - Default apps installed in vSphere clusters
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.54.1](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.54.1), 2 days ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.56.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.56.0), 3 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.59.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.59.0), 4 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
@@ -50,7 +50,7 @@ k get cert -A
 #### 📓 Gists I wrote
 
 - [no description](https://gist.github.com/767a53a8cbc4efaebb0423c66d5e3fdb) (2 weeks ago)
-- [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (1 month ago)
+- [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (2 months ago)
 - [no description](https://gist.github.com/ac5044a3305fb4d057bd66af22683c3a) (2 months ago)
 
 #### ⭐ Recent Stars
