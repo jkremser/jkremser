@@ -32,28 +32,24 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/kubectl-kedify](https://github.com/jkremser/kubectl-kedify) - kubectl plugin (6 days ago)
-- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (6 days ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 weeks ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 days ago)
+- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 week ago)
+- :octocat: / [jkremser/kubectl-kedify](https://github.com/jkremser/kubectl-kedify) - kubectl plugin (1 week ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (4 weeks ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.15](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.15), 4 days ago) - 
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.56.1](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.56.1), 4 days ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
-- 🎉 [giantswarm/default-apps-cloud-director](https://github.com/giantswarm/default-apps-cloud-director) ([v0.9.0](https://github.com/giantswarm/default-apps-cloud-director/releases/tag/v0.9.0), 4 days ago) - Default apps installed in VCD clusters
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.62.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.62.0), 1 day ago) - 
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.57.1](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.57.1), 1 day ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/cloud-provider-cloud-director-app](https://github.com/giantswarm/cloud-provider-cloud-director-app) ([v0.3.1](https://github.com/giantswarm/cloud-provider-cloud-director-app/releases/tag/v0.3.1), 1 day ago) - Contains the CSI and CPI for VMware Cloud Director (VCD)
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update Kubectl Plugin - v0.0.2](https://github.com/jkremser/kubectl-kedify/pull/7) on [jkremser/kubectl-kedify](https://github.com/jkremser/kubectl-kedify) (6 days ago)
-- 💪 [Update Kubectl Plugin - v0.0.2](https://github.com/jkremser/kubectl-kedify/pull/6) on [jkremser/kubectl-kedify](https://github.com/jkremser/kubectl-kedify) (6 days ago)
-- 💪 [Update Kubectl Plugin - v0.0.1](https://github.com/jkremser/kubectl-kedify/pull/5) on [jkremser/kubectl-kedify](https://github.com/jkremser/kubectl-kedify) (6 days ago)
-- 💪 [Update Kubectl Plugin - v0.0.1](https://github.com/jkremser/kubectl-kedify/pull/4) on [jkremser/kubectl-kedify](https://github.com/jkremser/kubectl-kedify) (6 days ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/767a53a8cbc4efaebb0423c66d5e3fdb) (3 weeks ago)
+- [no description](https://gist.github.com/767a53a8cbc4efaebb0423c66d5e3fdb) (1 month ago)
 - [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (2 months ago)
 - [no description](https://gist.github.com/ac5044a3305fb4d057bd66af22683c3a) (2 months ago)
 
