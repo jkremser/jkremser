@@ -32,21 +32,20 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (5 days ago)
-- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 week ago)
-- :octocat: / [jkremser/kubectl-kedify](https://github.com/jkremser/kubectl-kedify) - kubectl plugin (1 week ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
+- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (2 weeks ago)
+- :octocat: / [jkremser/kubectl-kedify](https://github.com/jkremser/kubectl-kedify) - kubectl plugin (2 weeks ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 month ago)
-- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 month ago)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.62.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.62.1), 2 days ago) - 
-- 🎉 [giantswarm/dns-operator-route53](https://github.com/giantswarm/dns-operator-route53) ([v0.9.0](https://github.com/giantswarm/dns-operator-route53/releases/tag/v0.9.0), 3 days ago) - An operator to create DNS records on AWS Route53 for CAPI clusters
-- 🎉 [giantswarm/cluster-api-cleaner-cloud-director](https://github.com/giantswarm/cluster-api-cleaner-cloud-director) ([v0.5.0](https://github.com/giantswarm/cluster-api-cleaner-cloud-director/releases/tag/v0.5.0), 3 days ago) - Cleans up the resources that are left behind by the capvcd provider
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.58.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.58.0), 1 day ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.62.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.62.1), 5 days ago) - 
+- 🎉 [giantswarm/dns-operator-route53](https://github.com/giantswarm/dns-operator-route53) ([v0.9.0](https://github.com/giantswarm/dns-operator-route53/releases/tag/v0.9.0), 6 days ago) - An operator to create DNS records on AWS Route53 for CAPI clusters
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [x.y.z -&gt; vx.y.z so that images have the same versioning schema as keda images](https://github.com/kedacore/http-add-on/pull/1100) on [kedacore/http-add-on](https://github.com/kedacore/http-add-on) (3 days ago)
 
 #### 📓 Gists I wrote
 
