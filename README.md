@@ -40,9 +40,9 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.58.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.58.0), 1 day ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.62.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.62.1), 5 days ago) - 
-- 🎉 [giantswarm/dns-operator-route53](https://github.com/giantswarm/dns-operator-route53) ([v0.9.0](https://github.com/giantswarm/dns-operator-route53/releases/tag/v0.9.0), 6 days ago) - An operator to create DNS records on AWS Route53 for CAPI clusters
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.3](https://github.com/kedacore/charts/releases/tag/v2.14.3), 1 day ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.1](https://github.com/kedacore/keda/releases/tag/v2.14.1), 1 day ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.58.1](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.58.1), 1 day ago) - Helm chart for deploying Kubernetes clusters on VSphere
 
 #### 🔨 My recent Pull Requests
 
