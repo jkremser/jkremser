@@ -40,12 +40,13 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.3](https://github.com/kedacore/charts/releases/tag/v2.14.3), 1 day ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.1](https://github.com/kedacore/keda/releases/tag/v2.14.1), 1 day ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.58.1](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.58.1), 1 day ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.15.0](https://github.com/kedacore/keda/releases/tag/v2.15.0), 3 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.58.2](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.58.2), 3 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.3](https://github.com/kedacore/charts/releases/tag/v2.14.3), 4 days ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [Don&#39;t skip the publish step](https://github.com/kedify/charts/pull/39) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
 
 #### 📓 Gists I wrote
 
