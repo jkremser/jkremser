@@ -32,33 +32,33 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
-- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (2 weeks ago)
-- :octocat: / [jkremser/kubectl-kedify](https://github.com/jkremser/kubectl-kedify) - kubectl plugin (2 weeks ago)
+- :octocat: / [jkremser/kubectl-kedify](https://github.com/jkremser/kubectl-kedify) - kubectl plugin (1 day ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
+- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (3 weeks ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 month ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.15.0](https://github.com/kedacore/keda/releases/tag/v2.15.0), 3 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.58.2](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.58.2), 3 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.3](https://github.com/kedacore/charts/releases/tag/v2.14.3), 4 days ago) - Helm charts for KEDA
+- 🎉 [jkremser/kubectl-kedify](https://github.com/jkremser/kubectl-kedify) ([v0.0.3](https://github.com/jkremser/kubectl-kedify/releases/tag/v0.0.3), 1 day ago) - kubectl plugin
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.63.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.63.0), 1 day ago) - 
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.58.3](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.58.3), 3 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Don&#39;t skip the publish step](https://github.com/kedify/charts/pull/39) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [Update Kubectl Plugin - v0.0.3](https://github.com/jkremser/kubectl-kedify/pull/10) on [jkremser/kubectl-kedify](https://github.com/jkremser/kubectl-kedify) (1 day ago)
 
 #### 📓 Gists I wrote
 
 - [no description](https://gist.github.com/767a53a8cbc4efaebb0423c66d5e3fdb) (1 month ago)
 - [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (2 months ago)
-- [no description](https://gist.github.com/ac5044a3305fb4d057bd66af22683c3a) (2 months ago)
+- [no description](https://gist.github.com/ac5044a3305fb4d057bd66af22683c3a) (3 months ago)
 
 #### ⭐ Recent Stars
 
 - [elmiko/karpenter-provider-cluster-api](https://github.com/elmiko/karpenter-provider-cluster-api) - Cluster API Karpenter provider (1 month ago)
-- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (1 month ago)
-- [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 month ago)
+- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (2 months ago)
+- [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 months ago)
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger (2 months ago)
 
 #### 💬 Feedback
