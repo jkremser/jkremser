@@ -32,33 +32,33 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (2 days ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 days ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
-- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (3 weeks ago)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 month ago)
+- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (1 day ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (6 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 weeks ago)
+- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (4 weeks ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.63.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.63.1), 2 days ago) - 
-- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.3](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.3), 4 days ago) - kubectl plugin
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.58.3](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.58.3), 6 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.59.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.59.0), 1 day ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/cloud-provider-vsphere-app](https://github.com/giantswarm/cloud-provider-vsphere-app) ([v1.11.0](https://github.com/giantswarm/cloud-provider-vsphere-app/releases/tag/v1.11.0), 1 day ago) - Contains the CSI and CPI for vSphere https://cloud-provider-vsphere.sigs.k8s.io packaged as a Giant Swarm app
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.15.1](https://github.com/kedacore/charts/releases/tag/v2.15.1), 1 day ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Migrate from jkremser -&gt; kedify org](https://github.com/kedify/kubectl-kedify/pull/11) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (2 days ago)
-- 💪 [Update Kubectl Plugin - v0.0.3](https://github.com/kedify/kubectl-kedify/pull/10) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (4 days ago)
+- 💪 [Update Kubectl Plugin - v0.0.4](https://github.com/kedify/kubectl-kedify/pull/12) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (1 day ago)
+- 💪 [Migrate from jkremser -&gt; kedify org](https://github.com/kedify/kubectl-kedify/pull/11) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (5 days ago)
 
 #### 📓 Gists I wrote
 
 - [no description](https://gist.github.com/767a53a8cbc4efaebb0423c66d5e3fdb) (1 month ago)
-- [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (2 months ago)
+- [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (3 months ago)
 - [no description](https://gist.github.com/ac5044a3305fb4d057bd66af22683c3a) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [wozniakjan/kmg](https://github.com/wozniakjan/kmg) -  (1 day ago)
-- [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes (3 days ago)
+- [wozniakjan/kmg](https://github.com/wozniakjan/kmg) -  (4 days ago)
+- [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes (6 days ago)
 - [elmiko/karpenter-provider-cluster-api](https://github.com/elmiko/karpenter-provider-cluster-api) - Cluster API Karpenter provider (1 month ago)
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (2 months ago)
 
