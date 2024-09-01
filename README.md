@@ -40,9 +40,9 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.16](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.16), 2 days ago) - 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.67.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.67.0), 4 days ago) - 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.61.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.61.0), 5 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.16](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.16), 3 days ago) - 
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.67.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.67.0), 5 days ago) - 
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.61.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.61.0), 6 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
 
 #### 🔨 My recent Pull Requests
 
