@@ -32,36 +32,36 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
+- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (2 days ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
-- :octocat: / [kedify/test-data](https://github.com/kedify/test-data) - Testing resources for Kedify &amp; KEDA (2 weeks ago)
-- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (2 weeks ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 weeks ago)
-- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 month ago)
+- :octocat: / [kedify/test-data](https://github.com/kedify/test-data) - Testing resources for Kedify &amp; KEDA (3 weeks ago)
+- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (3 weeks ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.16](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.16), 3 days ago) - 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.67.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.67.0), 5 days ago) - 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.61.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.61.0), 6 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.63.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.63.0), 1 day ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.17.16](https://github.com/giantswarm/kyverno-app/releases/tag/v0.17.16), 6 days ago) - 
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.67.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.67.0), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [yaml: restartPolicy should be under container spec &#43; docs](https://github.com/kedify/test-data/pull/3) on [kedify/test-data](https://github.com/kedify/test-data) (2 weeks ago)
-- 💪 [yaml: restartPolicy should be under container spec &#43; docs](https://github.com/kedify/test-data/pull/2) on [kedify/test-data](https://github.com/kedify/test-data) (2 weeks ago)
-- 💪 [Other workloads](https://github.com/kedify/test-data/pull/1) on [kedify/test-data](https://github.com/kedify/test-data) (2 weeks ago)
+- 💪 [yaml: restartPolicy should be under container spec &#43; docs](https://github.com/kedify/test-data/pull/3) on [kedify/test-data](https://github.com/kedify/test-data) (3 weeks ago)
+- 💪 [yaml: restartPolicy should be under container spec &#43; docs](https://github.com/kedify/test-data/pull/2) on [kedify/test-data](https://github.com/kedify/test-data) (3 weeks ago)
+- 💪 [Other workloads](https://github.com/kedify/test-data/pull/1) on [kedify/test-data](https://github.com/kedify/test-data) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/abee4e0ee17bac1713160c2b347aed61) (1 week ago)
+- [no description](https://gist.github.com/abee4e0ee17bac1713160c2b347aed61) (2 weeks ago)
 - [no description](https://gist.github.com/767a53a8cbc4efaebb0423c66d5e3fdb) (2 months ago)
 - [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (3 months ago)
 
 #### ⭐ Recent Stars
 
+- [berops/claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes (3 days ago)
 - [wozniakjan/kmg](https://github.com/wozniakjan/kmg) -  (3 weeks ago)
-- [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes (3 weeks ago)
+- [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes (4 weeks ago)
 - [elmiko/karpenter-provider-cluster-api](https://github.com/elmiko/karpenter-provider-cluster-api) - Cluster API Karpenter provider (2 months ago)
-- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (2 months ago)
 
 #### 💬 Feedback
 
