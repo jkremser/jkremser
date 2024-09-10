@@ -32,17 +32,17 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (5 days ago)
+- :octocat: / [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 day ago)
+- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 week ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 weeks ago)
 - :octocat: / [kedify/test-data](https://github.com/kedify/test-data) - Testing resources for Kedify &amp; KEDA (3 weeks ago)
-- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (3 weeks ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 month ago)
+- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.69.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.69.0), 1 day ago) - 
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v4.1.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v4.1.0), 3 days ago) - kubectl plugin helping with custom resources by Giant Swarm
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.63.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.63.0), 4 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.57.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.57.0), 3 days ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.69.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.69.0), 4 days ago) - 
+- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v4.1.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v4.1.0), 6 days ago) - kubectl plugin helping with custom resources by Giant Swarm
 
 #### 🔨 My recent Pull Requests
 
@@ -51,14 +51,14 @@ k get cert -A
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/abee4e0ee17bac1713160c2b347aed61) (2 weeks ago)
+- [no description](https://gist.github.com/abee4e0ee17bac1713160c2b347aed61) (3 weeks ago)
 - [no description](https://gist.github.com/767a53a8cbc4efaebb0423c66d5e3fdb) (2 months ago)
-- [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (3 months ago)
+- [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [berops/claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes (6 days ago)
-- [wozniakjan/kmg](https://github.com/wozniakjan/kmg) -  (4 weeks ago)
+- [berops/claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes (1 week ago)
+- [wozniakjan/kmg](https://github.com/wozniakjan/kmg) -  (1 month ago)
 - [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes (1 month ago)
 - [elmiko/karpenter-provider-cluster-api](https://github.com/elmiko/karpenter-provider-cluster-api) - Cluster API Karpenter provider (2 months ago)
 
