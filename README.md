@@ -32,22 +32,21 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 day ago)
+- :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (2 days ago)
+- :octocat: / [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (4 days ago)
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 week ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 weeks ago)
-- :octocat: / [kedify/test-data](https://github.com/kedify/test-data) - Testing resources for Kedify &amp; KEDA (3 weeks ago)
-- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (4 weeks ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (4 weeks ago)
+- :octocat: / [kedify/test-data](https://github.com/kedify/test-data) - Testing resources for Kedify &amp; KEDA (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.57.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.57.0), 3 days ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.69.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.69.0), 4 days ago) - 
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v4.1.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v4.1.0), 6 days ago) - kubectl plugin helping with custom resources by Giant Swarm
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.57.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.57.0), 6 days ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.69.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.69.0), 1 week ago) - 
+- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v4.1.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v4.1.0), 1 week ago) - kubectl plugin helping with custom resources by Giant Swarm
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [yaml: restartPolicy should be under container spec &#43; docs](https://github.com/kedify/test-data/pull/3) on [kedify/test-data](https://github.com/kedify/test-data) (3 weeks ago)
-- 💪 [yaml: restartPolicy should be under container spec &#43; docs](https://github.com/kedify/test-data/pull/2) on [kedify/test-data](https://github.com/kedify/test-data) (3 weeks ago)
+- 💪 [yaml: restartPolicy should be under container spec &#43; docs](https://github.com/kedify/test-data/pull/3) on [kedify/test-data](https://github.com/kedify/test-data) (1 month ago)
 
 #### 📓 Gists I wrote
 
