@@ -32,34 +32,34 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (3 days ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 days ago)
+- :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (6 days ago)
 - :octocat: / [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 week ago)
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (2 weeks ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
-- :octocat: / [kedify/test-data](https://github.com/kedify/test-data) - Testing resources for Kedify &amp; KEDA (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.70.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.70.0), 2 days ago) - 
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.14.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.14.0), 3 days ago) - A cloud native Kubernetes Global Balancer
 - 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.57.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.57.0), 1 week ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.69.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.69.0), 1 week ago) - 
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v4.1.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v4.1.0), 1 week ago) - kubectl plugin helping with custom resources by Giant Swarm
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [yaml: restartPolicy should be under container spec &#43; docs](https://github.com/kedify/test-data/pull/3) on [kedify/test-data](https://github.com/kedify/test-data) (1 month ago)
+- 💪 [RELEASE: v0.14.0](https://github.com/k8gb-io/k8gb/pull/1732) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 days ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/abee4e0ee17bac1713160c2b347aed61) (4 weeks ago)
+- [no description](https://gist.github.com/795191744bdf3050e91b54a8e24d7c52) (3 days ago)
+- [no description](https://gist.github.com/abee4e0ee17bac1713160c2b347aed61) (1 month ago)
 - [no description](https://gist.github.com/767a53a8cbc4efaebb0423c66d5e3fdb) (2 months ago)
-- [no description](https://gist.github.com/3a636b3309bb1a7e45140b82d5766ae5) (4 months ago)
 
 #### ⭐ Recent Stars
 
+- [revapi/revapi](https://github.com/revapi/revapi) -   Revapi is an API analysis and change tracking tool written in Java.  Its focus is mainly on Java language itself but it has been specifically designed to not be limited to just Java. API is much more than just java classes - also various configuration files, schemas, etc. can contribute to it and users can become reliant on them. (1 day ago)
 - [berops/claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes (2 weeks ago)
 - [wozniakjan/kmg](https://github.com/wozniakjan/kmg) -  (1 month ago)
 - [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes (1 month ago)
-- [elmiko/karpenter-provider-cluster-api](https://github.com/elmiko/karpenter-provider-cluster-api) - Cluster API Karpenter provider (2 months ago)
 
 #### 💬 Feedback
 
