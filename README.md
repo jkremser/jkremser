@@ -32,33 +32,33 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 days ago)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 days ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (6 days ago)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (6 days ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (6 days ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
 - :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (1 week ago)
-- :octocat: / [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 week ago)
+- :octocat: / [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.70.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.70.1), 3 days ago) - 
-- 🎉 [giantswarm/cluster-api-provider-cloud-director-app](https://github.com/giantswarm/cluster-api-provider-cloud-director-app) ([v0.8.1](https://github.com/giantswarm/cluster-api-provider-cloud-director-app/releases/tag/v0.8.1), 3 days ago) - Cluster API VMware Cloud Director (VCD) controller packaged as a Giant Swarm app
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.14.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.14.0), 6 days ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.71.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.71.1), 1 day ago) - 
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.64.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.64.0), 1 day ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.58.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.58.0), 1 day ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/12) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (3 days ago)
-- 💪 [RELEASE: v0.14.0](https://github.com/k8gb-io/k8gb/pull/1732) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (6 days ago)
+- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/12) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (6 days ago)
+- 💪 [RELEASE: v0.14.0](https://github.com/k8gb-io/k8gb/pull/1732) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/795191744bdf3050e91b54a8e24d7c52) (6 days ago)
+- [no description](https://gist.github.com/795191744bdf3050e91b54a8e24d7c52) (1 week ago)
 - [no description](https://gist.github.com/abee4e0ee17bac1713160c2b347aed61) (1 month ago)
-- [no description](https://gist.github.com/767a53a8cbc4efaebb0423c66d5e3fdb) (2 months ago)
+- [no description](https://gist.github.com/767a53a8cbc4efaebb0423c66d5e3fdb) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (3 days ago)
-- [revapi/revapi](https://github.com/revapi/revapi) -   Revapi is an API analysis and change tracking tool written in Java.  Its focus is mainly on Java language itself but it has been specifically designed to not be limited to just Java. API is much more than just java classes - also various configuration files, schemas, etc. can contribute to it and users can become reliant on them. (4 days ago)
+- [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (6 days ago)
+- [revapi/revapi](https://github.com/revapi/revapi) -   Revapi is an API analysis and change tracking tool written in Java.  Its focus is mainly on Java language itself but it has been specifically designed to not be limited to just Java. API is much more than just java classes - also various configuration files, schemas, etc. can contribute to it and users can become reliant on them. (1 week ago)
 - [berops/claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes (3 weeks ago)
 - [wozniakjan/kmg](https://github.com/wozniakjan/kmg) -  (1 month ago)
 
