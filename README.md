@@ -32,21 +32,20 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (2 weeks ago)
-- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (2 weeks ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 weeks ago)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 weeks ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 weeks ago)
 - :octocat: / [jkremser/fosdemo-clusters](https://github.com/jkremser/fosdemo-clusters) -  (3 weeks ago)
-- :octocat: / [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (4 weeks ago)
+- :octocat: / [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.18.1](https://github.com/giantswarm/kyverno-app/releases/tag/v0.18.1), 6 days ago) - 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.71.2](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.71.2), 1 week ago) - 
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.59.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.59.0), 1 week ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.72.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.72.0), 2 days ago) - 
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.60.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.60.0), 3 days ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
+- 🎉 [giantswarm/kyverno-app](https://github.com/giantswarm/kyverno-app) ([v0.18.1](https://github.com/giantswarm/kyverno-app/releases/tag/v0.18.1), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update webpage](https://github.com/jkremser/jkremser.github.io/pull/12) on [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -56,10 +55,10 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (2 weeks ago)
-- [revapi/revapi](https://github.com/revapi/revapi) -   Revapi is an API analysis and change tracking tool written in Java.  Its focus is mainly on Java language itself but it has been specifically designed to not be limited to just Java. API is much more than just java classes - also various configuration files, schemas, etc. can contribute to it and users can become reliant on them. (2 weeks ago)
+- [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (3 weeks ago)
+- [revapi/revapi](https://github.com/revapi/revapi) -   Revapi is an API analysis and change tracking tool written in Java.  Its focus is mainly on Java language itself but it has been specifically designed to not be limited to just Java. API is much more than just java classes - also various configuration files, schemas, etc. can contribute to it and users can become reliant on them. (3 weeks ago)
 - [berops/claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes (1 month ago)
-- [wozniakjan/kmg](https://github.com/wozniakjan/kmg) -  (1 month ago)
+- [wozniakjan/kmg](https://github.com/wozniakjan/kmg) -  (2 months ago)
 
 #### 💬 Feedback
 
