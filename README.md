@@ -40,16 +40,16 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.61.2](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.61.2), 2 days ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.15.2](https://github.com/kedacore/charts/releases/tag/v2.15.2), 2 days ago) - Helm charts for KEDA
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.74.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.74.0), 4 days ago) - 
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.62.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.62.0), 1 day ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.15.2](https://github.com/kedacore/charts/releases/tag/v2.15.2), 5 days ago) - Helm charts for KEDA
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.74.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.74.0), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Turn off linting for stefanprodan/helm-gh-pages action &#43; add dependen…](https://github.com/kedify/charts/pull/55) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
-- 💪 [Don&#39;t wait for agent to be ready (for now)](https://github.com/kedify/charts/pull/54) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
-- 💪 [add helm repos (templating failed because of dependent charts)](https://github.com/kedify/charts/pull/53) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
-- 💪 [First shot of the agent helm chart](https://github.com/kedify/charts/pull/51) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
+- 💪 [Turn off linting for stefanprodan/helm-gh-pages action &#43; add dependen…](https://github.com/kedify/charts/pull/55) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
+- 💪 [Don&#39;t wait for agent to be ready (for now)](https://github.com/kedify/charts/pull/54) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
+- 💪 [add helm repos (templating failed because of dependent charts)](https://github.com/kedify/charts/pull/53) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
+- 💪 [First shot of the agent helm chart](https://github.com/kedify/charts/pull/51) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
 
 #### 📓 Gists I wrote
 
