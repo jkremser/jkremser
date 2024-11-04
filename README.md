@@ -32,7 +32,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) -  (2 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) -  (5 days ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (1 week ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 weeks ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 weeks ago)
@@ -40,9 +40,9 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.75.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.75.1), 1 day ago) - 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.65.2](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.65.2), 4 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v4.3.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v4.3.0), 4 days ago) - kubectl plugin helping with custom resources by Giant Swarm
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.75.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.75.1), 4 days ago) - 
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.65.2](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.65.2), 1 week ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v4.3.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v4.3.0), 1 week ago) - kubectl plugin helping with custom resources by Giant Swarm
 
 #### 🔨 My recent Pull Requests
 
@@ -59,9 +59,9 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [gardener/pvc-autoscaler](https://github.com/gardener/pvc-autoscaler) - Kubernetes PVC autoscaler (today)
-- [dash0hq/otelbin](https://github.com/dash0hq/otelbin) - Web-based tool to facilitate OpenTelemetry collector configuration editing and verification (1 day ago)
-- [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries (3 days ago)
+- [gardener/pvc-autoscaler](https://github.com/gardener/pvc-autoscaler) - Kubernetes PVC autoscaler (3 days ago)
+- [dash0hq/otelbin](https://github.com/dash0hq/otelbin) - Web-based tool to facilitate OpenTelemetry collector configuration editing and verification (4 days ago)
+- [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries (6 days ago)
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (1 month ago)
 
 #### 💬 Feedback
