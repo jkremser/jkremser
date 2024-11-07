@@ -32,36 +32,34 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) -  (5 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) -  (1 week ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (1 week ago)
-- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 weeks ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 weeks ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 weeks ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.75.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.75.1), 4 days ago) - 
+- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v4.3.1](https://github.com/giantswarm/kubectl-gs/releases/tag/v4.3.1), 3 days ago) - kubectl plugin helping with custom resources by Giant Swarm
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.75.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.75.1), 1 week ago) - 
 - 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.65.2](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.65.2), 1 week ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v4.3.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v4.3.0), 1 week ago) - kubectl plugin helping with custom resources by Giant Swarm
 
 #### 🔨 My recent Pull Requests
 
 - 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/9) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
 - 💪 [add license &#43; support also vx.y.z releases](https://github.com/kedify/otel-add-on/pull/8) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/7) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
-- 💪 [Add a way to push the metrics from sidecars to OTEL collector](https://github.com/dapr/dapr/pull/8235) on [dapr/dapr](https://github.com/dapr/dapr) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [pre-fetch images](https://gist.github.com/28cff52b8a6c15cc6e0a34a1674c004e) (1 week ago)
+- [pre-fetch images](https://gist.github.com/28cff52b8a6c15cc6e0a34a1674c004e) (2 weeks ago)
 - [no description](https://gist.github.com/795191744bdf3050e91b54a8e24d7c52) (1 month ago)
 - [no description](https://gist.github.com/abee4e0ee17bac1713160c2b347aed61) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [gardener/pvc-autoscaler](https://github.com/gardener/pvc-autoscaler) - Kubernetes PVC autoscaler (3 days ago)
-- [dash0hq/otelbin](https://github.com/dash0hq/otelbin) - Web-based tool to facilitate OpenTelemetry collector configuration editing and verification (4 days ago)
-- [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries (6 days ago)
+- [gardener/pvc-autoscaler](https://github.com/gardener/pvc-autoscaler) - Kubernetes PVC autoscaler (6 days ago)
+- [dash0hq/otelbin](https://github.com/dash0hq/otelbin) - Web-based tool to facilitate OpenTelemetry collector configuration editing and verification (1 week ago)
+- [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries (1 week ago)
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (1 month ago)
 
 #### 💬 Feedback
