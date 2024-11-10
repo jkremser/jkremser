@@ -33,21 +33,20 @@ k get cert -A
 #### 👷 Check out what I'm currently working on
 
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) -  (1 week ago)
-- :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (1 week ago)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 weeks ago)
-- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 weeks ago)
+- :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (2 weeks ago)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 month ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 month ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v4.3.1](https://github.com/giantswarm/kubectl-gs/releases/tag/v4.3.1), 3 days ago) - kubectl plugin helping with custom resources by Giant Swarm
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.75.1](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.75.1), 1 week ago) - 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.65.2](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.65.2), 1 week ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.76.3](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.76.3), 2 days ago) - 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.16.0](https://github.com/kedacore/charts/releases/tag/v2.16.0), 3 days ago) - Helm charts for KEDA
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.63.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.63.0), 3 days ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/9) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
-- 💪 [add license &#43; support also vx.y.z releases](https://github.com/kedify/otel-add-on/pull/8) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
+- 💪 [Add install mechanism for PRPs](https://github.com/kedify/charts/pull/61) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -57,10 +56,10 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [gardener/pvc-autoscaler](https://github.com/gardener/pvc-autoscaler) - Kubernetes PVC autoscaler (6 days ago)
+- [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website (1 day ago)
+- [gardener/pvc-autoscaler](https://github.com/gardener/pvc-autoscaler) - Kubernetes PVC autoscaler (1 week ago)
 - [dash0hq/otelbin](https://github.com/dash0hq/otelbin) - Web-based tool to facilitate OpenTelemetry collector configuration editing and verification (1 week ago)
 - [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries (1 week ago)
-- [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (1 month ago)
 
 #### 💬 Feedback
 
