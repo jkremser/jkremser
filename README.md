@@ -34,33 +34,35 @@ k get cert -A
 
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 day ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (3 weeks ago)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 month ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 month ago)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 month ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v4.5.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v4.5.0), 1 day ago) - kubectl plugin helping with custom resources by Giant Swarm
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.76.4](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.76.4), 2 days ago) - 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.66.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.66.0), 2 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/kubectl-gs](https://github.com/giantswarm/kubectl-gs) ([v4.5.0](https://github.com/giantswarm/kubectl-gs/releases/tag/v4.5.0), 4 days ago) - kubectl plugin helping with custom resources by Giant Swarm
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.76.4](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.76.4), 5 days ago) - 
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.66.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.66.0), 5 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [test e2e pipeline](https://github.com/kedify/otel-add-on/pull/12) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
-- 💪 [Basic e2e tests](https://github.com/kedify/otel-add-on/pull/11) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
+- 💪 [Add json tags, so that json payload has camelCase keys for REST](https://github.com/kedify/otel-add-on/pull/14) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
+- 💪 [Simple REST (read-only) api for dumping the mem store - debug purposes](https://github.com/kedify/otel-add-on/pull/13) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
+- 💪 [test e2e pipeline](https://github.com/kedify/otel-add-on/pull/12) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
+- 💪 [Basic e2e tests](https://github.com/kedify/otel-add-on/pull/11) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (6 days ago)
 
 #### 📓 Gists I wrote
 
 - [pre-fetch images](https://gist.github.com/28cff52b8a6c15cc6e0a34a1674c004e) (3 weeks ago)
 - [no description](https://gist.github.com/795191744bdf3050e91b54a8e24d7c52) (2 months ago)
-- [no description](https://gist.github.com/abee4e0ee17bac1713160c2b347aed61) (2 months ago)
+- [no description](https://gist.github.com/abee4e0ee17bac1713160c2b347aed61) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 day ago)
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 day ago)
+- [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags (1 day ago)
+- [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (4 days ago)
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (4 days ago)
 - [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website (1 week ago)
-- [gardener/pvc-autoscaler](https://github.com/gardener/pvc-autoscaler) - Kubernetes PVC autoscaler (2 weeks ago)
 
 #### 💬 Feedback
 
