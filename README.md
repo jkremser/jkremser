@@ -32,25 +32,25 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (2 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 day ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (1 month ago)
-- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 month ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 month ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 month ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.2](https://github.com/kedify/otel-add-on/releases/tag/v0.0.2), 5 days ago) - Bridge between OTEL and KEDA api
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.79.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.79.0), 6 days ago) - 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.66.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.66.0), 1 week ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.4](https://github.com/kedify/otel-add-on/releases/tag/v0.0.4), 1 day ago) - Bridge between OTEL and KEDA api
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.80.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.80.0), 3 days ago) - 
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.66.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.66.0), 2 weeks ago) - Helm chart for deploying Kubernetes clusters on VSphere
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add json schema for values.yaml](https://github.com/kedify/otel-add-on/pull/30) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
-- 💪 [pr pipeline (on close): Don&#39;t fail the job when image is not present in the registry](https://github.com/kedify/otel-add-on/pull/23) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/17) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (5 days ago)
-- 💪 [Use OCI registry for helm charts](https://github.com/kedify/otel-add-on/pull/16) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (5 days ago)
-- 💪 [Helm docs](https://github.com/kedify/otel-add-on/pull/15) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (6 days ago)
+- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/38) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
+- 💪 [rest api: 2 new endpoints](https://github.com/kedify/otel-add-on/pull/37) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
+- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/34) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
+- 💪 [docs: tip about calling ForceFlush](https://github.com/kedify/otel-add-on/pull/32) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
+- 💪 [Add json schema for values.yaml](https://github.com/kedify/otel-add-on/pull/30) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -60,8 +60,8 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
+- [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (3 days ago)
 - [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags (1 week ago)
-- [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 week ago)
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 week ago)
 - [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website (2 weeks ago)
 
