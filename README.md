@@ -32,7 +32,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 day ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (3 days ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (1 month ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 month ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 month ago)
@@ -40,17 +40,16 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.4](https://github.com/kedify/otel-add-on/releases/tag/v0.0.4), 1 day ago) - Bridge between OTEL and KEDA api
-- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.80.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.80.0), 3 days ago) - 
+- 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.81.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.81.0), 2 days ago) - 
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.4](https://github.com/kedify/otel-add-on/releases/tag/v0.0.4), 4 days ago) - Bridge between OTEL and KEDA api
 - 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.66.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.66.0), 2 weeks ago) - Helm chart for deploying Kubernetes clusters on VSphere
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/38) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
-- 💪 [rest api: 2 new endpoints](https://github.com/kedify/otel-add-on/pull/37) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/34) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
-- 💪 [docs: tip about calling ForceFlush](https://github.com/kedify/otel-add-on/pull/32) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
-- 💪 [Add json schema for values.yaml](https://github.com/kedify/otel-add-on/pull/30) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
+- 💪 [Call also helm dependency update](https://github.com/kedify/charts/pull/75) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
+- 💪 [Bump default agent&#39;s image tag to v0.1.6](https://github.com/kedify/charts/pull/74) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
+- 💪 [agent chart: Allow for simplified rbac for metric gathering](https://github.com/kedify/charts/pull/73) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
+- 💪 [http-add-on: Fix the json schema for resources](https://github.com/kedify/charts/pull/72) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -60,10 +59,10 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (3 days ago)
+- [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (6 days ago)
 - [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags (1 week ago)
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 week ago)
-- [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website (2 weeks ago)
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (2 weeks ago)
+- [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website (3 weeks ago)
 
 #### 💬 Feedback
 
