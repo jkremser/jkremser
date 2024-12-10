@@ -32,23 +32,23 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (5 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 week ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (1 month ago)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 month ago)
-- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (1 month ago)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (2 months ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (2 months ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.67.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.67.0), 5 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.67.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.67.0), 1 week ago) - Helm chart for deploying Kubernetes clusters on VSphere
 - 🎉 [giantswarm/cluster-test-suites](https://github.com/giantswarm/cluster-test-suites) ([v1.81.0](https://github.com/giantswarm/cluster-test-suites/releases/tag/v1.81.0), 1 week ago) - 
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.4](https://github.com/kedify/otel-add-on/releases/tag/v0.0.4), 1 week ago) - Bridge between OTEL and KEDA api
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [bump default agent version &#43; renovate auto](https://github.com/kedify/charts/pull/79) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
-- 💪 [Start the k3d cluster also when releasing kedify-agent](https://github.com/kedify/charts/pull/78) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
-- 💪 [Start the metric collection even if the install mode = Disabled](https://github.com/kedify/charts/pull/77) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
+- 💪 [bump default agent version &#43; renovate auto](https://github.com/kedify/charts/pull/79) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
+- 💪 [Start the k3d cluster also when releasing kedify-agent](https://github.com/kedify/charts/pull/78) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
+- 💪 [Start the metric collection even if the install mode = Disabled](https://github.com/kedify/charts/pull/77) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -58,10 +58,10 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 week ago)
-- [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags (2 weeks ago)
+- [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (2 weeks ago)
+- [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags (3 weeks ago)
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (3 weeks ago)
-- [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website (4 weeks ago)
+- [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website (1 month ago)
 
 #### 💬 Feedback
 
