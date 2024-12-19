@@ -32,35 +32,35 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (6 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 week ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (1 month ago)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (2 months ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (2 months ago)
+- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (2 months ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.64.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.64.0), 5 days ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.68.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.68.0), 5 days ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.4](https://github.com/kedify/otel-add-on/releases/tag/v0.0.4), 2 weeks ago) - Bridge between OTEL and KEDA api
+- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.64.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.64.0), 1 week ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.68.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.68.0), 1 week ago) - Helm chart for deploying Kubernetes clusters on VSphere
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.4](https://github.com/kedify/otel-add-on/releases/tag/v0.0.4), 3 weeks ago) - Bridge between OTEL and KEDA api
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [bump default agent version &#43; renovate auto](https://github.com/kedify/charts/pull/79) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
-- 💪 [Start the k3d cluster also when releasing kedify-agent](https://github.com/kedify/charts/pull/78) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
+- 💪 [bump default agent version &#43; renovate auto](https://github.com/kedify/charts/pull/79) on [kedify/charts](https://github.com/kedify/charts) (2 weeks ago)
+- 💪 [Start the k3d cluster also when releasing kedify-agent](https://github.com/kedify/charts/pull/78) on [kedify/charts](https://github.com/kedify/charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
 - [pre-fetch images](https://gist.github.com/28cff52b8a6c15cc6e0a34a1674c004e) (1 month ago)
 - [no description](https://gist.github.com/795191744bdf3050e91b54a8e24d7c52) (3 months ago)
-- [no description](https://gist.github.com/abee4e0ee17bac1713160c2b347aed61) (3 months ago)
+- [no description](https://gist.github.com/abee4e0ee17bac1713160c2b347aed61) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) - Kubernetes Cluster Proportional Autoscaler Container (2 days ago)
+- [monkale-io/coredns-manager-operator](https://github.com/monkale-io/coredns-manager-operator) - With the CoreDNS Manager Operator, you can handle internal DNS directly within your Kubernetes cluster, simplifying the process and reducing infrastructure needs. (1 day ago)
+- [kubernetes-sigs/cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) - Kubernetes Cluster Proportional Autoscaler Container (5 days ago)
 - [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (3 weeks ago)
-- [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags (4 weeks ago)
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 month ago)
+- [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags (1 month ago)
 
 #### 💬 Feedback
 
