@@ -40,9 +40,9 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-cloud-director](https://github.com/giantswarm/cluster-cloud-director) ([v0.64.0](https://github.com/giantswarm/cluster-cloud-director/releases/tag/v0.64.0), 1 week ago) - App to provision a cluster with Cluster API provider VMware Cloud Director (VCD) using the Giant Swarm app platform
 - 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.68.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.68.0), 1 week ago) - Helm chart for deploying Kubernetes clusters on VSphere
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.4](https://github.com/kedify/otel-add-on/releases/tag/v0.0.4), 3 weeks ago) - Bridge between OTEL and KEDA api
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.16.0](https://github.com/kedacore/charts/releases/tag/v2.16.0), 1 month ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
@@ -57,10 +57,10 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [monkale-io/coredns-manager-operator](https://github.com/monkale-io/coredns-manager-operator) - With the CoreDNS Manager Operator, you can handle internal DNS directly within your Kubernetes cluster, simplifying the process and reducing infrastructure needs. (1 day ago)
-- [kubernetes-sigs/cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) - Kubernetes Cluster Proportional Autoscaler Container (5 days ago)
-- [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (3 weeks ago)
-- [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags (1 month ago)
+- [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee: (1 day ago)
+- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. (1 day ago)
+- [monkale-io/coredns-manager-operator](https://github.com/monkale-io/coredns-manager-operator) - With the CoreDNS Manager Operator, you can handle internal DNS directly within your Kubernetes cluster, simplifying the process and reducing infrastructure needs. (4 days ago)
+- [kubernetes-sigs/cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) - Kubernetes Cluster Proportional Autoscaler Container (1 week ago)
 
 #### 💬 Feedback
 
