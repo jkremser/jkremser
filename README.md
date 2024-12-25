@@ -32,34 +32,34 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 week ago)
-- :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (1 month ago)
-- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (2 months ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (2 weeks ago)
+- :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (2 months ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (2 months ago)
+- :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (2 months ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.68.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.68.0), 1 week ago) - Helm chart for deploying Kubernetes clusters on VSphere
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.4](https://github.com/kedify/otel-add-on/releases/tag/v0.0.4), 3 weeks ago) - Bridge between OTEL and KEDA api
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.16.0](https://github.com/kedacore/charts/releases/tag/v2.16.0), 1 month ago) - Helm charts for KEDA
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.16.1](https://github.com/kedacore/charts/releases/tag/v2.16.1), 1 day ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.16.1](https://github.com/kedacore/keda/releases/tag/v2.16.1), 1 day ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [giantswarm/cluster-vsphere](https://github.com/giantswarm/cluster-vsphere) ([v0.68.0](https://github.com/giantswarm/cluster-vsphere/releases/tag/v0.68.0), 2 weeks ago) - Helm chart for deploying Kubernetes clusters on VSphere
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [bump default agent version &#43; renovate auto](https://github.com/kedify/charts/pull/79) on [kedify/charts](https://github.com/kedify/charts) (2 weeks ago)
-- 💪 [Start the k3d cluster also when releasing kedify-agent](https://github.com/kedify/charts/pull/78) on [kedify/charts](https://github.com/kedify/charts) (2 weeks ago)
+- 💪 [bump default agent version &#43; renovate auto](https://github.com/kedify/charts/pull/79) on [kedify/charts](https://github.com/kedify/charts) (3 weeks ago)
+- 💪 [Start the k3d cluster also when releasing kedify-agent](https://github.com/kedify/charts/pull/78) on [kedify/charts](https://github.com/kedify/charts) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
-- [pre-fetch images](https://gist.github.com/28cff52b8a6c15cc6e0a34a1674c004e) (1 month ago)
+- [pre-fetch images](https://gist.github.com/28cff52b8a6c15cc6e0a34a1674c004e) (2 months ago)
 - [no description](https://gist.github.com/795191744bdf3050e91b54a8e24d7c52) (3 months ago)
 - [no description](https://gist.github.com/abee4e0ee17bac1713160c2b347aed61) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee: (1 day ago)
-- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. (1 day ago)
-- [monkale-io/coredns-manager-operator](https://github.com/monkale-io/coredns-manager-operator) - With the CoreDNS Manager Operator, you can handle internal DNS directly within your Kubernetes cluster, simplifying the process and reducing infrastructure needs. (4 days ago)
+- [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee: (4 days ago)
+- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. (4 days ago)
+- [monkale-io/coredns-manager-operator](https://github.com/monkale-io/coredns-manager-operator) - With the CoreDNS Manager Operator, you can handle internal DNS directly within your Kubernetes cluster, simplifying the process and reducing infrastructure needs. (1 week ago)
 - [kubernetes-sigs/cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) - Kubernetes Cluster Proportional Autoscaler Container (1 week ago)
 
 #### 💬 Feedback
