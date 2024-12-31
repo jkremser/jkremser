@@ -32,7 +32,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (2 weeks ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (3 weeks ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (2 months ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (2 months ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (2 months ago)
@@ -40,14 +40,14 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.9.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.9.0), 2 days ago) - Helm charts for KEDA
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.9.0](https://github.com/kedacore/http-add-on/releases/tag/v0.9.0), 2 days ago) - Add-on for KEDA to scale HTTP workloads
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.16.1](https://github.com/kedacore/keda/releases/tag/v2.16.1), 4 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.9.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.9.0), 5 days ago) - Helm charts for KEDA
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.9.0](https://github.com/kedacore/http-add-on/releases/tag/v0.9.0), 5 days ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.16.1](https://github.com/kedacore/keda/releases/tag/v2.16.1), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [bump default agent version &#43; renovate auto](https://github.com/kedify/charts/pull/79) on [kedify/charts](https://github.com/kedify/charts) (3 weeks ago)
-- 💪 [Start the k3d cluster also when releasing kedify-agent](https://github.com/kedify/charts/pull/78) on [kedify/charts](https://github.com/kedify/charts) (3 weeks ago)
+- 💪 [bump default agent version &#43; renovate auto](https://github.com/kedify/charts/pull/79) on [kedify/charts](https://github.com/kedify/charts) (4 weeks ago)
+- 💪 [Start the k3d cluster also when releasing kedify-agent](https://github.com/kedify/charts/pull/78) on [kedify/charts](https://github.com/kedify/charts) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
