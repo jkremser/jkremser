@@ -40,14 +40,14 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.9.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.9.0), 6 days ago) - Helm charts for KEDA
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.9.0](https://github.com/kedacore/http-add-on/releases/tag/v0.9.0), 6 days ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.9.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.9.0), 1 week ago) - Helm charts for KEDA
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.9.0](https://github.com/kedacore/http-add-on/releases/tag/v0.9.0), 1 week ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.16.1](https://github.com/kedacore/keda/releases/tag/v2.16.1), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [bump default agent version &#43; renovate auto](https://github.com/kedify/charts/pull/79) on [kedify/charts](https://github.com/kedify/charts) (4 weeks ago)
-- 💪 [Start the k3d cluster also when releasing kedify-agent](https://github.com/kedify/charts/pull/78) on [kedify/charts](https://github.com/kedify/charts) (4 weeks ago)
+- 💪 [bump default agent version &#43; renovate auto](https://github.com/kedify/charts/pull/79) on [kedify/charts](https://github.com/kedify/charts) (1 month ago)
+- 💪 [Start the k3d cluster also when releasing kedify-agent](https://github.com/kedify/charts/pull/78) on [kedify/charts](https://github.com/kedify/charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
@@ -57,10 +57,10 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee: (1 week ago)
-- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. (1 week ago)
+- [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (1 day ago)
+- [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee: (2 weeks ago)
+- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. (2 weeks ago)
 - [monkale-io/coredns-manager-operator](https://github.com/monkale-io/coredns-manager-operator) - With the CoreDNS Manager Operator, you can handle internal DNS directly within your Kubernetes cluster, simplifying the process and reducing infrastructure needs. (2 weeks ago)
-- [kubernetes-sigs/cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) - Kubernetes Cluster Proportional Autoscaler Container (2 weeks ago)
 
 #### 💬 Feedback
 
