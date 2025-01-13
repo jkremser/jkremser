@@ -46,6 +46,7 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [Add count operation (useful if multiple metrics match the labels)](https://github.com/kedify/otel-add-on/pull/45) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -56,8 +57,8 @@ k get cert -A
 #### ⭐ Recent Stars
 
 - [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (1 week ago)
-- [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee: (2 weeks ago)
-- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. (2 weeks ago)
+- [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee: (3 weeks ago)
+- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. (3 weeks ago)
 - [monkale-io/coredns-manager-operator](https://github.com/monkale-io/coredns-manager-operator) - With the CoreDNS Manager Operator, you can handle internal DNS directly within your Kubernetes cluster, simplifying the process and reducing infrastructure needs. (3 weeks ago)
 
 #### 💬 Feedback
