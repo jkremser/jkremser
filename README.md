@@ -32,7 +32,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 day ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (4 days ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (2 months ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 months ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 months ago)
@@ -40,15 +40,15 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.5](https://github.com/kedify/otel-add-on/releases/tag/v0.0.5), 3 days ago) - Bridge between OTEL and KEDA api
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.5](https://github.com/kedify/otel-add-on/releases/tag/v0.0.5), 6 days ago) - Bridge between OTEL and KEDA api
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.9.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.9.0), 3 weeks ago) - Helm charts for KEDA
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.9.0](https://github.com/kedacore/http-add-on/releases/tag/v0.9.0), 3 weeks ago) - Add-on for KEDA to scale HTTP workloads
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/48) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
-- 💪 [Allow reporting the float value from external scaler](https://github.com/kedacore/keda/pull/6482) on [kedacore/keda](https://github.com/kedacore/keda) (3 days ago)
-- 💪 [Using float value &gt; 0 as the activation criterium](https://github.com/kedify/otel-add-on/pull/47) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
+- 💪 [Add dummy config for otel addon](https://github.com/kedify/charts/pull/91) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
+- 💪 [Allow changing installation namespace also for the keda scaler](https://github.com/kedify/otel-add-on/pull/53) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
+- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/48) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -58,10 +58,10 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (1 week ago)
-- [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee: (3 weeks ago)
-- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. (3 weeks ago)
-- [monkale-io/coredns-manager-operator](https://github.com/monkale-io/coredns-manager-operator) - With the CoreDNS Manager Operator, you can handle internal DNS directly within your Kubernetes cluster, simplifying the process and reducing infrastructure needs. (4 weeks ago)
+- [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (2 weeks ago)
+- [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee: (4 weeks ago)
+- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. (4 weeks ago)
+- [monkale-io/coredns-manager-operator](https://github.com/monkale-io/coredns-manager-operator) - With the CoreDNS Manager Operator, you can handle internal DNS directly within your Kubernetes cluster, simplifying the process and reducing infrastructure needs. (1 month ago)
 
 #### 💬 Feedback
 
