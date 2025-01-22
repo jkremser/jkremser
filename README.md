@@ -32,7 +32,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (4 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 day ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (2 months ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 months ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 months ago)
@@ -40,27 +40,29 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.5](https://github.com/kedify/otel-add-on/releases/tag/v0.0.5), 6 days ago) - Bridge between OTEL and KEDA api
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.5](https://github.com/kedify/otel-add-on/releases/tag/v0.0.5), 1 week ago) - Bridge between OTEL and KEDA api
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.9.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.9.0), 3 weeks ago) - Helm charts for KEDA
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.9.0](https://github.com/kedacore/http-add-on/releases/tag/v0.9.0), 3 weeks ago) - Add-on for KEDA to scale HTTP workloads
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add dummy config for otel addon](https://github.com/kedify/charts/pull/91) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
-- 💪 [Allow changing installation namespace also for the keda scaler](https://github.com/kedify/otel-add-on/pull/53) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/48) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (6 days ago)
+- 💪 [Ignore SOs that doesn&#39;t contain such trigger &#43; make it more DRY](https://github.com/kedify/otel-add-on/pull/59) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
+- 💪 [Add ValidatingAdmissionPolicy](https://github.com/kedify/otel-add-on/pull/56) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
+- 💪 [Add docs about internal REST api and config validation](https://github.com/kedify/otel-add-on/pull/55) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
+- 💪 [Add dummy config for otel addon](https://github.com/kedify/charts/pull/91) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
+- 💪 [Allow changing installation namespace also for the keda scaler](https://github.com/kedify/otel-add-on/pull/53) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (5 days ago)
 
 #### 📓 Gists I wrote
 
-- [pre-fetch images](https://gist.github.com/28cff52b8a6c15cc6e0a34a1674c004e) (2 months ago)
+- [icanteen tampermonkey script](https://gist.github.com/c30a542575e487cddc0674225f2c833a) (2 days ago)
+- [pre-fetch images](https://gist.github.com/28cff52b8a6c15cc6e0a34a1674c004e) (3 months ago)
 - [no description](https://gist.github.com/795191744bdf3050e91b54a8e24d7c52) (4 months ago)
-- [no description](https://gist.github.com/abee4e0ee17bac1713160c2b347aed61) (5 months ago)
 
 #### ⭐ Recent Stars
 
 - [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (2 weeks ago)
-- [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee: (4 weeks ago)
-- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. (4 weeks ago)
+- [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee: (1 month ago)
+- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. (1 month ago)
 - [monkale-io/coredns-manager-operator](https://github.com/monkale-io/coredns-manager-operator) - With the CoreDNS Manager Operator, you can handle internal DNS directly within your Kubernetes cluster, simplifying the process and reducing infrastructure needs. (1 month ago)
 
 #### 💬 Feedback
