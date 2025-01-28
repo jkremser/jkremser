@@ -32,7 +32,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (3 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (6 days ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (3 months ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 months ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 months ago)
@@ -40,23 +40,23 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.5](https://github.com/kedify/otel-add-on/releases/tag/v0.0.5), 1 week ago) - Bridge between OTEL and KEDA api
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.5](https://github.com/kedify/otel-add-on/releases/tag/v0.0.5), 2 weeks ago) - Bridge between OTEL and KEDA api
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.9.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.9.0), 1 month ago) - Helm charts for KEDA
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.9.0](https://github.com/kedacore/http-add-on/releases/tag/v0.9.0), 1 month ago) - Add-on for KEDA to scale HTTP workloads
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [kedify-agent: release v0.1.12](https://github.com/kedify/charts/pull/102) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
-- 💪 [adding back the Disabled value](https://github.com/kedify/charts/pull/100) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
-- 💪 [Rbac for can-adopt](https://github.com/kedify/charts/pull/99) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
-- 💪 [Rbac for can-adopt](https://github.com/kedify/charts/pull/98) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
-- 💪 [Rbac](https://github.com/kedacore/charts/pull/729) on [kedacore/charts](https://github.com/kedacore/charts) (3 days ago)
+- 💪 [kedify-agent: release v0.1.12](https://github.com/kedify/charts/pull/102) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
+- 💪 [adding back the Disabled value](https://github.com/kedify/charts/pull/100) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
+- 💪 [Rbac for can-adopt](https://github.com/kedify/charts/pull/99) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
+- 💪 [Rbac for can-adopt](https://github.com/kedify/charts/pull/98) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
+- 💪 [Rbac](https://github.com/kedacore/charts/pull/729) on [kedacore/charts](https://github.com/kedacore/charts) (6 days ago)
 
 #### 📓 Gists I wrote
 
-- [icanteen tampermonkey script](https://gist.github.com/c30a542575e487cddc0674225f2c833a) (5 days ago)
+- [icanteen tampermonkey script](https://gist.github.com/c30a542575e487cddc0674225f2c833a) (1 week ago)
 - [pre-fetch images](https://gist.github.com/28cff52b8a6c15cc6e0a34a1674c004e) (3 months ago)
-- [no description](https://gist.github.com/795191744bdf3050e91b54a8e24d7c52) (4 months ago)
+- [OpenSourceSummit demo - k8gb](https://gist.github.com/795191744bdf3050e91b54a8e24d7c52) (4 months ago)
 
 #### ⭐ Recent Stars
 
