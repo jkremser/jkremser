@@ -32,11 +32,11 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (6 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 day ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 day ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 days ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (3 months ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 months ago)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 months ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -46,11 +46,9 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [kedify-agent: release v0.1.12](https://github.com/kedify/charts/pull/102) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
-- 💪 [adding back the Disabled value](https://github.com/kedify/charts/pull/100) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
-- 💪 [Rbac for can-adopt](https://github.com/kedify/charts/pull/99) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
-- 💪 [Rbac for can-adopt](https://github.com/kedify/charts/pull/98) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
-- 💪 [Rbac](https://github.com/kedacore/charts/pull/729) on [kedacore/charts](https://github.com/kedacore/charts) (6 days ago)
+- 💪 [typos](https://github.com/kedify/examples/pull/56) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
+- 💪 [typo - tab](https://github.com/kedify/examples/pull/55) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
+- 💪 [Add migration tutorial from Prometheus scaler to OTel Scaler](https://github.com/kedify/examples/pull/54) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -60,7 +58,7 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (3 weeks ago)
+- [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (4 weeks ago)
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee: (1 month ago)
 - [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. (1 month ago)
 - [monkale-io/coredns-manager-operator](https://github.com/monkale-io/coredns-manager-operator) - With the CoreDNS Manager Operator, you can handle internal DNS directly within your Kubernetes cluster, simplifying the process and reducing infrastructure needs. (1 month ago)
