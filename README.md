@@ -32,9 +32,9 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 day ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 day ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 days ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (3 months ago)
 - :octocat: / [jkremser/jkremser.github.io](https://github.com/jkremser/jkremser.github.io) - Created dynamically from https://github.com/jkremser/web (3 months ago)
 
@@ -46,9 +46,10 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [typos](https://github.com/kedify/examples/pull/56) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
-- 💪 [typo - tab](https://github.com/kedify/examples/pull/55) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
-- 💪 [Add migration tutorial from Prometheus scaler to OTel Scaler](https://github.com/kedify/examples/pull/54) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
+- 💪 [Add metadata for keda scaler](https://github.com/kedify/otel-add-on/pull/63) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
+- 💪 [typos](https://github.com/kedify/examples/pull/56) on [kedify/examples](https://github.com/kedify/examples) (3 days ago)
+- 💪 [typo - tab](https://github.com/kedify/examples/pull/55) on [kedify/examples](https://github.com/kedify/examples) (3 days ago)
+- 💪 [Add migration tutorial from Prometheus scaler to OTel Scaler](https://github.com/kedify/examples/pull/54) on [kedify/examples](https://github.com/kedify/examples) (3 days ago)
 
 #### 📓 Gists I wrote
 
