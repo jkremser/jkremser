@@ -25,6 +25,9 @@ k get cert -A
     <a style="text-decoration: none !important;" href="https://www.credly.com/badges/346440ab-00a3-4c19-bc5d-0b46378c1191/public_url">
         <img src="https://training.linuxfoundation.org/wp-content/uploads/2022/11/CKS.png" alt="https://www.credly.com/badges/346440ab-00a3-4c19-bc5d-0b46378c1191/public_url" width="110" height="110"/>
     </a>
+    <a style="text-decoration: none !important;" href="https://www.credly.com/badges/516e70e3-37ce-4001-84ee-57ceb8f0abeb/public_url">
+        <img src="https://training.linuxfoundation.org/wp-content/uploads/2020/11/lfcs_111820-300x300.png" alt="https://www.credly.com/badges/516e70e3-37ce-4001-84ee-57ceb8f0abeb/public_url" width="110" height="110"/>
+    </a>
     <a style="text-decoration: none !important;" href="https://rhtapps.redhat.com/verify/?certId=120-194-022">
         <img src="./rhca.png" alt="https://rhtapps.redhat.com/verify/?certId=120-194-022" width="100" height="100"/>
     </a>
@@ -32,9 +35,9 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (4 days ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (5 days ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (6 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (5 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (6 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (3 months ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 months ago)
 
@@ -46,14 +49,12 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [ci: new job, new checkout](https://github.com/kedify/charts/pull/109) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
-- 💪 [Add metadata for keda scaler](https://github.com/kedify/otel-add-on/pull/63) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
-- 💪 [typos](https://github.com/kedify/examples/pull/56) on [kedify/examples](https://github.com/kedify/examples) (6 days ago)
-- 💪 [typo - tab](https://github.com/kedify/examples/pull/55) on [kedify/examples](https://github.com/kedify/examples) (6 days ago)
+- 💪 [ci: new job, new checkout](https://github.com/kedify/charts/pull/109) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
+- 💪 [Add metadata for keda scaler](https://github.com/kedify/otel-add-on/pull/63) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (5 days ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/745f70911ca695b13c5e9b330c1959cc) (today)
+- [no description](https://gist.github.com/745f70911ca695b13c5e9b330c1959cc) (1 day ago)
 - [icanteen tampermonkey script](https://gist.github.com/c30a542575e487cddc0674225f2c833a) (2 weeks ago)
 - [pre-fetch images](https://gist.github.com/28cff52b8a6c15cc6e0a34a1674c004e) (3 months ago)
 
