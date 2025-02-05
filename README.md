@@ -6,6 +6,18 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                a:has(img) {
+                    text-decoration: none !important;
+                }
+            </style>
+        </div>
+    </foreignObject>
+</svg>
+
 #### 📱 Code stats
 
 ![jkremser's github stats](https://github-readme-stats.vercel.app/api?username=jkremser&count_private=true&show_icons=true&hide_border=false&theme=tokyonight&title_color=5bcdec&bg_color=0d1117&border_radius=false) ![head](https://user-images.githubusercontent.com/535866/175570014-71166aaa-95f7-4a4f-869c-93a16481de4e.jpeg)
@@ -19,16 +31,16 @@
 k get cert -A
 ```
 <p align="left">
-    <a style="text-decoration: none !important;" href="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url">
+    <a href="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url">
         <img src="https://training.linuxfoundation.org/wp-content/uploads/2022/11/CKA.png" alt="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url" width="110" height="110"/>
     </a>
-    <a style="text-decoration: none !important;" href="https://www.credly.com/badges/346440ab-00a3-4c19-bc5d-0b46378c1191/public_url">
+    <a href="https://www.credly.com/badges/346440ab-00a3-4c19-bc5d-0b46378c1191/public_url">
         <img src="https://training.linuxfoundation.org/wp-content/uploads/2022/11/CKS.png" alt="https://www.credly.com/badges/346440ab-00a3-4c19-bc5d-0b46378c1191/public_url" width="110" height="110"/>
     </a>
-    <a style="text-decoration: none !important;" href="https://www.credly.com/badges/516e70e3-37ce-4001-84ee-57ceb8f0abeb/public_url">
+    <a href="https://www.credly.com/badges/516e70e3-37ce-4001-84ee-57ceb8f0abeb/public_url">
         <img src="https://training.linuxfoundation.org/wp-content/uploads/2020/11/lfcs_111820-300x300.png" alt="https://www.credly.com/badges/516e70e3-37ce-4001-84ee-57ceb8f0abeb/public_url" width="110" height="110"/>
     </a>
-    <a style="text-decoration: none !important;" href="https://rhtapps.redhat.com/verify/?certId=120-194-022">
+    <a href="https://rhtapps.redhat.com/verify/?certId=120-194-022">
         <img src="./rhca.png" alt="https://rhtapps.redhat.com/verify/?certId=120-194-022" width="100" height="100"/>
     </a>
 </p>
