@@ -25,6 +25,9 @@ k get cert -A
     <a style="text-decoration: none !important;" href="https://www.credly.com/badges/346440ab-00a3-4c19-bc5d-0b46378c1191/public_url">
         <img src="https://training.linuxfoundation.org/wp-content/uploads/2022/11/CKS.png" alt="https://www.credly.com/badges/346440ab-00a3-4c19-bc5d-0b46378c1191/public_url" width="110" height="110"/>
     </a>
+    <a style="text-decoration: none !important;" href="https://www.credly.com/badges/516e70e3-37ce-4001-84ee-57ceb8f0abeb/public_url">
+        <img src="https://training.linuxfoundation.org/wp-content/uploads/2020/11/lfcs_111820-300x300.png" alt="https://www.credly.com/badges/516e70e3-37ce-4001-84ee-57ceb8f0abeb/public_url" width="110" height="110"/>
+    </a>
     <a style="text-decoration: none !important;" href="https://rhtapps.redhat.com/verify/?certId=120-194-022">
         <img src="./rhca.png" alt="https://rhtapps.redhat.com/verify/?certId=120-194-022" width="100" height="100"/>
     </a>
