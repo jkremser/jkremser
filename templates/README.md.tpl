@@ -5,18 +5,7 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                a:has(img) {
-                    text-decoration: none !important;
-                }
-            </style>
-        </div>
-    </foreignObject>
-</svg>
+<img src="css.svg" width="5" height="5" alt="css-in-readme">
 
 #### 📱 Code stats
 
