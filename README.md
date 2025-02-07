@@ -36,8 +36,8 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (5 days ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (6 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 day ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (3 months ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (3 months ago)
@@ -50,12 +50,11 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [ci: new job, new checkout](https://github.com/kedify/charts/pull/109) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
-- 💪 [Add metadata for keda scaler](https://github.com/kedify/otel-add-on/pull/63) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (5 days ago)
+- 💪 [Fix #60: OTEL -&gt; OTel](https://github.com/kedify/otel-add-on/pull/64) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/745f70911ca695b13c5e9b330c1959cc) (1 day ago)
+- [no description](https://gist.github.com/745f70911ca695b13c5e9b330c1959cc) (3 days ago)
 - [icanteen tampermonkey script](https://gist.github.com/c30a542575e487cddc0674225f2c833a) (2 weeks ago)
 - [pre-fetch images](https://gist.github.com/28cff52b8a6c15cc6e0a34a1674c004e) (3 months ago)
 
