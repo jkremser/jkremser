@@ -36,11 +36,11 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 day ago)
-- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 day ago)
-- :octocat: / [kedacore/test-tools](https://github.com/kedacore/test-tools) - Repository provides all tooling for running our tests (2 days ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (3 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 days ago)
+- :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (3 days ago)
+- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (4 days ago)
+- :octocat: / [kedacore/test-tools](https://github.com/kedacore/test-tools) - Repository provides all tooling for running our tests (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -50,10 +50,11 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add kedify as maintainer](https://github.com/kedify/otel-add-on/pull/67) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
-- 💪 [Add implementation of lazy metric storage - off by default](https://github.com/kedify/otel-add-on/pull/66) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
-- 💪 [Update the e2e test image for external-scaler to work also with floats](https://github.com/kedacore/test-tools/pull/195) on [kedacore/test-tools](https://github.com/kedacore/test-tools) (2 days ago)
-- 💪 [Fix #60: OTEL -&gt; OTel](https://github.com/kedify/otel-add-on/pull/64) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
+- 💪 [Add pod id label to each metric](https://github.com/houshengbo/kubecon-2025-eu/pull/2) on [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) (3 days ago)
+- 💪 [Add KEDA and KEDA OTel scaler and wire the things together](https://github.com/houshengbo/kubecon-2025-eu/pull/1) on [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) (3 days ago)
+- 💪 [Add kedify as maintainer](https://github.com/kedify/otel-add-on/pull/67) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
+- 💪 [Add implementation of lazy metric storage - off by default](https://github.com/kedify/otel-add-on/pull/66) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
+- 💪 [Update the e2e test image for external-scaler to work also with floats](https://github.com/kedacore/test-tools/pull/195) on [kedacore/test-tools](https://github.com/kedacore/test-tools) (5 days ago)
 
 #### 📓 Gists I wrote
 
@@ -63,8 +64,8 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [Azure/gpu-provisioner](https://github.com/Azure/gpu-provisioner) - gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM (5 days ago)
-- [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (5 days ago)
+- [Azure/gpu-provisioner](https://github.com/Azure/gpu-provisioner) - gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM (1 week ago)
+- [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (1 week ago)
 - [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (1 month ago)
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee: (1 month ago)
 
