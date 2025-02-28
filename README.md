@@ -36,23 +36,23 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 day ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
-- :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (1 week ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 week ago)
-- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 week ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 day ago)
+- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (3 days ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 days ago)
+- :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (2 weeks ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.10.0](https://github.com/kedacore/http-add-on/releases/tag/v0.10.0), 4 days ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.10.0](https://github.com/kedacore/http-add-on/releases/tag/v0.10.0), 1 week ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.5](https://github.com/kedify/otel-add-on/releases/tag/v0.0.5), 1 month ago) - Bridge between OTEL and KEDA api
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.9.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.9.0), 2 months ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Allow a configmap w/ values per namespace &amp; don&#39;t allow changing names of deployment and svc](https://github.com/kedify/charts/pull/126) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
-- 💪 [golangci option](https://github.com/jkremser/log2rbac-operator/pull/221) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 day ago)
-- 💪 [Add kedify proxy chart pipeline](https://github.com/kedify/charts/pull/120) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
+- 💪 [ubuntu-20.04 hosted runner image is closing down: bump to 24.04](https://github.com/jkremser/log2rbac-operator/pull/223) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (3 days ago)
+- 💪 [ubuntu-20.04 hosted runner image is closing down: bump to 24.04](https://github.com/k8gb-io/k8gb/pull/1836) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 days ago)
+- 💪 [Allow a configmap w/ values per namespace &amp; don&#39;t allow changing names of deployment and svc](https://github.com/kedify/charts/pull/126) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
 
 #### 📓 Gists I wrote
 
