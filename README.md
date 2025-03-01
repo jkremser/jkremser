@@ -36,9 +36,9 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 day ago)
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (3 days ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (2 days ago)
+- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (4 days ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (4 days ago)
 - :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (2 weeks ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
 
@@ -50,9 +50,9 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [ubuntu-20.04 hosted runner image is closing down: bump to 24.04](https://github.com/jkremser/log2rbac-operator/pull/223) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (3 days ago)
-- 💪 [ubuntu-20.04 hosted runner image is closing down: bump to 24.04](https://github.com/k8gb-io/k8gb/pull/1836) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 days ago)
-- 💪 [Allow a configmap w/ values per namespace &amp; don&#39;t allow changing names of deployment and svc](https://github.com/kedify/charts/pull/126) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
+- 💪 [ubuntu-20.04 hosted runner image is closing down: bump to 24.04](https://github.com/jkremser/log2rbac-operator/pull/223) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (4 days ago)
+- 💪 [ubuntu-20.04 hosted runner image is closing down: bump to 24.04](https://github.com/k8gb-io/k8gb/pull/1836) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (4 days ago)
+- 💪 [Allow a configmap w/ values per namespace &amp; don&#39;t allow changing names of deployment and svc](https://github.com/kedify/charts/pull/126) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
 
 #### 📓 Gists I wrote
 
@@ -62,8 +62,8 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [Azure/gpu-provisioner](https://github.com/Azure/gpu-provisioner) - gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM (2 weeks ago)
-- [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (2 weeks ago)
+- [Azure/gpu-provisioner](https://github.com/Azure/gpu-provisioner) - gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM (3 weeks ago)
+- [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (3 weeks ago)
 - [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (1 month ago)
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee: (2 months ago)
 
