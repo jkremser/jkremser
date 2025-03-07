@@ -36,35 +36,37 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (5 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (2 days ago)
 - :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 week ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
-- :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (2 weeks ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
+- :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (3 weeks ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.10.0](https://github.com/kedacore/http-add-on/releases/tag/v0.10.0), 1 week ago) - Add-on for KEDA to scale HTTP workloads
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.5](https://github.com/kedify/otel-add-on/releases/tag/v0.0.5), 1 month ago) - Bridge between OTEL and KEDA api
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.6](https://github.com/kedify/otel-add-on/releases/tag/v0.0.6), 3 days ago) - Bridge between OTEL and KEDA api
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.10.0](https://github.com/kedacore/http-add-on/releases/tag/v0.10.0), 2 weeks ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.9.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.9.0), 2 months ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [ubuntu-20.04 hosted runner image is closing down: bump to 24.04](https://github.com/jkremser/log2rbac-operator/pull/223) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (1 week ago)
-- 💪 [ubuntu-20.04 hosted runner image is closing down: bump to 24.04](https://github.com/k8gb-io/k8gb/pull/1836) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (1 week ago)
+- 💪 [Bump the memory for kedify-agent](https://github.com/kedify/charts/pull/134) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
+- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/76) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
+- 💪 [Use custom template for the table w/ values](https://github.com/kedify/otel-add-on/pull/74) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
+- 💪 [Use custom template for the table w/ values](https://github.com/kedify/charts/pull/131) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/745f70911ca695b13c5e9b330c1959cc) (4 weeks ago)
+- [no description](https://gist.github.com/745f70911ca695b13c5e9b330c1959cc) (1 month ago)
 - [icanteen tampermonkey script](https://gist.github.com/c30a542575e487cddc0674225f2c833a) (1 month ago)
 - [pre-fetch images](https://gist.github.com/28cff52b8a6c15cc6e0a34a1674c004e) (4 months ago)
 
 #### ⭐ Recent Stars
 
+- [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (1 day ago)
 - [Azure/gpu-provisioner](https://github.com/Azure/gpu-provisioner) - gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM (3 weeks ago)
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (3 weeks ago)
 - [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (2 months ago)
-- [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee: (2 months ago)
 
 #### 💬 Feedback
 
