@@ -36,27 +36,26 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (today)
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (2 weeks ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (3 days ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 weeks ago)
-- :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (4 weeks ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (4 weeks ago)
+- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (2 weeks ago)
+- :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (1 month ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.6](https://github.com/kedify/otel-add-on/releases/tag/v0.0.6), 1 week ago) - Bridge between OTEL and KEDA api
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.10.0](https://github.com/kedacore/http-add-on/releases/tag/v0.10.0), 2 weeks ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.10.0](https://github.com/kedacore/http-add-on/releases/tag/v0.10.0), 3 weeks ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.9.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.9.0), 2 months ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Make sure the exposed metrics are updated when there is a change to triggers](https://github.com/kedacore/keda/pull/6618) on [kedacore/keda](https://github.com/kedacore/keda) (1 day ago)
+- 💪 [Make sure the exposed metrics are updated when there is a change to triggers](https://github.com/kedacore/keda/pull/6618) on [kedacore/keda](https://github.com/kedacore/keda) (4 days ago)
 - 💪 [Bump the memory for kedify-agent](https://github.com/kedify/charts/pull/134) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/76) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/ad3dc850b96b54ecc8657204645300e9) (2 days ago)
+- [no description](https://gist.github.com/ad3dc850b96b54ecc8657204645300e9) (5 days ago)
 - [no description](https://gist.github.com/745f70911ca695b13c5e9b330c1959cc) (1 month ago)
 - [icanteen tampermonkey script](https://gist.github.com/c30a542575e487cddc0674225f2c833a) (1 month ago)
 
