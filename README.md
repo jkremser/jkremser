@@ -36,7 +36,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (6 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 week ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 weeks ago)
 - :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (3 weeks ago)
 - :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (1 month ago)
@@ -45,23 +45,23 @@ k get cert -A
 #### 🔭 Latest releases I've contributed to
 
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.6](https://github.com/kedify/otel-add-on/releases/tag/v0.0.6), 2 weeks ago) - Bridge between OTEL and KEDA api
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.10.0](https://github.com/kedacore/http-add-on/releases/tag/v0.10.0), 3 weeks ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.10.0](https://github.com/kedacore/http-add-on/releases/tag/v0.10.0), 4 weeks ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.9.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.9.0), 2 months ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update additionalPrinterColumns for kedifyconfiguration CRD](https://github.com/kedify/charts/pull/139) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
+- 💪 [Update additionalPrinterColumns for kedifyconfiguration CRD](https://github.com/kedify/charts/pull/139) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
 - 💪 [Make sure the exposed metrics are updated when there is a change to triggers](https://github.com/kedacore/keda/pull/6618) on [kedacore/keda](https://github.com/kedacore/keda) (1 week ago)
 
 #### 📓 Gists I wrote
 
 - [no description](https://gist.github.com/ad3dc850b96b54ecc8657204645300e9) (1 week ago)
 - [no description](https://gist.github.com/745f70911ca695b13c5e9b330c1959cc) (1 month ago)
-- [icanteen tampermonkey script](https://gist.github.com/c30a542575e487cddc0674225f2c833a) (1 month ago)
+- [icanteen tampermonkey script](https://gist.github.com/c30a542575e487cddc0674225f2c833a) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (1 week ago)
+- [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (2 weeks ago)
 - [Azure/gpu-provisioner](https://github.com/Azure/gpu-provisioner) - gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM (1 month ago)
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (1 month ago)
 - [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (2 months ago)
