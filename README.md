@@ -36,22 +36,23 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (2 days ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 week ago)
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (4 weeks ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (4 weeks ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
+- :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (2 days ago)
+- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (5 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (2 weeks ago)
+- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 month ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.6](https://github.com/kedify/otel-add-on/releases/tag/v0.0.6), 3 weeks ago) - Bridge between OTEL and KEDA api
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.10.0](https://github.com/kedacore/http-add-on/releases/tag/v0.10.0), 1 month ago) - Add-on for KEDA to scale HTTP workloads
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.9.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.9.0), 2 months ago) - Helm charts for KEDA
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.9.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.9.0), 3 months ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [Add infra for gcp (Node auto-scaling using ClusterAPI)](https://github.com/houshengbo/kubecon-2025-eu/pull/3) on [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) (2 days ago)
 - 💪 [Update additionalPrinterColumns for kedifyconfiguration CRD](https://github.com/kedify/charts/pull/139) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
-- 💪 [Make sure the exposed metrics are updated when there is a change to triggers](https://github.com/kedacore/keda/pull/6618) on [kedacore/keda](https://github.com/kedacore/keda) (1 week ago)
+- 💪 [Make sure the exposed metrics are updated when there is a change to triggers](https://github.com/kedacore/keda/pull/6618) on [kedacore/keda](https://github.com/kedacore/keda) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -61,7 +62,7 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (2 weeks ago)
+- [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (3 weeks ago)
 - [Azure/gpu-provisioner](https://github.com/Azure/gpu-provisioner) - gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM (1 month ago)
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (1 month ago)
 - [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (2 months ago)
