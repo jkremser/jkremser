@@ -36,8 +36,8 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (2 days ago)
-- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (5 days ago)
+- :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (5 days ago)
+- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 week ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (2 weeks ago)
 - :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 month ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
@@ -50,9 +50,9 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add infra for gcp (Node auto-scaling using ClusterAPI)](https://github.com/houshengbo/kubecon-2025-eu/pull/3) on [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) (2 days ago)
+- 💪 [Update](https://github.com/houshengbo/kubecon-2025-eu/pull/4) on [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) (2 days ago)
+- 💪 [Add infra for gcp (Node auto-scaling using ClusterAPI)](https://github.com/houshengbo/kubecon-2025-eu/pull/3) on [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) (5 days ago)
 - 💪 [Update additionalPrinterColumns for kedifyconfiguration CRD](https://github.com/kedify/charts/pull/139) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
-- 💪 [Make sure the exposed metrics are updated when there is a change to triggers](https://github.com/kedacore/keda/pull/6618) on [kedacore/keda](https://github.com/kedacore/keda) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
