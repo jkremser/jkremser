@@ -36,29 +36,31 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (5 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 day ago)
+- :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (6 days ago)
 - :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 week ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (2 weeks ago)
 - :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 month ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.6](https://github.com/kedify/otel-add-on/releases/tag/v0.0.6), 3 weeks ago) - Bridge between OTEL and KEDA api
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.7](https://github.com/kedify/otel-add-on/releases/tag/v0.0.7), 1 day ago) - Bridge between OTEL and KEDA api
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.10.0](https://github.com/kedacore/http-add-on/releases/tag/v0.10.0), 1 month ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.9.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.9.0), 3 months ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update](https://github.com/houshengbo/kubecon-2025-eu/pull/4) on [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) (2 days ago)
-- 💪 [Add infra for gcp (Node auto-scaling using ClusterAPI)](https://github.com/houshengbo/kubecon-2025-eu/pull/3) on [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) (5 days ago)
-- 💪 [Update additionalPrinterColumns for kedifyconfiguration CRD](https://github.com/kedify/charts/pull/139) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
+- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/87) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
+- 💪 [Make the default reported value and error configurable](https://github.com/kedify/otel-add-on/pull/85) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
+- 💪 [Update](https://github.com/houshengbo/kubecon-2025-eu/pull/4) on [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) (3 days ago)
+- 💪 [Add infra for gcp (Node auto-scaling using ClusterAPI)](https://github.com/houshengbo/kubecon-2025-eu/pull/3) on [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) (6 days ago)
+- 💪 [Update additionalPrinterColumns for kedifyconfiguration CRD](https://github.com/kedify/charts/pull/139) on [kedify/charts](https://github.com/kedify/charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/ad3dc850b96b54ecc8657204645300e9) (2 weeks ago)
+- [no description](https://gist.github.com/a2504f630ae0e73fffb4ab9bbd23a90a) (1 day ago)
+- [no description](https://gist.github.com/ad3dc850b96b54ecc8657204645300e9) (3 weeks ago)
 - [no description](https://gist.github.com/745f70911ca695b13c5e9b330c1959cc) (1 month ago)
-- [icanteen tampermonkey script](https://gist.github.com/c30a542575e487cddc0674225f2c833a) (2 months ago)
 
 #### ⭐ Recent Stars
 
