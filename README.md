@@ -36,35 +36,35 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (4 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 week ago)
 - :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (1 week ago)
-- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 week ago)
+- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (2 weeks ago)
 - :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 month ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.7](https://github.com/kedify/otel-add-on/releases/tag/v0.0.7), 4 days ago) - Bridge between OTEL and KEDA api
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.7](https://github.com/kedify/otel-add-on/releases/tag/v0.0.7), 1 week ago) - Bridge between OTEL and KEDA api
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.10.0](https://github.com/kedacore/http-add-on/releases/tag/v0.10.0), 1 month ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.9.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.9.0), 3 months ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/87) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
-- 💪 [Make the default reported value and error configurable](https://github.com/kedify/otel-add-on/pull/85) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
-- 💪 [Update](https://github.com/houshengbo/kubecon-2025-eu/pull/4) on [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) (6 days ago)
-- 💪 [Add infra for gcp (Node auto-scaling using ClusterAPI)](https://github.com/houshengbo/kubecon-2025-eu/pull/3) on [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) (1 week ago)
-- 💪 [Update additionalPrinterColumns for kedifyconfiguration CRD](https://github.com/kedify/charts/pull/139) on [kedify/charts](https://github.com/kedify/charts) (2 weeks ago)
+- 💪 [Relaxing the schema validation so that helm template doestn&#39;t require any inputs](https://github.com/kedify/charts/pull/143) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [Add missing rbac for kedify proxy installation (watch and list)](https://github.com/kedify/charts/pull/141) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/87) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
+- 💪 [Make the default reported value and error configurable](https://github.com/kedify/otel-add-on/pull/85) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
+- 💪 [Update](https://github.com/houshengbo/kubecon-2025-eu/pull/4) on [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/a2504f630ae0e73fffb4ab9bbd23a90a) (4 days ago)
+- [no description](https://gist.github.com/a2504f630ae0e73fffb4ab9bbd23a90a) (1 week ago)
 - [no description](https://gist.github.com/ad3dc850b96b54ecc8657204645300e9) (3 weeks ago)
-- [no description](https://gist.github.com/745f70911ca695b13c5e9b330c1959cc) (1 month ago)
+- [no description](https://gist.github.com/745f70911ca695b13c5e9b330c1959cc) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (4 weeks ago)
+- [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (1 month ago)
 - [Azure/gpu-provisioner](https://github.com/Azure/gpu-provisioner) - gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM (1 month ago)
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (1 month ago)
 - [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (3 months ago)
