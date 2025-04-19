@@ -51,8 +51,8 @@ k get cert -A
 #### 🔨 My recent Pull Requests
 
 - 💪 [obsolete ubuntu version for gh runner](https://github.com/kedify/kubectl-kedify/pull/19) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (1 week ago)
-- 💪 [Relaxing the schema validation so that helm template doestn&#39;t require any inputs](https://github.com/kedify/charts/pull/143) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
-- 💪 [Add missing rbac for kedify proxy installation (watch and list)](https://github.com/kedify/charts/pull/141) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
+- 💪 [Relaxing the schema validation so that helm template doestn&#39;t require any inputs](https://github.com/kedify/charts/pull/143) on [kedify/charts](https://github.com/kedify/charts) (2 weeks ago)
+- 💪 [Add missing rbac for kedify proxy installation (watch and list)](https://github.com/kedify/charts/pull/141) on [kedify/charts](https://github.com/kedify/charts) (2 weeks ago)
 - 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/87) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 weeks ago)
 - 💪 [Make the default reported value and error configurable](https://github.com/kedify/otel-add-on/pull/85) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 weeks ago)
 
