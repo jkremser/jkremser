@@ -38,23 +38,23 @@ k get cert -A
 
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (2 weeks ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (3 weeks ago)
-- :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (3 weeks ago)
+- :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (1 month ago)
 - :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 month ago)
 - :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.6](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.6), 2 days ago) - kubectl plugin
 - 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.17.0](https://github.com/kedacore/keda/releases/tag/v2.17.0), 2 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.7](https://github.com/kedify/otel-add-on/releases/tag/v0.0.7), 3 weeks ago) - Bridge between OTEL and KEDA api
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.10.0](https://github.com/kedacore/http-add-on/releases/tag/v0.10.0), 2 months ago) - Add-on for KEDA to scale HTTP workloads
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [Update Kubectl Plugin - v0.0.6](https://github.com/kedify/kubectl-kedify/pull/24) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (2 days ago)
+- 💪 [Update Kubectl Plugin - v0.0.5](https://github.com/kedify/kubectl-kedify/pull/22) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (2 days ago)
 - 💪 [obsolete ubuntu version for gh runner](https://github.com/kedify/kubectl-kedify/pull/19) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (2 weeks ago)
-- 💪 [Relaxing the schema validation so that helm template doestn&#39;t require any inputs](https://github.com/kedify/charts/pull/143) on [kedify/charts](https://github.com/kedify/charts) (2 weeks ago)
-- 💪 [Add missing rbac for kedify proxy installation (watch and list)](https://github.com/kedify/charts/pull/141) on [kedify/charts](https://github.com/kedify/charts) (2 weeks ago)
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/87) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 weeks ago)
-- 💪 [Make the default reported value and error configurable](https://github.com/kedify/otel-add-on/pull/85) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 weeks ago)
+- 💪 [Relaxing the schema validation so that helm template doestn&#39;t require any inputs](https://github.com/kedify/charts/pull/143) on [kedify/charts](https://github.com/kedify/charts) (3 weeks ago)
+- 💪 [Add missing rbac for kedify proxy installation (watch and list)](https://github.com/kedify/charts/pull/141) on [kedify/charts](https://github.com/kedify/charts) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
