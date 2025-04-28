@@ -37,28 +37,28 @@ k get cert -A
 #### 👷 Check out what I'm currently working on
 
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (2 weeks ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (3 weeks ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (4 weeks ago)
 - :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (1 month ago)
 - :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 month ago)
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 month ago)
+- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.6](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.6), 2 days ago) - kubectl plugin
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.17.0](https://github.com/kedacore/keda/releases/tag/v2.17.0), 2 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.7](https://github.com/kedify/otel-add-on/releases/tag/v0.0.7), 3 weeks ago) - Bridge between OTEL and KEDA api
+- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.6](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.6), 5 days ago) - kubectl plugin
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.17.0](https://github.com/kedacore/keda/releases/tag/v2.17.0), 3 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.7](https://github.com/kedify/otel-add-on/releases/tag/v0.0.7), 4 weeks ago) - Bridge between OTEL and KEDA api
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update Kubectl Plugin - v0.0.6](https://github.com/kedify/kubectl-kedify/pull/24) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (2 days ago)
-- 💪 [Update Kubectl Plugin - v0.0.5](https://github.com/kedify/kubectl-kedify/pull/22) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (2 days ago)
-- 💪 [obsolete ubuntu version for gh runner](https://github.com/kedify/kubectl-kedify/pull/19) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (2 weeks ago)
+- 💪 [Update Kubectl Plugin - v0.0.6](https://github.com/kedify/kubectl-kedify/pull/24) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (5 days ago)
+- 💪 [Update Kubectl Plugin - v0.0.5](https://github.com/kedify/kubectl-kedify/pull/22) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (5 days ago)
+- 💪 [obsolete ubuntu version for gh runner](https://github.com/kedify/kubectl-kedify/pull/19) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (3 weeks ago)
 - 💪 [Relaxing the schema validation so that helm template doestn&#39;t require any inputs](https://github.com/kedify/charts/pull/143) on [kedify/charts](https://github.com/kedify/charts) (3 weeks ago)
 - 💪 [Add missing rbac for kedify proxy installation (watch and list)](https://github.com/kedify/charts/pull/141) on [kedify/charts](https://github.com/kedify/charts) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/a2504f630ae0e73fffb4ab9bbd23a90a) (3 weeks ago)
+- [no description](https://gist.github.com/a2504f630ae0e73fffb4ab9bbd23a90a) (4 weeks ago)
 - [no description](https://gist.github.com/ad3dc850b96b54ecc8657204645300e9) (1 month ago)
 - [no description](https://gist.github.com/745f70911ca695b13c5e9b330c1959cc) (2 months ago)
 
