@@ -53,8 +53,8 @@ k get cert -A
 - 💪 [Update Kubectl Plugin - v0.0.6](https://github.com/kedify/kubectl-kedify/pull/24) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (1 week ago)
 - 💪 [Update Kubectl Plugin - v0.0.5](https://github.com/kedify/kubectl-kedify/pull/22) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (1 week ago)
 - 💪 [obsolete ubuntu version for gh runner](https://github.com/kedify/kubectl-kedify/pull/19) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (3 weeks ago)
-- 💪 [Relaxing the schema validation so that helm template doestn&#39;t require any inputs](https://github.com/kedify/charts/pull/143) on [kedify/charts](https://github.com/kedify/charts) (3 weeks ago)
-- 💪 [Add missing rbac for kedify proxy installation (watch and list)](https://github.com/kedify/charts/pull/141) on [kedify/charts](https://github.com/kedify/charts) (3 weeks ago)
+- 💪 [Relaxing the schema validation so that helm template doestn&#39;t require any inputs](https://github.com/kedify/charts/pull/143) on [kedify/charts](https://github.com/kedify/charts) (1 month ago)
+- 💪 [Add missing rbac for kedify proxy installation (watch and list)](https://github.com/kedify/charts/pull/141) on [kedify/charts](https://github.com/kedify/charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
@@ -67,7 +67,7 @@ k get cert -A
 - [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (1 month ago)
 - [Azure/gpu-provisioner](https://github.com/Azure/gpu-provisioner) - gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM (2 months ago)
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (2 months ago)
-- [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (3 months ago)
+- [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (4 months ago)
 
 #### 💬 Feedback
 
