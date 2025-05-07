@@ -36,7 +36,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (3 weeks ago)
+- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (4 weeks ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 month ago)
 - :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (1 month ago)
 - :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 month ago)
@@ -44,15 +44,15 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.6](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.6), 1 week ago) - kubectl plugin
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.17.0](https://github.com/kedacore/keda/releases/tag/v2.17.0), 3 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.6](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.6), 2 weeks ago) - kubectl plugin
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.17.0](https://github.com/kedacore/keda/releases/tag/v2.17.0), 1 month ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.7](https://github.com/kedify/otel-add-on/releases/tag/v0.0.7), 1 month ago) - Bridge between OTEL and KEDA api
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update Kubectl Plugin - v0.0.6](https://github.com/kedify/kubectl-kedify/pull/24) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (1 week ago)
-- 💪 [Update Kubectl Plugin - v0.0.5](https://github.com/kedify/kubectl-kedify/pull/22) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (1 week ago)
-- 💪 [obsolete ubuntu version for gh runner](https://github.com/kedify/kubectl-kedify/pull/19) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (3 weeks ago)
+- 💪 [Update Kubectl Plugin - v0.0.6](https://github.com/kedify/kubectl-kedify/pull/24) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (2 weeks ago)
+- 💪 [Update Kubectl Plugin - v0.0.5](https://github.com/kedify/kubectl-kedify/pull/22) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (2 weeks ago)
+- 💪 [obsolete ubuntu version for gh runner](https://github.com/kedify/kubectl-kedify/pull/19) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (1 month ago)
 - 💪 [Relaxing the schema validation so that helm template doestn&#39;t require any inputs](https://github.com/kedify/charts/pull/143) on [kedify/charts](https://github.com/kedify/charts) (1 month ago)
 - 💪 [Add missing rbac for kedify proxy installation (watch and list)](https://github.com/kedify/charts/pull/141) on [kedify/charts](https://github.com/kedify/charts) (1 month ago)
 
@@ -60,11 +60,11 @@ k get cert -A
 
 - [no description](https://gist.github.com/a2504f630ae0e73fffb4ab9bbd23a90a) (1 month ago)
 - [no description](https://gist.github.com/ad3dc850b96b54ecc8657204645300e9) (1 month ago)
-- [no description](https://gist.github.com/745f70911ca695b13c5e9b330c1959cc) (2 months ago)
+- [no description](https://gist.github.com/745f70911ca695b13c5e9b330c1959cc) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (1 month ago)
+- [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (2 months ago)
 - [Azure/gpu-provisioner](https://github.com/Azure/gpu-provisioner) - gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM (2 months ago)
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (2 months ago)
 - [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (4 months ago)
