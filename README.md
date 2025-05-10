@@ -36,7 +36,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (4 weeks ago)
+- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (1 month ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 month ago)
 - :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (1 month ago)
 - :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 month ago)
@@ -59,14 +59,14 @@ k get cert -A
 #### 📓 Gists I wrote
 
 - [no description](https://gist.github.com/a2504f630ae0e73fffb4ab9bbd23a90a) (1 month ago)
-- [no description](https://gist.github.com/ad3dc850b96b54ecc8657204645300e9) (1 month ago)
+- [no description](https://gist.github.com/ad3dc850b96b54ecc8657204645300e9) (2 months ago)
 - [no description](https://gist.github.com/745f70911ca695b13c5e9b330c1959cc) (3 months ago)
 
 #### ⭐ Recent Stars
 
 - [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (2 months ago)
-- [Azure/gpu-provisioner](https://github.com/Azure/gpu-provisioner) - gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM (2 months ago)
-- [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (2 months ago)
+- [Azure/gpu-provisioner](https://github.com/Azure/gpu-provisioner) - gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM (3 months ago)
+- [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (3 months ago)
 - [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (4 months ago)
 
 #### 💬 Feedback
