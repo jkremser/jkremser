@@ -44,9 +44,9 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.17.0](https://github.com/kedacore/charts/releases/tag/v2.17.0), 2 days ago) - Helm charts for KEDA
 - 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.6](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.6), 2 weeks ago) - kubectl plugin
 - 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.17.0](https://github.com/kedacore/keda/releases/tag/v2.17.0), 1 month ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.7](https://github.com/kedify/otel-add-on/releases/tag/v0.0.7), 1 month ago) - Bridge between OTEL and KEDA api
 
 #### 🔨 My recent Pull Requests
 
@@ -64,10 +64,10 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
+- [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (today)
 - [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (2 months ago)
 - [Azure/gpu-provisioner](https://github.com/Azure/gpu-provisioner) - gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM (3 months ago)
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (3 months ago)
-- [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for testing and validating container requirements against versioned manifests (4 months ago)
 
 #### 💬 Feedback
 
