@@ -44,16 +44,17 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.17.1](https://github.com/kedacore/charts/releases/tag/v2.17.1), 1 day ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.17.1](https://github.com/kedacore/keda/releases/tag/v2.17.1), 1 day ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.17.1](https://github.com/kedacore/charts/releases/tag/v2.17.1), 4 days ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.17.1](https://github.com/kedacore/keda/releases/tag/v2.17.1), 4 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.6](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.6), 3 weeks ago) - kubectl plugin
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Allow colon in metric name](https://github.com/kedify/otel-add-on/pull/97) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
-- 💪 [Allow changing the deploy.spec.strategy for helm chart](https://github.com/kedify/otel-add-on/pull/96) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
-- 💪 [Prepare the http-add-on helm chart for all-in-one installation w/ kedify agent](https://github.com/kedify/charts/pull/179) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
-- 💪 [endpoints -&gt; endpointslices](https://github.com/kedify/charts/pull/176) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [[wip] Operator](https://github.com/kedify/otel-add-on/pull/100) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
+- 💪 [Add &#39;resourcedetection&#39; processor by default - pod identity &amp; other useful labels](https://github.com/kedify/otel-add-on/pull/99) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
+- 💪 [Allow colon in metric name](https://github.com/kedify/otel-add-on/pull/97) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
+- 💪 [Allow changing the deploy.spec.strategy for helm chart](https://github.com/kedify/otel-add-on/pull/96) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
+- 💪 [Prepare the http-add-on helm chart for all-in-one installation w/ kedify agent](https://github.com/kedify/charts/pull/179) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -63,7 +64,7 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (3 days ago)
+- [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (6 days ago)
 - [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (2 months ago)
 - [Azure/gpu-provisioner](https://github.com/Azure/gpu-provisioner) - gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM (3 months ago)
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (3 months ago)
