@@ -36,38 +36,38 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 day ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (4 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (5 days ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (1 month ago)
-- :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (1 month ago)
+- :octocat: / [houshengbo/kubecon-2025-eu](https://github.com/houshengbo/kubecon-2025-eu) -  (2 months ago)
 - :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.9](https://github.com/kedify/otel-add-on/releases/tag/v0.0.9), 1 day ago) - Bridge between OTEL and KEDA api
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.15.0-rc1](https://github.com/k8gb-io/k8gb/releases/tag/v0.15.0-rc1), 3 days ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.9](https://github.com/kedify/otel-add-on/releases/tag/v0.0.9), 4 days ago) - Bridge between OTEL and KEDA api
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.15.0-rc1](https://github.com/k8gb-io/k8gb/releases/tag/v0.15.0-rc1), 6 days ago) - A cloud native Kubernetes Global Balancer
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.17.1](https://github.com/kedacore/charts/releases/tag/v2.17.1), 1 week ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Make the all-in-one helm chart for kedify installable](https://github.com/kedify/charts/pull/185) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
-- 💪 [Prepare the http-add-on helm chart for all-in-one installation w/ ked…](https://github.com/kedify/charts/pull/183) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/106) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/102) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
-- 💪 [Bump keda dependency &#43; send the float value in the gRPC](https://github.com/kedify/otel-add-on/pull/101) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
+- 💪 [Create VAPs only when k8s has the crd](https://github.com/kedify/otel-add-on/pull/108) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
+- 💪 [Make the all-in-one helm chart for kedify installable](https://github.com/kedify/charts/pull/185) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
+- 💪 [Prepare the http-add-on helm chart for all-in-one installation w/ ked…](https://github.com/kedify/charts/pull/183) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
+- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/106) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
+- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/102) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (5 days ago)
 
 #### 📓 Gists I wrote
 
+- [DCGM &#43; OTel scaler setup](https://gist.github.com/1d68e2f33c80f098abe85ba067602c0d) (2 days ago)
 - [no description](https://gist.github.com/a2504f630ae0e73fffb4ab9bbd23a90a) (1 month ago)
 - [no description](https://gist.github.com/ad3dc850b96b54ecc8657204645300e9) (2 months ago)
-- [no description](https://gist.github.com/745f70911ca695b13c5e9b330c1959cc) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [crust-gather/crust-gather](https://github.com/crust-gather/crust-gather) - kubectl debugging plugin to collect full or partial cluster state and serve via an api server. Kubernetes time machine (2 days ago)
+- [helm/helm-mapkubeapis](https://github.com/helm/helm-mapkubeapis) - This is a Helm plugin which map deprecated or removed Kubernetes APIs in a release to supported APIs (2 days ago)
+- [crust-gather/crust-gather](https://github.com/crust-gather/crust-gather) - kubectl debugging plugin to collect full or partial cluster state and serve via an api server. Kubernetes time machine (5 days ago)
 - [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTEL and KEDA api (1 week ago)
 - [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin (2 months ago)
-- [Azure/gpu-provisioner](https://github.com/Azure/gpu-provisioner) - gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM (3 months ago)
 
 #### 💬 Feedback
 
