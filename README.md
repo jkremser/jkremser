@@ -36,36 +36,36 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (today)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 day ago)
-- :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (2 days ago)
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (3 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 days ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 days ago)
+- :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (5 days ago)
+- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (6 days ago)
 - :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.17.2](https://github.com/kedacore/charts/releases/tag/v2.17.2), 1 day ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.17.2](https://github.com/kedacore/keda/releases/tag/v2.17.2), 1 day ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.17.2](https://github.com/kedacore/charts/releases/tag/v2.17.2), 4 days ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.17.2](https://github.com/kedacore/keda/releases/tag/v2.17.2), 4 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.11](https://github.com/kedify/otel-add-on/releases/tag/v0.0.11), 1 week ago) - Bridge between OTel and KEDA api
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Switch from Endpoints to EndpointSlice API (deprecation)](https://github.com/k8gb-io/k8gb/pull/1940) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (3 days ago)
-- 💪 [R.I.P. bit.do, hail to the shorter.me!](https://github.com/jkremser/log2rbac-operator/pull/228) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (3 days ago)
-- 💪 [Add a way to turn off the profiling for all three http add-on components](https://github.com/kedacore/charts/pull/763) on [kedacore/charts](https://github.com/kedacore/charts) (3 days ago)
-- 💪 [Add a way to turn off the profiling for all three http add-on components](https://github.com/kedacore/http-add-on/pull/1308) on [kedacore/http-add-on](https://github.com/kedacore/http-add-on) (6 days ago)
+- 💪 [Switch from Endpoints to EndpointSlice API (deprecation)](https://github.com/k8gb-io/k8gb/pull/1940) on [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) (6 days ago)
+- 💪 [R.I.P. bit.do, hail to the shorter.me!](https://github.com/jkremser/log2rbac-operator/pull/228) on [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) (6 days ago)
+- 💪 [Add a way to turn off the profiling for all three http add-on components](https://github.com/kedacore/charts/pull/763) on [kedacore/charts](https://github.com/kedacore/charts) (6 days ago)
+- 💪 [Add a way to turn off the profiling for all three http add-on components](https://github.com/kedacore/http-add-on/pull/1308) on [kedacore/http-add-on](https://github.com/kedacore/http-add-on) (1 week ago)
 - 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/120) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [DCGM &#43; OTel scaler setup](https://gist.github.com/1d68e2f33c80f098abe85ba067602c0d) (3 weeks ago)
+- [DCGM &#43; OTel scaler setup](https://gist.github.com/1d68e2f33c80f098abe85ba067602c0d) (1 month ago)
 - [no description](https://gist.github.com/a2504f630ae0e73fffb4ab9bbd23a90a) (2 months ago)
 - [no description](https://gist.github.com/ad3dc850b96b54ecc8657204645300e9) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [rzuhovski0/plugin.video.yawsp](https://github.com/rzuhovski0/plugin.video.yawsp) - Yet Another WebShare Plugin (2 days ago)
-- [LMCache/LMCache](https://github.com/LMCache/LMCache) - Redis for LLMs (2 days ago)
+- [rzuhovski0/plugin.video.yawsp](https://github.com/rzuhovski0/plugin.video.yawsp) - Yet Another WebShare Plugin (5 days ago)
+- [LMCache/LMCache](https://github.com/LMCache/LMCache) - Redis for LLMs (5 days ago)
 - [substratusai/kubeai](https://github.com/substratusai/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports VLMs, LLMs, embeddings, and speech-to-text. (1 week ago)
 - [amitv87/PiP](https://github.com/amitv87/PiP) - macOS Picture in Picture and AirPlay Receiver (2 weeks ago)
 
