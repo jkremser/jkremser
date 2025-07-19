@@ -36,37 +36,37 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 weeks ago)
-- :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (4 weeks ago)
+- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (2 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 days ago)
+- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
+- :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (1 month ago)
 - :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 month ago)
-- :octocat: / [jkremser/web](https://github.com/jkremser/web) - Hugo based web about @jkremser (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.8](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.8), 2 days ago) - kubectl plugin to manage and debug Kedify/KEDA
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.12](https://github.com/kedify/otel-add-on/releases/tag/v0.0.12), 1 week ago) - Bridge between OTel and KEDA api
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.15.0-rc3](https://github.com/k8gb-io/k8gb/releases/tag/v0.15.0-rc3), 2 weeks ago) - A cloud native Kubernetes Global Balancer
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.17.2](https://github.com/kedacore/charts/releases/tag/v2.17.2), 4 weeks ago) - Helm charts for KEDA
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.17.2](https://github.com/kedacore/charts/releases/tag/v2.17.2), 1 month ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [ci: new action for docs updates &#43; don&#39;t create tags or any commits from oci helm release](https://github.com/kedify/charts/pull/227) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
-- 💪 [Fix the release action for proxy and bump it](https://github.com/kedify/charts/pull/224) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
-- 💪 [kedify-proxy: allow specifying extra program arguments for envoy](https://github.com/kedify/charts/pull/223) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/131) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
+- 💪 [Update Kubectl Plugin - v0.0.8](https://github.com/kedify/kubectl-kedify/pull/35) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (2 days ago)
+- 💪 [Update Kubectl Plugin - v0.0.8](https://github.com/kedify/kubectl-kedify/pull/34) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (2 days ago)
+- 💪 [Update README.md](https://github.com/kedify/otel-add-on/pull/135) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
+- 💪 [Update README.md](https://github.com/kedify/otel-add-on/pull/134) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
 
 #### 📓 Gists I wrote
 
-- [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (today)
+- [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (3 days ago)
 - [kubeconfig w/ limited rights](https://gist.github.com/6a4bf7c3fec1dfad36600aee53ff234e) (3 weeks ago)
 - [DCGM &#43; OTel scaler setup](https://gist.github.com/1d68e2f33c80f098abe85ba067602c0d) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [rzuhovski0/plugin.video.yawsp](https://github.com/rzuhovski0/plugin.video.yawsp) - Yet Another WebShare Plugin (4 weeks ago)
-- [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer (4 weeks ago)
+- [kubescape/cel-admission-library](https://github.com/kubescape/cel-admission-library) - This projects contains pre-made policies for Kubernetes Validating Admission Policies. This policy library is based on Kubescape controls, see here a comlete list https://hub.armosec.io/docs/controls (1 day ago)
+- [rzuhovski0/plugin.video.yawsp](https://github.com/rzuhovski0/plugin.video.yawsp) - Yet Another WebShare Plugin (1 month ago)
+- [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer (1 month ago)
 - [substratusai/kubeai](https://github.com/substratusai/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports VLMs, LLMs, embeddings, and speech-to-text. (1 month ago)
-- [amitv87/PiP](https://github.com/amitv87/PiP) - macOS Picture in Picture and AirPlay Receiver (1 month ago)
 
 #### 💬 Feedback
 
