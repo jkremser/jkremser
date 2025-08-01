@@ -50,7 +50,7 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [prp: CRD updated](https://github.com/kedify/charts/pull/238) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [prp: CRD updated](https://github.com/kedify/charts/pull/238) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
 - 💪 [prp: rbac if enabled](https://github.com/kedify/charts/pull/237) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
 - 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/140) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
 - 💪 [Add support also for metric type Summary](https://github.com/kedify/otel-add-on/pull/139) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
@@ -63,7 +63,7 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [kubescape/cel-admission-library](https://github.com/kubescape/cel-admission-library) - This projects contains pre-made policies for Kubernetes Validating Admission Policies. This policy library is based on Kubescape controls, see here a comlete list https://hub.armosec.io/docs/controls (1 week ago)
+- [kubescape/cel-admission-library](https://github.com/kubescape/cel-admission-library) - This projects contains pre-made policies for Kubernetes Validating Admission Policies. This policy library is based on Kubescape controls, see here a comlete list https://hub.armosec.io/docs/controls (2 weeks ago)
 - [rzuhovski0/plugin.video.yawsp](https://github.com/rzuhovski0/plugin.video.yawsp) - Yet Another WebShare Plugin (1 month ago)
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer (1 month ago)
 - [substratusai/kubeai](https://github.com/substratusai/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports VLMs, LLMs, embeddings, and speech-to-text. (1 month ago)
