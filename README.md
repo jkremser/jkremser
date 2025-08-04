@@ -36,21 +36,21 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
+- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (3 days ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (2 weeks ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (1 month ago)
-- :octocat: / [jkremser/log2rbac-operator](https://github.com/jkremser/log2rbac-operator) - Kubernetes operator that helps you to set up your RBAC rules correctly (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.0.13](https://github.com/kedify/otel-add-on/releases/tag/v0.0.13), 1 week ago) - Bridge between OTel and KEDA api
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.15.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.15.0), 1 week ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.15.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.15.0), 2 weeks ago) - A cloud native Kubernetes Global Balancer
 - 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.8](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.8), 2 weeks ago) - kubectl plugin to manage and debug Kedify/KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [prp: CRD updated](https://github.com/kedify/charts/pull/238) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
+- 💪 [prp: CRD updated](https://github.com/kedify/charts/pull/238) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
 - 💪 [prp: rbac if enabled](https://github.com/kedify/charts/pull/237) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
 - 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/140) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
 - 💪 [Add support also for metric type Summary](https://github.com/kedify/otel-add-on/pull/139) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
