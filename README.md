@@ -36,7 +36,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 day ago)
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 week ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (3 weeks ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
@@ -50,14 +50,14 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add support for TLS &amp; tests](https://github.com/kedify/otel-add-on/pull/146) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
-- 💪 [http-addon: schema for values - tolerations should be object not string](https://github.com/kedify/charts/pull/239) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
-- 💪 [Add also _sum metric for (exponential)histograms and Summaries](https://github.com/kedify/otel-add-on/pull/145) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (6 days ago)
-- 💪 [prp: CRD updated](https://github.com/kedify/charts/pull/238) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
+- 💪 [Mostly docs &amp; tls examples](https://github.com/kedify/otel-add-on/pull/148) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
+- 💪 [Add support for TLS &amp; tests](https://github.com/kedify/otel-add-on/pull/146) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
+- 💪 [http-addon: schema for values - tolerations should be object not string](https://github.com/kedify/charts/pull/239) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
+- 💪 [Add also _sum metric for (exponential)histograms and Summaries](https://github.com/kedify/otel-add-on/pull/145) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (3 weeks ago)
+- [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (4 weeks ago)
 - [kubeconfig w/ limited rights](https://gist.github.com/6a4bf7c3fec1dfad36600aee53ff234e) (1 month ago)
 - [DCGM &#43; OTel scaler setup](https://gist.github.com/1d68e2f33c80f098abe85ba067602c0d) (2 months ago)
 
