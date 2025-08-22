@@ -36,31 +36,31 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (5 days ago)
-- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (2 weeks ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 day ago)
+- :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (3 weeks ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (1 month ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 months ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.0](https://github.com/kedify/otel-add-on/releases/tag/v0.1.0), 6 days ago) - Bridge between OTel and KEDA api
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.1](https://github.com/kedify/otel-add-on/releases/tag/v0.1.1), 1 day ago) - Bridge between OTel and KEDA api
 - 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.15.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.15.0), 1 month ago) - A cloud native Kubernetes Global Balancer
 - 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.8](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.8), 1 month ago) - kubectl plugin to manage and debug Kedify/KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Complex pipeline where evertything is TLS encrypted and certs are rotated](https://github.com/kedify/otel-add-on/pull/157) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (5 days ago)
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/153) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (6 days ago)
-- 💪 [Create metadata for artifacthub.io when releasing the helm chart](https://github.com/kedify/otel-add-on/pull/152) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (6 days ago)
-- 💪 [Mostly docs &amp; tls examples](https://github.com/kedify/otel-add-on/pull/148) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
-- 💪 [Add support for TLS &amp; tests](https://github.com/kedify/otel-add-on/pull/146) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
+- 💪 [typo in dev makefile](https://github.com/kedify/otel-add-on/pull/166) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
+- 💪 [Swagger at / &#43; some tls tuneability](https://github.com/kedify/otel-add-on/pull/162) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
+- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/160) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
+- 💪 [Complex pipeline where evertything is TLS encrypted and certs are rotated](https://github.com/kedify/otel-add-on/pull/157) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
+- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/153) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
 
 #### 📓 Gists I wrote
 
 - [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (1 month ago)
 - [kubeconfig w/ limited rights](https://gist.github.com/6a4bf7c3fec1dfad36600aee53ff234e) (1 month ago)
-- [DCGM &#43; OTel scaler setup](https://gist.github.com/1d68e2f33c80f098abe85ba067602c0d) (2 months ago)
+- [DCGM &#43; OTel scaler setup](https://gist.github.com/1d68e2f33c80f098abe85ba067602c0d) (3 months ago)
 
 #### ⭐ Recent Stars
 
