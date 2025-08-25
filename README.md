@@ -36,7 +36,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 day ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 days ago)
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (3 weeks ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (1 month ago)
 - :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 months ago)
@@ -44,30 +44,30 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.1](https://github.com/kedify/otel-add-on/releases/tag/v0.1.1), 1 day ago) - Bridge between OTel and KEDA api
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.1](https://github.com/kedify/otel-add-on/releases/tag/v0.1.1), 3 days ago) - Bridge between OTel and KEDA api
 - 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.15.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.15.0), 1 month ago) - A cloud native Kubernetes Global Balancer
 - 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.8](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.8), 1 month ago) - kubectl plugin to manage and debug Kedify/KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [typo in dev makefile](https://github.com/kedify/otel-add-on/pull/166) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
-- 💪 [Swagger at / &#43; some tls tuneability](https://github.com/kedify/otel-add-on/pull/162) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/160) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
-- 💪 [Complex pipeline where evertything is TLS encrypted and certs are rotated](https://github.com/kedify/otel-add-on/pull/157) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/153) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
+- 💪 [Allow specifying certificates for TLS communication between KEDA and external scalers](https://github.com/kedacore/keda/pull/7013) on [kedacore/keda](https://github.com/kedacore/keda) (3 days ago)
+- 💪 [Make the SO initially unpaused. &#39;Unknown&#39; looks ugly in the output.](https://github.com/kedacore/keda/pull/7012) on [kedacore/keda](https://github.com/kedacore/keda) (3 days ago)
+- 💪 [typo in dev makefile](https://github.com/kedify/otel-add-on/pull/166) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
+- 💪 [Swagger at / &#43; some tls tuneability](https://github.com/kedify/otel-add-on/pull/162) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
+- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/160) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
 
 #### 📓 Gists I wrote
 
 - [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (1 month ago)
-- [kubeconfig w/ limited rights](https://gist.github.com/6a4bf7c3fec1dfad36600aee53ff234e) (1 month ago)
+- [kubeconfig w/ limited rights](https://gist.github.com/6a4bf7c3fec1dfad36600aee53ff234e) (2 months ago)
 - [DCGM &#43; OTel scaler setup](https://gist.github.com/1d68e2f33c80f098abe85ba067602c0d) (3 months ago)
 
 #### ⭐ Recent Stars
 
+- [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (3 days ago)
 - [kubescape/cel-admission-library](https://github.com/kubescape/cel-admission-library) - This projects contains pre-made policies for Kubernetes Validating Admission Policies. This policy library is based on Kubescape controls, see here a comlete list https://hub.armosec.io/docs/controls (1 month ago)
 - [rzuhovski0/plugin.video.yawsp](https://github.com/rzuhovski0/plugin.video.yawsp) - Yet Another WebShare Plugin (2 months ago)
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer (2 months ago)
-- [substratusai/kubeai](https://github.com/substratusai/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports VLMs, LLMs, embeddings, and speech-to-text. (2 months ago)
 
 #### 💬 Feedback
 
