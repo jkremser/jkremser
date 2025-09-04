@@ -36,11 +36,11 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/keda-prophet-poc](https://github.com/jkremser/keda-prophet-poc) - Exposing multiple Prophet models via REST api for KEDA (3 days ago)
+- :octocat: / [jkremser/keda-prophet-poc](https://github.com/jkremser/keda-prophet-poc) - Exposing multiple Prophet models via REST api for KEDA (1 day ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 days ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 month ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (1 month ago)
-- :octocat: / [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -50,7 +50,7 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [minute metrics: add a configuration option for changing the default cycle settings](https://github.com/kedify/examples/pull/74) on [kedify/examples](https://github.com/kedify/examples) (3 days ago)
+- 💪 [minute metrics: add a configuration option for changing the default cycle settings](https://github.com/kedify/examples/pull/74) on [kedify/examples](https://github.com/kedify/examples) (6 days ago)
 - 💪 [allow rendering custom RBAC rules via .agent.extraRbacRules &amp; custom k8s objects via .agent.extraObjects](https://github.com/kedify/charts/pull/253) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
 - 💪 [Fix the file path for renovate](https://github.com/kedify/otel-add-on/pull/170) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
 - 💪 [Allow specifying certificates for TLS communication between KEDA and external scalers](https://github.com/kedacore/keda/pull/7013) on [kedacore/keda](https://github.com/kedacore/keda) (1 week ago)
