@@ -36,9 +36,9 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/keda-prophet-poc](https://github.com/jkremser/keda-prophet-poc) - Exposing multiple Prophet models via REST api for KEDA (3 days ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (6 days ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
+- :octocat: / [jkremser/keda-prophet-poc](https://github.com/jkremser/keda-prophet-poc) - Exposing multiple Prophet models via REST api for KEDA (6 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 weeks ago)
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 month ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (1 month ago)
 
@@ -51,8 +51,8 @@ k get cert -A
 #### 🔨 My recent Pull Requests
 
 - 💪 [minute metrics: add a configuration option for changing the default cycle settings](https://github.com/kedify/examples/pull/74) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
-- 💪 [allow rendering custom RBAC rules via .agent.extraRbacRules &amp; custom k8s objects via .agent.extraObjects](https://github.com/kedify/charts/pull/253) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
-- 💪 [Fix the file path for renovate](https://github.com/kedify/otel-add-on/pull/170) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
+- 💪 [allow rendering custom RBAC rules via .agent.extraRbacRules &amp; custom k8s objects via .agent.extraObjects](https://github.com/kedify/charts/pull/253) on [kedify/charts](https://github.com/kedify/charts) (2 weeks ago)
+- 💪 [Fix the file path for renovate](https://github.com/kedify/otel-add-on/pull/170) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 weeks ago)
 - 💪 [Allow specifying certificates for TLS communication between KEDA and external scalers](https://github.com/kedacore/keda/pull/7013) on [kedacore/keda](https://github.com/kedacore/keda) (2 weeks ago)
 - 💪 [Make the SO initially unpaused. &#39;Unknown&#39; looks ugly in the output.](https://github.com/kedacore/keda/pull/7012) on [kedacore/keda](https://github.com/kedacore/keda) (2 weeks ago)
 
