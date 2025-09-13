@@ -36,7 +36,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/keda-prophet-poc](https://github.com/jkremser/keda-prophet-poc) - Exposing multiple Prophet models via REST api for KEDA (6 days ago)
+- :octocat: / [jkremser/keda-prophet-poc](https://github.com/jkremser/keda-prophet-poc) - Exposing multiple Prophet models via REST api for KEDA (1 week ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 weeks ago)
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 month ago)
@@ -44,17 +44,13 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.1](https://github.com/kedify/otel-add-on/releases/tag/v0.1.1), 2 weeks ago) - Bridge between OTel and KEDA api
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.1](https://github.com/kedify/otel-add-on/releases/tag/v0.1.1), 3 weeks ago) - Bridge between OTel and KEDA api
 - 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.15.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.15.0), 1 month ago) - A cloud native Kubernetes Global Balancer
 - 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.8](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.8), 1 month ago) - kubectl plugin to manage and debug Kedify/KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [minute metrics: add a configuration option for changing the default cycle settings](https://github.com/kedify/examples/pull/74) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
-- 💪 [allow rendering custom RBAC rules via .agent.extraRbacRules &amp; custom k8s objects via .agent.extraObjects](https://github.com/kedify/charts/pull/253) on [kedify/charts](https://github.com/kedify/charts) (2 weeks ago)
-- 💪 [Fix the file path for renovate](https://github.com/kedify/otel-add-on/pull/170) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 weeks ago)
-- 💪 [Allow specifying certificates for TLS communication between KEDA and external scalers](https://github.com/kedacore/keda/pull/7013) on [kedacore/keda](https://github.com/kedacore/keda) (2 weeks ago)
-- 💪 [Make the SO initially unpaused. &#39;Unknown&#39; looks ugly in the output.](https://github.com/kedacore/keda/pull/7012) on [kedacore/keda](https://github.com/kedacore/keda) (2 weeks ago)
+- 💪 [minute metrics: add a configuration option for changing the default cycle settings](https://github.com/kedify/examples/pull/74) on [kedify/examples](https://github.com/kedify/examples) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -64,7 +60,7 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (2 weeks ago)
+- [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (3 weeks ago)
 - [kubescape/cel-admission-library](https://github.com/kubescape/cel-admission-library) - This projects contains pre-made policies for Kubernetes Validating Admission Policies. This policy library is based on Kubescape controls, see here a comlete list https://hub.armosec.io/docs/controls (1 month ago)
 - [rzuhovski0/plugin.video.yawsp](https://github.com/rzuhovski0/plugin.video.yawsp) - Yet Another WebShare Plugin (2 months ago)
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer (2 months ago)
