@@ -36,35 +36,34 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (1 day ago)
-- :octocat: / [jkremser/keda-prophet-poc](https://github.com/jkremser/keda-prophet-poc) - Exposing multiple Prophet models via REST api for KEDA (2 days ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 days ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 days ago)
+- :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (4 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (5 days ago)
+- :octocat: / [jkremser/keda-prophet-poc](https://github.com/jkremser/keda-prophet-poc) - Exposing multiple Prophet models via REST api for KEDA (5 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (5 days ago)
 - :octocat: / [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.0](https://github.com/kedacore/http-add-on/releases/tag/v0.11.0), 1 day ago) - Add-on for KEDA to scale HTTP workloads
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.1](https://github.com/kedify/otel-add-on/releases/tag/v0.1.1), 4 weeks ago) - Bridge between OTel and KEDA api
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.0](https://github.com/kedacore/http-add-on/releases/tag/v0.11.0), 4 days ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.1](https://github.com/kedify/otel-add-on/releases/tag/v0.1.1), 1 month ago) - Bridge between OTel and KEDA api
 - 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.15.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.15.0), 2 months ago) - A cloud native Kubernetes Global Balancer
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Helm chart now supports deploying the controller as sidecar &amp; REST improvements - new endpoint for bulk inserts &#43; db constraint](https://github.com/jkremser/keda-prophet-poc/pull/1) on [jkremser/keda-prophet-poc](https://github.com/jkremser/keda-prophet-poc) (1 day ago)
-- 💪 [Add docs for releasing](https://github.com/kedify/otel-add-on/pull/178) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
-- 💪 [fix #176](https://github.com/kedify/otel-add-on/pull/177) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
-- 💪 [Update setup-springboot-push.sh](https://github.com/kedify/examples/pull/80) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
-- 💪 [Update README.md](https://github.com/kedify/examples/pull/79) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
+- 💪 [Helm chart now supports deploying the controller as sidecar &amp; REST improvements - new endpoint for bulk inserts &#43; db constraint](https://github.com/jkremser/keda-prophet-poc/pull/1) on [jkremser/keda-prophet-poc](https://github.com/jkremser/keda-prophet-poc) (4 days ago)
+- 💪 [Add docs for releasing](https://github.com/kedify/otel-add-on/pull/178) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (5 days ago)
+- 💪 [fix #176](https://github.com/kedify/otel-add-on/pull/177) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (5 days ago)
+- 💪 [Update setup-springboot-push.sh](https://github.com/kedify/examples/pull/80) on [kedify/examples](https://github.com/kedify/examples) (5 days ago)
 
 #### 📓 Gists I wrote
 
 - [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (2 months ago)
-- [kubeconfig w/ limited rights](https://gist.github.com/6a4bf7c3fec1dfad36600aee53ff234e) (2 months ago)
-- [DCGM &#43; OTel scaler setup](https://gist.github.com/1d68e2f33c80f098abe85ba067602c0d) (3 months ago)
+- [kubeconfig w/ limited rights](https://gist.github.com/6a4bf7c3fec1dfad36600aee53ff234e) (3 months ago)
+- [DCGM &#43; OTel scaler setup](https://gist.github.com/1d68e2f33c80f098abe85ba067602c0d) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (4 weeks ago)
+- [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (1 month ago)
 - [kubescape/cel-admission-library](https://github.com/kubescape/cel-admission-library) - This projects contains pre-made policies for Kubernetes Validating Admission Policies. This policy library is based on Kubescape controls, see here a comlete list https://hub.armosec.io/docs/controls (2 months ago)
 - [rzuhovski0/plugin.video.yawsp](https://github.com/rzuhovski0/plugin.video.yawsp) - Yet Another WebShare Plugin (3 months ago)
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer (3 months ago)
