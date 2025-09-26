@@ -26,6 +26,9 @@ k get cert -A
     <a href="https://www.credly.com/badges/346440ab-00a3-4c19-bc5d-0b46378c1191/public_url">
         <img src="https://training.linuxfoundation.org/wp-content/uploads/2022/11/CKS.png" alt="https://www.credly.com/badges/346440ab-00a3-4c19-bc5d-0b46378c1191/public_url" width="110" height="110"/>
     </a>
+    <a href="https://www.credly.com/badges/9518f1f5-5e31-437b-9217-0ab66424af1f/public_url">
+        <img src="https://training.linuxfoundation.org/wp-content/uploads/2022/11/CKAD.png" alt="https://www.credly.com/badges/9518f1f5-5e31-437b-9217-0ab66424af1f/public_url" width="110" height="110"/>
+    </a>
     <a href="https://www.credly.com/badges/516e70e3-37ce-4001-84ee-57ceb8f0abeb/public_url">
         <img src="https://training.linuxfoundation.org/wp-content/uploads/2020/11/lfcs_111820-300x300.png" alt="https://www.credly.com/badges/516e70e3-37ce-4001-84ee-57ceb8f0abeb/public_url" width="110" height="110"/>
     </a>
@@ -36,24 +39,24 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 day ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (today)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (today)
+- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (2 days ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (1 week ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
 - :octocat: / [jkremser/keda-prophet-poc](https://github.com/jkremser/keda-prophet-poc) - Exposing multiple Prophet models via REST api for KEDA (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.11.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.11.0), 1 day ago) - Helm charts for KEDA
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.0](https://github.com/kedacore/http-add-on/releases/tag/v0.11.0), 1 week ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.1](https://github.com/kedify/otel-add-on/releases/tag/v0.1.1), 1 month ago) - Bridge between OTel and KEDA api
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.15.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.15.0), 2 months ago) - A cloud native Kubernetes Global Balancer
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add gRPC service that allows subscribing to a raw metric values for given ns,SO&amp;triggerName](https://github.com/kedacore/keda/pull/7093) on [kedacore/keda](https://github.com/kedacore/keda) (3 days ago)
+- 💪 [typo](https://github.com/kedify/examples/pull/81) on [kedify/examples](https://github.com/kedify/examples) (today)
+- 💪 [Add gRPC service that allows subscribing to a raw metric values for given ns,SO&amp;triggerName](https://github.com/kedacore/keda/pull/7093) on [kedacore/keda](https://github.com/kedacore/keda) (4 days ago)
 - 💪 [Helm chart now supports deploying the controller as sidecar &amp; REST improvements - new endpoint for bulk inserts &#43; db constraint](https://github.com/jkremser/keda-prophet-poc/pull/1) on [jkremser/keda-prophet-poc](https://github.com/jkremser/keda-prophet-poc) (1 week ago)
 - 💪 [Add docs for releasing](https://github.com/kedify/otel-add-on/pull/178) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
-- 💪 [fix #176](https://github.com/kedify/otel-add-on/pull/177) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
 
 #### 📓 Gists I wrote
 
