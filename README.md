@@ -39,22 +39,22 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (today)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (today)
-- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (2 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 days ago)
+- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (4 days ago)
 - :octocat: / [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (1 week ago)
 - :octocat: / [jkremser/keda-prophet-poc](https://github.com/jkremser/keda-prophet-poc) - Exposing multiple Prophet models via REST api for KEDA (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.11.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.11.0), 1 day ago) - Helm charts for KEDA
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.11.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.11.0), 3 days ago) - Helm charts for KEDA
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.0](https://github.com/kedacore/http-add-on/releases/tag/v0.11.0), 1 week ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.1](https://github.com/kedify/otel-add-on/releases/tag/v0.1.1), 1 month ago) - Bridge between OTel and KEDA api
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [typo](https://github.com/kedify/examples/pull/81) on [kedify/examples](https://github.com/kedify/examples) (today)
-- 💪 [Add gRPC service that allows subscribing to a raw metric values for given ns,SO&amp;triggerName](https://github.com/kedacore/keda/pull/7093) on [kedacore/keda](https://github.com/kedacore/keda) (4 days ago)
+- 💪 [typo](https://github.com/kedify/examples/pull/81) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
+- 💪 [Add gRPC service that allows subscribing to a raw metric values for given ns,SO&amp;triggerName](https://github.com/kedacore/keda/pull/7093) on [kedacore/keda](https://github.com/kedacore/keda) (6 days ago)
 - 💪 [Helm chart now supports deploying the controller as sidecar &amp; REST improvements - new endpoint for bulk inserts &#43; db constraint](https://github.com/jkremser/keda-prophet-poc/pull/1) on [jkremser/keda-prophet-poc](https://github.com/jkremser/keda-prophet-poc) (1 week ago)
 - 💪 [Add docs for releasing](https://github.com/kedify/otel-add-on/pull/178) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
 
