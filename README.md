@@ -39,10 +39,10 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 days ago)
-- :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (2 days ago)
-- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (3 days ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (5 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (5 days ago)
+- :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (5 days ago)
+- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (6 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -53,11 +53,11 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update README.md](https://github.com/kedify/examples/pull/82) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
-- 💪 [fix: raw metrics over gRPC (sending to closed channel)](https://github.com/kedacore/keda/pull/7115) on [kedacore/keda](https://github.com/kedacore/keda) (5 days ago)
-- 💪 [Add a section about consuming the raw metrics using gRPC.](https://github.com/kedacore/keda-docs/pull/1627) on [kedacore/keda-docs](https://github.com/kedacore/keda-docs) (5 days ago)
+- 💪 [Update README.md](https://github.com/kedify/examples/pull/82) on [kedify/examples](https://github.com/kedify/examples) (5 days ago)
+- 💪 [fix: raw metrics over gRPC (sending to closed channel)](https://github.com/kedacore/keda/pull/7115) on [kedacore/keda](https://github.com/kedacore/keda) (1 week ago)
+- 💪 [Add a section about consuming the raw metrics using gRPC.](https://github.com/kedacore/keda-docs/pull/1627) on [kedacore/keda-docs](https://github.com/kedacore/keda-docs) (1 week ago)
 - 💪 [typo](https://github.com/kedify/examples/pull/81) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
-- 💪 [Add gRPC service that allows subscribing to a raw metric values for given ns,SO&amp;triggerName](https://github.com/kedacore/keda/pull/7093) on [kedacore/keda](https://github.com/kedacore/keda) (1 week ago)
+- 💪 [Add gRPC service that allows subscribing to a raw metric values for given ns,SO&amp;triggerName](https://github.com/kedacore/keda/pull/7093) on [kedacore/keda](https://github.com/kedacore/keda) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
