@@ -39,25 +39,25 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (5 days ago)
-- :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (5 days ago)
-- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (6 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
+- :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (1 week ago)
+- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 week ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.11.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.11.0), 1 week ago) - Helm charts for KEDA
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.0](https://github.com/kedacore/http-add-on/releases/tag/v0.11.0), 2 weeks ago) - Add-on for KEDA to scale HTTP workloads
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.1](https://github.com/kedify/otel-add-on/releases/tag/v0.1.1), 1 month ago) - Bridge between OTel and KEDA api
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.0](https://github.com/kedacore/charts/releases/tag/v2.18.0), 2 days ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.0](https://github.com/kedacore/keda/releases/tag/v2.18.0), 2 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.2](https://github.com/kedify/otel-add-on/releases/tag/v0.1.2), 3 days ago) - Bridge between OTel and KEDA api
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update README.md](https://github.com/kedify/examples/pull/82) on [kedify/examples](https://github.com/kedify/examples) (5 days ago)
-- 💪 [fix: raw metrics over gRPC (sending to closed channel)](https://github.com/kedacore/keda/pull/7115) on [kedacore/keda](https://github.com/kedacore/keda) (1 week ago)
-- 💪 [Add a section about consuming the raw metrics using gRPC.](https://github.com/kedacore/keda-docs/pull/1627) on [kedacore/keda-docs](https://github.com/kedacore/keda-docs) (1 week ago)
-- 💪 [typo](https://github.com/kedify/examples/pull/81) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
-- 💪 [Add gRPC service that allows subscribing to a raw metric values for given ns,SO&amp;triggerName](https://github.com/kedacore/keda/pull/7093) on [kedacore/keda](https://github.com/kedacore/keda) (2 weeks ago)
+- 💪 [Update Chart.yaml](https://github.com/kedify/otel-add-on/pull/190) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
+- 💪 [Fix pr creation vol2](https://github.com/kedify/otel-add-on/pull/188) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
+- 💪 [Add permission to workflow to be able to create PRs](https://github.com/kedify/otel-add-on/pull/187) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
+- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/186) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
+- 💪 [Add OTel addon as another sub-chart of kedify-agent](https://github.com/kedify/charts/pull/281) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
 
 #### 📓 Gists I wrote
 
