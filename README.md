@@ -39,25 +39,22 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (6 days ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
 - :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (1 week ago)
 - :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 week ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.0](https://github.com/kedacore/charts/releases/tag/v2.18.0), 2 days ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.0](https://github.com/kedacore/keda/releases/tag/v2.18.0), 2 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.2](https://github.com/kedify/otel-add-on/releases/tag/v0.1.2), 3 days ago) - Bridge between OTel and KEDA api
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.0](https://github.com/kedacore/charts/releases/tag/v2.18.0), 5 days ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.0](https://github.com/kedacore/keda/releases/tag/v2.18.0), 5 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.2](https://github.com/kedify/otel-add-on/releases/tag/v0.1.2), 6 days ago) - Bridge between OTel and KEDA api
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update Chart.yaml](https://github.com/kedify/otel-add-on/pull/190) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
-- 💪 [Fix pr creation vol2](https://github.com/kedify/otel-add-on/pull/188) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
-- 💪 [Add permission to workflow to be able to create PRs](https://github.com/kedify/otel-add-on/pull/187) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/186) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
-- 💪 [Add OTel addon as another sub-chart of kedify-agent](https://github.com/kedify/charts/pull/281) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [Add Kedify predictor as sub-chart for agent](https://github.com/kedify/charts/pull/285) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [Update Chart.yaml](https://github.com/kedify/otel-add-on/pull/190) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (5 days ago)
 
 #### 📓 Gists I wrote
 
