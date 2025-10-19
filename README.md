@@ -53,8 +53,8 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Forgot to add these annotations to let helm delete the resources necessary for post/pre install hooks](https://github.com/kedify/charts/pull/288) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
-- 💪 [Allow specify extraPostInstallObjects or extraPreInstallObjects. Thes…](https://github.com/kedify/charts/pull/287) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [Forgot to add these annotations to let helm delete the resources necessary for post/pre install hooks](https://github.com/kedify/charts/pull/288) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
+- 💪 [Allow specify extraPostInstallObjects or extraPreInstallObjects. Thes…](https://github.com/kedify/charts/pull/287) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
 
 #### 📓 Gists I wrote
 
