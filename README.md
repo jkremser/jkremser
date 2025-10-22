@@ -39,32 +39,32 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 weeks ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
 - :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (2 weeks ago)
-- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (2 weeks ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
+- :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (3 weeks ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.0](https://github.com/kedacore/charts/releases/tag/v2.18.0), 1 week ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.0](https://github.com/kedacore/keda/releases/tag/v2.18.0), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.2](https://github.com/kedify/otel-add-on/releases/tag/v0.1.2), 1 week ago) - Bridge between OTel and KEDA api
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.1](https://github.com/kedacore/http-add-on/releases/tag/v0.11.1), 2 days ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.16.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.16.0), 2 days ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.0](https://github.com/kedacore/charts/releases/tag/v2.18.0), 2 weeks ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Forgot to add these annotations to let helm delete the resources necessary for post/pre install hooks](https://github.com/kedify/charts/pull/288) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
-- 💪 [Allow specify extraPostInstallObjects or extraPreInstallObjects. Thes…](https://github.com/kedify/charts/pull/287) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
+- 💪 [Forgot to add these annotations to let helm delete the resources necessary for post/pre install hooks](https://github.com/kedify/charts/pull/288) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
+- 💪 [Allow specify extraPostInstallObjects or extraPreInstallObjects. Thes…](https://github.com/kedify/charts/pull/287) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
 - [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (3 months ago)
-- [kubeconfig w/ limited rights](https://gist.github.com/6a4bf7c3fec1dfad36600aee53ff234e) (3 months ago)
-- [DCGM &#43; OTel scaler setup](https://gist.github.com/1d68e2f33c80f098abe85ba067602c0d) (4 months ago)
+- [kubeconfig w/ limited rights](https://gist.github.com/6a4bf7c3fec1dfad36600aee53ff234e) (4 months ago)
+- [DCGM &#43; OTel scaler setup](https://gist.github.com/1d68e2f33c80f098abe85ba067602c0d) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (1 month ago)
+- [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (2 months ago)
 - [kubescape/cel-admission-library](https://github.com/kubescape/cel-admission-library) - This projects contains pre-made policies for Kubernetes Validating Admission Policies. This policy library is based on Kubescape controls, see here a comlete list https://hub.armosec.io/docs/controls (3 months ago)
 - [rzuhovski0/plugin.video.yawsp](https://github.com/rzuhovski0/plugin.video.yawsp) - Yet Another WebShare Plugin (4 months ago)
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer (4 months ago)
