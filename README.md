@@ -39,22 +39,23 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 day ago)
+- :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (2 days ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 weeks ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
-- :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (2 weeks ago)
+- :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (3 weeks ago)
 - :octocat: / [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (3 weeks ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.1](https://github.com/kedacore/http-add-on/releases/tag/v0.11.1), 2 days ago) - Add-on for KEDA to scale HTTP workloads
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.16.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.16.0), 2 days ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.1](https://github.com/kedacore/http-add-on/releases/tag/v0.11.1), 5 days ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.16.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.16.0), 5 days ago) - A cloud native Kubernetes Global Balancer
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.0](https://github.com/kedacore/charts/releases/tag/v2.18.0), 2 weeks ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Forgot to add these annotations to let helm delete the resources necessary for post/pre install hooks](https://github.com/kedify/charts/pull/288) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
-- 💪 [Allow specify extraPostInstallObjects or extraPreInstallObjects. Thes…](https://github.com/kedify/charts/pull/287) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
+- 💪 [Add comment to dockerfile about the image build cmd](https://github.com/kedify/examples/pull/86) on [kedify/examples](https://github.com/kedify/examples) (1 day ago)
+- 💪 [Add a way to calculate the value also using &#39;absolute clock&#39;](https://github.com/kedify/examples/pull/85) on [kedify/examples](https://github.com/kedify/examples) (1 day ago)
+- 💪 [typo](https://github.com/yokecd/docs/pull/13) on [yokecd/docs](https://github.com/yokecd/docs) (2 days ago)
 
 #### 📓 Gists I wrote
 
