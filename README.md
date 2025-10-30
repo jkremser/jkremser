@@ -35,27 +35,27 @@ k get cert -A
     <a href="https://rhtapps.redhat.com/verify/?certId=120-194-022">
         <img src="./rhca.png" alt="https://rhtapps.redhat.com/verify/?certId=120-194-022" width="100" height="100"/>
     </a>
+    <a href="https://www.credly.com/badges/3343f96a-b353-4ee4-8c08-6716e77ec03b">
+        <img src="./kubestronaut.png" alt="https://www.credly.com/badges/3343f96a-b353-4ee4-8c08-6716e77ec03b" width="100" height="100"/>
+    </a>
 </p>
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/prp-savings-calculator](https://github.com/jkremser/prp-savings-calculator) -  (1 day ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (4 days ago)
-- :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (5 days ago)
+- :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (1 day ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (6 days ago)
+- :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (1 week ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 weeks ago)
-- :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (3 weeks ago)
+- :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.1](https://github.com/kedacore/charts/releases/tag/v2.18.1), 1 day ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.1](https://github.com/kedacore/keda/releases/tag/v2.18.1), 1 day ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.1](https://github.com/kedacore/http-add-on/releases/tag/v0.11.1), 1 week ago) - Add-on for KEDA to scale HTTP workloads
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.16.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.16.0), 1 week ago) - A cloud native Kubernetes Global Balancer
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.0](https://github.com/kedacore/charts/releases/tag/v2.18.0), 2 weeks ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add comment to dockerfile about the image build cmd](https://github.com/kedify/examples/pull/86) on [kedify/examples](https://github.com/kedify/examples) (4 days ago)
-- 💪 [Add a way to calculate the value also using &#39;absolute clock&#39;](https://github.com/kedify/examples/pull/85) on [kedify/examples](https://github.com/kedify/examples) (4 days ago)
-- 💪 [typo](https://github.com/yokecd/docs/pull/13) on [yokecd/docs](https://github.com/yokecd/docs) (5 days ago)
 
 #### 📓 Gists I wrote
 
