@@ -35,6 +35,9 @@ k get cert -A
     <a href="https://rhtapps.redhat.com/verify/?certId=120-194-022">
         <img src="./rhca.png" alt="https://rhtapps.redhat.com/verify/?certId=120-194-022" width="100" height="100"/>
     </a>
+    <a href="https://www.credly.com/badges/3343f96a-b353-4ee4-8c08-6716e77ec03b">
+        <img src="./kubestronaut.png" alt="https://www.credly.com/badges/3343f96a-b353-4ee4-8c08-6716e77ec03b" width="100" height="100"/>
+    </a>
 </p>
 
 #### 👷 Check out what I'm currently working on
