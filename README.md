@@ -42,20 +42,22 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (1 day ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (6 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 day ago)
+- :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (2 days ago)
 - :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (1 week ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 weeks ago)
 - :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.1](https://github.com/kedacore/charts/releases/tag/v2.18.1), 1 day ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.1](https://github.com/kedacore/keda/releases/tag/v2.18.1), 1 day ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.1](https://github.com/kedacore/charts/releases/tag/v2.18.1), 2 days ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.1](https://github.com/kedacore/keda/releases/tag/v2.18.1), 2 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.1](https://github.com/kedacore/http-add-on/releases/tag/v0.11.1), 1 week ago) - Add-on for KEDA to scale HTTP workloads
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [Make port configurable and make sure the program args has higher precendency over env vars](https://github.com/kedify/examples/pull/88) on [kedify/examples](https://github.com/kedify/examples) (1 day ago)
+- 💪 [Bump kedify-predictor sub-chart to v0.0.2](https://github.com/kedify/charts/pull/294) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
 
 #### 📓 Gists I wrote
 
