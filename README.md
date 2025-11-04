@@ -42,23 +42,23 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 day ago)
-- :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (3 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (4 days ago)
+- :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (6 days ago)
 - :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (1 week ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 weeks ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (4 weeks ago)
 - :octocat: / [kedacore/keda-docs](https://github.com/kedacore/keda-docs) - Documentation and landing page for KEDA (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.1](https://github.com/kedacore/charts/releases/tag/v2.18.1), 3 days ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.1](https://github.com/kedacore/keda/releases/tag/v2.18.1), 3 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.1](https://github.com/kedacore/http-add-on/releases/tag/v0.11.1), 1 week ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.1](https://github.com/kedacore/charts/releases/tag/v2.18.1), 6 days ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.1](https://github.com/kedacore/keda/releases/tag/v2.18.1), 6 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.1](https://github.com/kedacore/http-add-on/releases/tag/v0.11.1), 2 weeks ago) - Add-on for KEDA to scale HTTP workloads
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [nit: Redundant call](https://github.com/kedify/examples/pull/89) on [kedify/examples](https://github.com/kedify/examples) (1 day ago)
-- 💪 [Make port configurable and make sure the program args has higher precendency over env vars](https://github.com/kedify/examples/pull/88) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
-- 💪 [Bump kedify-predictor sub-chart to v0.0.2](https://github.com/kedify/charts/pull/294) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
+- 💪 [nit: Redundant call](https://github.com/kedify/examples/pull/89) on [kedify/examples](https://github.com/kedify/examples) (4 days ago)
+- 💪 [Make port configurable and make sure the program args has higher precendency over env vars](https://github.com/kedify/examples/pull/88) on [kedify/examples](https://github.com/kedify/examples) (5 days ago)
+- 💪 [Bump kedify-predictor sub-chart to v0.0.2](https://github.com/kedify/charts/pull/294) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
 
 #### 📓 Gists I wrote
 
@@ -68,7 +68,7 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (today)
+- [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (3 days ago)
 - [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (2 months ago)
 - [kubescape/cel-admission-library](https://github.com/kubescape/cel-admission-library) - This projects contains pre-made policies for Kubernetes Validating Admission Policies. This policy library is based on Kubescape controls, see here a comlete list https://hub.armosec.io/docs/controls (3 months ago)
 - [rzuhovski0/plugin.video.yawsp](https://github.com/rzuhovski0/plugin.video.yawsp) - Yet Another WebShare Plugin (4 months ago)
