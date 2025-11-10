@@ -42,7 +42,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (5 days ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
 - :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (1 week ago)
 - :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (2 weeks ago)
@@ -52,12 +52,12 @@ k get cert -A
 
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.1](https://github.com/kedacore/charts/releases/tag/v2.18.1), 1 week ago) - Helm charts for KEDA
 - 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.1](https://github.com/kedacore/keda/releases/tag/v2.18.1), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.1](https://github.com/kedacore/http-add-on/releases/tag/v0.11.1), 2 weeks ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.1](https://github.com/kedacore/http-add-on/releases/tag/v0.11.1), 3 weeks ago) - Add-on for KEDA to scale HTTP workloads
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [Azul &#43; PodResourceProfiles](https://github.com/kedify/examples/pull/90) on [kedify/examples](https://github.com/kedify/examples) (3 days ago)
 - 💪 [nit: Redundant call](https://github.com/kedify/examples/pull/89) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
-- 💪 [Make port configurable and make sure the program args has higher precendency over env vars](https://github.com/kedify/examples/pull/88) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -67,10 +67,10 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (6 days ago)
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (2 days ago)
+- [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (1 week ago)
 - [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (2 months ago)
 - [kubescape/cel-admission-library](https://github.com/kubescape/cel-admission-library) - This projects contains pre-made policies for Kubernetes Validating Admission Policies. This policy library is based on Kubescape controls, see here a comlete list https://hub.armosec.io/docs/controls (3 months ago)
-- [rzuhovski0/plugin.video.yawsp](https://github.com/rzuhovski0/plugin.video.yawsp) - Yet Another WebShare Plugin (4 months ago)
 
 #### 💬 Feedback
 
