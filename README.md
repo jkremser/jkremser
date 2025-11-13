@@ -42,32 +42,32 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (5 days ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
-- :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (1 week ago)
-- :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (2 weeks ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
+- :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (2 weeks ago)
+- :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (3 weeks ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.1](https://github.com/kedacore/charts/releases/tag/v2.18.1), 1 week ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.1](https://github.com/kedacore/keda/releases/tag/v2.18.1), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.1](https://github.com/kedacore/charts/releases/tag/v2.18.1), 2 weeks ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.1](https://github.com/kedacore/keda/releases/tag/v2.18.1), 2 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.1](https://github.com/kedacore/http-add-on/releases/tag/v0.11.1), 3 weeks ago) - Add-on for KEDA to scale HTTP workloads
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Azul &#43; PodResourceProfiles](https://github.com/kedify/examples/pull/90) on [kedify/examples](https://github.com/kedify/examples) (3 days ago)
-- 💪 [nit: Redundant call](https://github.com/kedify/examples/pull/89) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
+- 💪 [Create dockerfile for cloud part &#43; move data layer to redis so that scaling is easier](https://github.com/ranimandepudi/cncf-on-arm-edge-detection/pull/1) on [ranimandepudi/cncf-on-arm-edge-detection](https://github.com/ranimandepudi/cncf-on-arm-edge-detection) (3 days ago)
+- 💪 [Azul &#43; PodResourceProfiles](https://github.com/kedify/examples/pull/90) on [kedify/examples](https://github.com/kedify/examples) (6 days ago)
 
 #### 📓 Gists I wrote
 
-- [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (3 months ago)
+- [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (4 months ago)
 - [kubeconfig w/ limited rights](https://gist.github.com/6a4bf7c3fec1dfad36600aee53ff234e) (4 months ago)
 - [DCGM &#43; OTel scaler setup](https://gist.github.com/1d68e2f33c80f098abe85ba067602c0d) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (2 days ago)
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (5 days ago)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (1 week ago)
 - [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (2 months ago)
 - [kubescape/cel-admission-library](https://github.com/kubescape/cel-admission-library) - This projects contains pre-made policies for Kubernetes Validating Admission Policies. This policy library is based on Kubescape controls, see here a comlete list https://hub.armosec.io/docs/controls (3 months ago)
