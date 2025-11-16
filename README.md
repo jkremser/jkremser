@@ -42,11 +42,11 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (today)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (today)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
 - :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (2 weeks ago)
 - :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (3 weeks ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -56,8 +56,8 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Create dockerfile for cloud part &#43; move data layer to redis so that scaling is easier](https://github.com/ranimandepudi/cncf-on-arm-edge-detection/pull/1) on [ranimandepudi/cncf-on-arm-edge-detection](https://github.com/ranimandepudi/cncf-on-arm-edge-detection) (3 days ago)
-- 💪 [Azul &#43; PodResourceProfiles](https://github.com/kedify/examples/pull/90) on [kedify/examples](https://github.com/kedify/examples) (6 days ago)
+- 💪 [Create dockerfile for cloud part &#43; move data layer to redis so that scaling is easier](https://github.com/ranimandepudi/cncf-on-arm-edge-detection/pull/1) on [ranimandepudi/cncf-on-arm-edge-detection](https://github.com/ranimandepudi/cncf-on-arm-edge-detection) (6 days ago)
+- 💪 [Azul &#43; PodResourceProfiles](https://github.com/kedify/examples/pull/90) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -67,10 +67,10 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (5 days ago)
-- [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (1 week ago)
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (1 week ago)
+- [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (2 weeks ago)
 - [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (2 months ago)
-- [kubescape/cel-admission-library](https://github.com/kubescape/cel-admission-library) - This projects contains pre-made policies for Kubernetes Validating Admission Policies. This policy library is based on Kubescape controls, see here a comlete list https://hub.armosec.io/docs/controls (3 months ago)
+- [kubescape/cel-admission-library](https://github.com/kubescape/cel-admission-library) - This projects contains pre-made policies for Kubernetes Validating Admission Policies. This policy library is based on Kubescape controls, see here a comlete list https://hub.armosec.io/docs/controls (4 months ago)
 
 #### 💬 Feedback
 
