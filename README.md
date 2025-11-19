@@ -42,28 +42,28 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (today)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (today)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
-- :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (2 weeks ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
+- :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (3 weeks ago)
 - :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.1](https://github.com/kedacore/charts/releases/tag/v2.18.1), 2 weeks ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.1](https://github.com/kedacore/keda/releases/tag/v2.18.1), 2 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.1](https://github.com/kedacore/http-add-on/releases/tag/v0.11.1), 3 weeks ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.1](https://github.com/kedacore/charts/releases/tag/v2.18.1), 3 weeks ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.1](https://github.com/kedacore/keda/releases/tag/v2.18.1), 3 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.11.1](https://github.com/kedacore/http-add-on/releases/tag/v0.11.1), 1 month ago) - Add-on for KEDA to scale HTTP workloads
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Create dockerfile for cloud part &#43; move data layer to redis so that scaling is easier](https://github.com/ranimandepudi/cncf-on-arm-edge-detection/pull/1) on [ranimandepudi/cncf-on-arm-edge-detection](https://github.com/ranimandepudi/cncf-on-arm-edge-detection) (6 days ago)
+- 💪 [Create dockerfile for cloud part &#43; move data layer to redis so that scaling is easier](https://github.com/ranimandepudi/cncf-on-arm-edge-detection/pull/1) on [ranimandepudi/cncf-on-arm-edge-detection](https://github.com/ranimandepudi/cncf-on-arm-edge-detection) (1 week ago)
 - 💪 [Azul &#43; PodResourceProfiles](https://github.com/kedify/examples/pull/90) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
 
 #### 📓 Gists I wrote
 
 - [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (4 months ago)
 - [kubeconfig w/ limited rights](https://gist.github.com/6a4bf7c3fec1dfad36600aee53ff234e) (4 months ago)
-- [DCGM &#43; OTel scaler setup](https://gist.github.com/1d68e2f33c80f098abe85ba067602c0d) (5 months ago)
+- [DCGM &#43; OTel scaler setup](https://gist.github.com/1d68e2f33c80f098abe85ba067602c0d) (6 months ago)
 
 #### ⭐ Recent Stars
 
