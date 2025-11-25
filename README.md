@@ -42,8 +42,8 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (6 days ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (6 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
 - :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (3 weeks ago)
 - :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (1 month ago)
@@ -56,7 +56,7 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Create dockerfile for cloud part &#43; move data layer to redis so that scaling is easier](https://github.com/ranimandepudi/cncf-on-arm-edge-detection/pull/1) on [ranimandepudi/cncf-on-arm-edge-detection](https://github.com/ranimandepudi/cncf-on-arm-edge-detection) (1 week ago)
+- 💪 [Create dockerfile for cloud part &#43; move data layer to redis so that scaling is easier](https://github.com/ranimandepudi/cncf-on-arm-edge-detection/pull/1) on [ranimandepudi/cncf-on-arm-edge-detection](https://github.com/ranimandepudi/cncf-on-arm-edge-detection) (2 weeks ago)
 - 💪 [Azul &#43; PodResourceProfiles](https://github.com/kedify/examples/pull/90) on [kedify/examples](https://github.com/kedify/examples) (2 weeks ago)
 
 #### 📓 Gists I wrote
