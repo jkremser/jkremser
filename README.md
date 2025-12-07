@@ -42,33 +42,33 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 days ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (4 weeks ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (5 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 weeks ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 - :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (1 month ago)
 - :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.3](https://github.com/kedify/otel-add-on/releases/tag/v0.1.3), 2 days ago) - Bridge between OTel and KEDA api
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.3](https://github.com/kedify/otel-add-on/releases/tag/v0.1.3), 5 days ago) - Bridge between OTel and KEDA api
 - 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.9](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.9), 1 week ago) - kubectl plugin to manage and debug Kedify/KEDA
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.1](https://github.com/kedacore/charts/releases/tag/v2.18.1), 1 month ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/199) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
-- 💪 [readme: Add missing name for helm install cmd](https://github.com/kedify/otel-add-on/pull/198) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
+- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/199) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (5 days ago)
+- 💪 [readme: Add missing name for helm install cmd](https://github.com/kedify/otel-add-on/pull/198) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (5 days ago)
 
 #### 📓 Gists I wrote
 
+- [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (2 days ago)
 - [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (4 months ago)
 - [kubeconfig w/ limited rights](https://gist.github.com/6a4bf7c3fec1dfad36600aee53ff234e) (5 months ago)
-- [DCGM &#43; OTel scaler setup](https://gist.github.com/1d68e2f33c80f098abe85ba067602c0d) (6 months ago)
 
 #### ⭐ Recent Stars
 
-- [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (6 days ago)
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (3 weeks ago)
+- [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (1 week ago)
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (4 weeks ago)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (1 month ago)
 - [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (3 months ago)
 
