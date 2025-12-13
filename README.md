@@ -42,35 +42,30 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 day ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (4 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (5 days ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 - :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (1 month ago)
 - :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.2](https://github.com/kedacore/charts/releases/tag/v2.18.2), 2 days ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.2](https://github.com/kedacore/keda/releases/tag/v2.18.2), 2 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.2](https://github.com/kedacore/charts/releases/tag/v2.18.2), 5 days ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.2](https://github.com/kedacore/keda/releases/tag/v2.18.2), 5 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.3](https://github.com/kedify/otel-add-on/releases/tag/v0.1.3), 1 week ago) - Bridge between OTel and KEDA api
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Fix #195: Project readme got replaced by helm chart readme by gh action](https://github.com/kedify/otel-add-on/pull/206) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
-- 💪 [Make sure the svc name is correct](https://github.com/kedify/examples/pull/101) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
-- 💪 [Make sure to use the explicit version for Kedify KEDA &amp; install OTel scaler to keda ns](https://github.com/kedify/otel-add-on/pull/205) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
-- 💪 [Update chart.yaml](https://github.com/kedify/otel-add-on/pull/199) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
-- 💪 [readme: Add missing name for helm install cmd](https://github.com/kedify/otel-add-on/pull/198) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (5 days ago)
-- [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (4 months ago)
+- [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (1 week ago)
+- [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (5 months ago)
 - [kubeconfig w/ limited rights](https://gist.github.com/6a4bf7c3fec1dfad36600aee53ff234e) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (1 week ago)
+- [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (2 weeks ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (1 month ago)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (1 month ago)
 - [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (3 months ago)
