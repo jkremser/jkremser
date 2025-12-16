@@ -42,17 +42,17 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (4 days ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (5 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 - :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (1 month ago)
 - :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.2](https://github.com/kedacore/charts/releases/tag/v2.18.2), 5 days ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.2](https://github.com/kedacore/keda/releases/tag/v2.18.2), 5 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.3](https://github.com/kedify/otel-add-on/releases/tag/v0.1.3), 1 week ago) - Bridge between OTel and KEDA api
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.2](https://github.com/kedacore/charts/releases/tag/v2.18.2), 1 week ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.2](https://github.com/kedacore/keda/releases/tag/v2.18.2), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.3](https://github.com/kedify/otel-add-on/releases/tag/v0.1.3), 2 weeks ago) - Bridge between OTel and KEDA api
 
 #### 🔨 My recent Pull Requests
 
