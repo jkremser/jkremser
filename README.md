@@ -59,13 +59,13 @@ k get cert -A
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (1 week ago)
+- [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (2 weeks ago)
 - [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (5 months ago)
 - [kubeconfig w/ limited rights](https://gist.github.com/6a4bf7c3fec1dfad36600aee53ff234e) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (2 weeks ago)
+- [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (3 weeks ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (1 month ago)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (1 month ago)
 - [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (3 months ago)
