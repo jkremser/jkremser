@@ -43,32 +43,33 @@ k get cert -A
 #### 👷 Check out what I'm currently working on
 
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 - :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (1 month ago)
-- :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (1 month ago)
+- :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.2](https://github.com/kedacore/charts/releases/tag/v2.18.2), 1 week ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.2](https://github.com/kedacore/keda/releases/tag/v2.18.2), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.2](https://github.com/kedacore/charts/releases/tag/v2.18.2), 2 weeks ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.2](https://github.com/kedacore/keda/releases/tag/v2.18.2), 2 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.3](https://github.com/kedify/otel-add-on/releases/tag/v0.1.3), 2 weeks ago) - Bridge between OTel and KEDA api
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [Bump predictor to v0.0.4](https://github.com/kedify/charts/pull/341) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
 
 #### 📓 Gists I wrote
 
+- [no description](https://gist.github.com/8476640dae6f7a532bd87697bb37ac94) (3 days ago)
 - [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (2 weeks ago)
 - [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (5 months ago)
-- [kubeconfig w/ limited rights](https://gist.github.com/6a4bf7c3fec1dfad36600aee53ff234e) (5 months ago)
 
 #### ⭐ Recent Stars
 
 - [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (3 weeks ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (1 month ago)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (1 month ago)
-- [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (3 months ago)
+- [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (4 months ago)
 
 #### 💬 Feedback
 
