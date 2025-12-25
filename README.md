@@ -42,25 +42,27 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
+- :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (3 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 weeks ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 - :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (1 month ago)
-- :octocat: / [yokecd/docs](https://github.com/yokecd/docs) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.2](https://github.com/kedacore/charts/releases/tag/v2.18.2), 2 weeks ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.2](https://github.com/kedacore/keda/releases/tag/v2.18.2), 2 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.3](https://github.com/kedify/otel-add-on/releases/tag/v0.1.3), 2 weeks ago) - Bridge between OTel and KEDA api
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.17.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.17.0), 1 day ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.3](https://github.com/kedacore/charts/releases/tag/v2.18.3), 3 days ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.3](https://github.com/kedacore/keda/releases/tag/v2.18.3), 3 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Bump predictor to v0.0.4](https://github.com/kedify/charts/pull/341) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [Let renovate update the sub-charts of kedify agents (otel addon &amp; predictor) when there is a new release](https://github.com/kedify/charts/pull/344) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [Fix helm deps gh action (add missing repos for sub-charts)](https://github.com/kedify/charts/pull/343) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [Bump predictor to v0.0.4](https://github.com/kedify/charts/pull/341) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/8476640dae6f7a532bd87697bb37ac94) (3 days ago)
+- [no description](https://gist.github.com/8476640dae6f7a532bd87697bb37ac94) (6 days ago)
 - [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (2 weeks ago)
 - [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (5 months ago)
 
