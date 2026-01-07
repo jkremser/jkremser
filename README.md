@@ -42,17 +42,17 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (1 week ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 weeks ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 weeks ago)
+- :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (2 weeks ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (4 weeks ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 month ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 months ago)
 - :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.17.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.17.0), 1 week ago) - A cloud native Kubernetes Global Balancer
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.3](https://github.com/kedacore/charts/releases/tag/v2.18.3), 1 week ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.3](https://github.com/kedacore/keda/releases/tag/v2.18.3), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.17.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.17.0), 2 weeks ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.3](https://github.com/kedacore/charts/releases/tag/v2.18.3), 2 weeks ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.3](https://github.com/kedacore/keda/releases/tag/v2.18.3), 2 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 
 #### 🔨 My recent Pull Requests
 
@@ -66,7 +66,7 @@ k get cert -A
 #### ⭐ Recent Stars
 
 - [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (1 month ago)
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (1 month ago)
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (2 months ago)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (2 months ago)
 - [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (4 months ago)
 
