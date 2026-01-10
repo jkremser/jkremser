@@ -43,7 +43,7 @@ k get cert -A
 #### 👷 Check out what I'm currently working on
 
 - :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (2 weeks ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (4 weeks ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 month ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 month ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 months ago)
 - :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (2 months ago)
@@ -59,7 +59,7 @@ k get cert -A
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/8476640dae6f7a532bd87697bb37ac94) (2 weeks ago)
+- [no description](https://gist.github.com/8476640dae6f7a532bd87697bb37ac94) (3 weeks ago)
 - [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (1 month ago)
 - [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (5 months ago)
 
