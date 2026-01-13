@@ -42,7 +42,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (2 weeks ago)
+- :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (3 weeks ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 month ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 month ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 months ago)
@@ -51,8 +51,8 @@ k get cert -A
 #### 🔭 Latest releases I've contributed to
 
 - 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.17.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.17.0), 2 weeks ago) - A cloud native Kubernetes Global Balancer
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.3](https://github.com/kedacore/charts/releases/tag/v2.18.3), 2 weeks ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.3](https://github.com/kedacore/keda/releases/tag/v2.18.3), 2 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.3](https://github.com/kedacore/charts/releases/tag/v2.18.3), 3 weeks ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.3](https://github.com/kedacore/keda/releases/tag/v2.18.3), 3 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 
 #### 🔨 My recent Pull Requests
 
@@ -61,7 +61,7 @@ k get cert -A
 
 - [no description](https://gist.github.com/8476640dae6f7a532bd87697bb37ac94) (3 weeks ago)
 - [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (1 month ago)
-- [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (5 months ago)
+- [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (6 months ago)
 
 #### ⭐ Recent Stars
 
