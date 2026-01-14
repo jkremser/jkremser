@@ -9,7 +9,8 @@
 
 #### 📱 Code stats
 
-![jkremser's github stats](https://github-readme-stats.vercel.app/api?username=jkremser&count_private=true&show_icons=true&hide_border=false&theme=tokyonight&title_color=5bcdec&bg_color=0d1117&border_radius=false) ![head](https://user-images.githubusercontent.com/535866/175570014-71166aaa-95f7-4a4f-869c-93a16481de4e.jpeg)
+<!-- ![jkremser's github stats](https://github-readme-stats.vercel.app/api?username=jkremser&count_private=true&show_icons=true&hide_border=false&theme=tokyonight&title_color=5bcdec&bg_color=0d1117&border_radius=false)-->
+![head](https://user-images.githubusercontent.com/535866/175570014-71166aaa-95f7-4a4f-869c-93a16481de4e.jpeg)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkremser&layout=compact&count_private=true&theme=tokyonight&title_color=5bcdec&bg_color=0d1117&border_radius=false&hide=perl&langs_count=7) -->
 <!-- <img src="./b.gif" style="height:50px !important;"> -->
 <!-- ![activity graph](https://activity-graph.herokuapp.com/graph?username=jkremser&theme=react-dark) -->
