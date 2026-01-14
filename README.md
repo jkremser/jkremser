@@ -9,7 +9,8 @@
 
 #### 📱 Code stats
 
-![jkremser's github stats](https://github-readme-stats.vercel.app/api?username=jkremser&count_private=true&show_icons=true&hide_border=false&theme=tokyonight&title_color=5bcdec&bg_color=0d1117&border_radius=false) ![head](https://user-images.githubusercontent.com/535866/175570014-71166aaa-95f7-4a4f-869c-93a16481de4e.jpeg)
+
+![head](https://user-images.githubusercontent.com/535866/175570014-71166aaa-95f7-4a4f-869c-93a16481de4e.jpeg)
 
 
 
@@ -42,26 +43,28 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
+- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (1 day ago)
 - :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (3 weeks ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 month ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 month ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 months ago)
-- :octocat: / [kedify/prp-savings-calculator](https://github.com/kedify/prp-savings-calculator) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.17.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.17.0), 2 weeks ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.10](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.10), 1 day ago) - kubectl plugin to manage and debug Kedify/KEDA
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.17.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.17.0), 3 weeks ago) - A cloud native Kubernetes Global Balancer
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.3](https://github.com/kedacore/charts/releases/tag/v2.18.3), 3 weeks ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.18.3](https://github.com/kedacore/keda/releases/tag/v2.18.3), 3 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [Fix the way how effective helm values are obtained for dump sub-command](https://github.com/kedify/kubectl-kedify/pull/47) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (1 day ago)
+- 💪 [Update Kubectl Plugin - v0.0.10](https://github.com/kedify/kubectl-kedify/pull/46) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (1 day ago)
 
 #### 📓 Gists I wrote
 
+- [no description](https://gist.github.com/472e546e5452b97f6daad162f65319cf) (today)
 - [no description](https://gist.github.com/8476640dae6f7a532bd87697bb37ac94) (3 weeks ago)
 - [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (1 month ago)
-- [freshbox](https://gist.github.com/d925b031a516e66fa2e1771252ade21f) (6 months ago)
 
 #### ⭐ Recent Stars
 
