@@ -43,34 +43,34 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (6 days ago)
-- :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (4 weeks ago)
+- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (1 week ago)
+- :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (1 month ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 month ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 month ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.10](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.10), 6 days ago) - kubectl plugin to manage and debug Kedify/KEDA
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.17.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.17.0), 3 weeks ago) - A cloud native Kubernetes Global Balancer
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.3](https://github.com/kedacore/charts/releases/tag/v2.18.3), 4 weeks ago) - Helm charts for KEDA
+- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.10](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.10), 1 week ago) - kubectl plugin to manage and debug Kedify/KEDA
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.17.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.17.0), 4 weeks ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.3](https://github.com/kedacore/charts/releases/tag/v2.18.3), 1 month ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Simplify showing the possible helm chart values for predictor](https://github.com/kedify/charts/pull/362) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
+- 💪 [Minor tweaks to Dockerfile (labels, path)](https://github.com/kedify/weather-prometheus-exporters/pull/2) on [kedify/weather-prometheus-exporters](https://github.com/kedify/weather-prometheus-exporters) (1 day ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/472e546e5452b97f6daad162f65319cf) (5 days ago)
+- [no description](https://gist.github.com/472e546e5452b97f6daad162f65319cf) (1 week ago)
 - [no description](https://gist.github.com/8476640dae6f7a532bd87697bb37ac94) (1 month ago)
 - [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (1 month ago)
 
 #### ⭐ Recent Stars
 
+- [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (2 days ago)
 - [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (1 month ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (2 months ago)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (2 months ago)
-- [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. (5 months ago)
 
 #### 💬 Feedback
 
