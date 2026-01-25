@@ -52,12 +52,11 @@ k get cert -A
 #### 🔭 Latest releases I've contributed to
 
 - 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.10](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.10), 1 week ago) - kubectl plugin to manage and debug Kedify/KEDA
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.17.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.17.0), 4 weeks ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.17.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.17.0), 1 month ago) - A cloud native Kubernetes Global Balancer
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.3](https://github.com/kedacore/charts/releases/tag/v2.18.3), 1 month ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Minor tweaks to Dockerfile (labels, path)](https://github.com/kedify/weather-prometheus-exporters/pull/2) on [kedify/weather-prometheus-exporters](https://github.com/kedify/weather-prometheus-exporters) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -67,7 +66,7 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (2 days ago)
+- [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (5 days ago)
 - [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (1 month ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (2 months ago)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (2 months ago)
