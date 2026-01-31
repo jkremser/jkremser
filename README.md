@@ -51,13 +51,12 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.12.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.12.0), 2 days ago) - Helm charts for KEDA
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.12.0](https://github.com/kedacore/http-add-on/releases/tag/v0.12.0), 2 days ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.10](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.10), 2 weeks ago) - kubectl plugin to manage and debug Kedify/KEDA
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.17.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.17.0), 1 month ago) - A cloud native Kubernetes Global Balancer
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.18.3](https://github.com/kedacore/charts/releases/tag/v2.18.3), 1 month ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add observedHelmValues &amp; helmReleaseName fields to kedifyconfig status](https://github.com/kedify/charts/pull/379) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -70,7 +69,7 @@ k get cert -A
 - [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (1 week ago)
 - [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (2 months ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (2 months ago)
-- [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (2 months ago)
+- [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (3 months ago)
 
 #### 💬 Feedback
 
