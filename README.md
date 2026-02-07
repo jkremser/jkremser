@@ -43,20 +43,23 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 day ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (3 weeks ago)
 - :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (1 month ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 month ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 month ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 months ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.12.1](https://github.com/kedacore/http-add-on/releases/tag/v0.12.1), 1 day ago) - Add-on for KEDA to scale HTTP workloads
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.19.0](https://github.com/kedacore/charts/releases/tag/v2.19.0), 2 days ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.19.0](https://github.com/kedacore/keda/releases/tag/v2.19.0), 2 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.12.1](https://github.com/kedacore/http-add-on/releases/tag/v0.12.1), 4 days ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.19.0](https://github.com/kedacore/charts/releases/tag/v2.19.0), 5 days ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.19.0](https://github.com/kedacore/keda/releases/tag/v2.19.0), 5 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [add example for OTel scaler &#43; PRP](https://github.com/kedify/examples/pull/108) on [kedify/examples](https://github.com/kedify/examples) (1 day ago)
+- 💪 [Polish the OTel scaler &#43; predictor example](https://github.com/kedify/examples/pull/107) on [kedify/examples](https://github.com/kedify/examples) (1 day ago)
+- 💪 [Add example that uses OTel Scaler &amp; OTel Predictor together](https://github.com/kedify/examples/pull/106) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -68,7 +71,7 @@ k get cert -A
 
 - [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (2 weeks ago)
 - [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (2 months ago)
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (2 months ago)
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (3 months ago)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (3 months ago)
 
 #### 💬 Feedback
