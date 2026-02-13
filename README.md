@@ -43,27 +43,27 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (4 days ago)
-- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (4 weeks ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
+- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (1 month ago)
 - :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (1 month ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 months ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.18.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.18.0), 3 days ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.18.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.18.0), 6 days ago) - A cloud native Kubernetes Global Balancer
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.12.1](https://github.com/kedacore/http-add-on/releases/tag/v0.12.1), 1 week ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.19.0](https://github.com/kedacore/charts/releases/tag/v2.19.0), 1 week ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [add example for OTel scaler &#43; PRP](https://github.com/kedify/examples/pull/108) on [kedify/examples](https://github.com/kedify/examples) (4 days ago)
-- 💪 [Polish the OTel scaler &#43; predictor example](https://github.com/kedify/examples/pull/107) on [kedify/examples](https://github.com/kedify/examples) (4 days ago)
-- 💪 [Add example that uses OTel Scaler &amp; OTel Predictor together](https://github.com/kedify/examples/pull/106) on [kedify/examples](https://github.com/kedify/examples) (5 days ago)
+- 💪 [add example for OTel scaler &#43; PRP](https://github.com/kedify/examples/pull/108) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
+- 💪 [Polish the OTel scaler &#43; predictor example](https://github.com/kedify/examples/pull/107) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
+- 💪 [Add example that uses OTel Scaler &amp; OTel Predictor together](https://github.com/kedify/examples/pull/106) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/472e546e5452b97f6daad162f65319cf) (3 weeks ago)
+- [no description](https://gist.github.com/472e546e5452b97f6daad162f65319cf) (1 month ago)
 - [no description](https://gist.github.com/8476640dae6f7a532bd87697bb37ac94) (1 month ago)
 - [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (2 months ago)
 
