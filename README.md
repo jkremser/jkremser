@@ -51,9 +51,9 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.18.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.18.0), 6 days ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.18.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.18.0), 1 week ago) - A cloud native Kubernetes Global Balancer
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.12.1](https://github.com/kedacore/http-add-on/releases/tag/v0.12.1), 1 week ago) - Add-on for KEDA to scale HTTP workloads
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.19.0](https://github.com/kedacore/charts/releases/tag/v2.19.0), 1 week ago) - Helm charts for KEDA
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.19.0](https://github.com/kedacore/charts/releases/tag/v2.19.0), 2 weeks ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
