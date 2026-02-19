@@ -52,24 +52,24 @@ k get cert -A
 #### 🔭 Latest releases I've contributed to
 
 - 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.18.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.18.0), 1 week ago) - A cloud native Kubernetes Global Balancer
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.12.1](https://github.com/kedacore/http-add-on/releases/tag/v0.12.1), 1 week ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.12.1](https://github.com/kedacore/http-add-on/releases/tag/v0.12.1), 2 weeks ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.19.0](https://github.com/kedacore/charts/releases/tag/v2.19.0), 2 weeks ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
 - 💪 [add example for OTel scaler &#43; PRP](https://github.com/kedify/examples/pull/108) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
 - 💪 [Polish the OTel scaler &#43; predictor example](https://github.com/kedify/examples/pull/107) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
-- 💪 [Add example that uses OTel Scaler &amp; OTel Predictor together](https://github.com/kedify/examples/pull/106) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
+- 💪 [Add example that uses OTel Scaler &amp; OTel Predictor together](https://github.com/kedify/examples/pull/106) on [kedify/examples](https://github.com/kedify/examples) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
 - [no description](https://gist.github.com/472e546e5452b97f6daad162f65319cf) (1 month ago)
-- [no description](https://gist.github.com/8476640dae6f7a532bd87697bb37ac94) (1 month ago)
+- [no description](https://gist.github.com/8476640dae6f7a532bd87697bb37ac94) (2 months ago)
 - [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (3 weeks ago)
+- [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (1 month ago)
 - [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (2 months ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (3 months ago)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (3 months ago)
