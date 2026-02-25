@@ -51,15 +51,14 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.12.2](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.12.2), 3 days ago) - Helm charts for KEDA
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.12.2](https://github.com/kedacore/http-add-on/releases/tag/v0.12.2), 3 days ago) - Add-on for KEDA to scale HTTP workloads
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.19.0](https://github.com/kedacore/keda/releases/tag/v2.19.0), 2 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.11](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.11), 1 day ago) - kubectl plugin to manage and debug Kedify/KEDA
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.12.2](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.12.2), 6 days ago) - Helm charts for KEDA
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.12.2](https://github.com/kedacore/http-add-on/releases/tag/v0.12.2), 6 days ago) - Add-on for KEDA to scale HTTP workloads
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [on/off for various agent controllers](https://github.com/kedify/charts/pull/398) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
-- 💪 [add example for OTel scaler &#43; PRP](https://github.com/kedify/examples/pull/108) on [kedify/examples](https://github.com/kedify/examples) (2 weeks ago)
-- 💪 [Polish the OTel scaler &#43; predictor example](https://github.com/kedify/examples/pull/107) on [kedify/examples](https://github.com/kedify/examples) (2 weeks ago)
+- 💪 [Update Kubectl Plugin - v0.0.11](https://github.com/kedify/kubectl-kedify/pull/50) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (1 day ago)
+- 💪 [on/off for various agent controllers](https://github.com/kedify/charts/pull/398) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
 
 #### 📓 Gists I wrote
 
