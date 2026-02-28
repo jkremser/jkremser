@@ -43,7 +43,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 weeks ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (1 month ago)
 - :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (2 months ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 months ago)
@@ -51,14 +51,14 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.11](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.11), 1 day ago) - kubectl plugin to manage and debug Kedify/KEDA
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.12.2](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.12.2), 6 days ago) - Helm charts for KEDA
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.12.2](https://github.com/kedacore/http-add-on/releases/tag/v0.12.2), 6 days ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.11](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.11), 4 days ago) - kubectl plugin to manage and debug Kedify/KEDA
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.12.2](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.12.2), 1 week ago) - Helm charts for KEDA
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.12.2](https://github.com/kedacore/http-add-on/releases/tag/v0.12.2), 1 week ago) - Add-on for KEDA to scale HTTP workloads
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Update Kubectl Plugin - v0.0.11](https://github.com/kedify/kubectl-kedify/pull/50) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (1 day ago)
-- 💪 [on/off for various agent controllers](https://github.com/kedify/charts/pull/398) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
+- 💪 [Narrow helm-docs gh action only for kedify-proxy &amp; kedify-agent](https://github.com/kedify/charts/pull/411) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
+- 💪 [Update Kubectl Plugin - v0.0.11](https://github.com/kedify/kubectl-kedify/pull/50) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -69,7 +69,7 @@ k get cert -A
 #### ⭐ Recent Stars
 
 - [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (1 month ago)
-- [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (2 months ago)
+- [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (3 months ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (3 months ago)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (3 months ago)
 
