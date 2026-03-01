@@ -51,14 +51,14 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.11](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.11), 4 days ago) - kubectl plugin to manage and debug Kedify/KEDA
+- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.11](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.11), 5 days ago) - kubectl plugin to manage and debug Kedify/KEDA
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.12.2](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.12.2), 1 week ago) - Helm charts for KEDA
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.12.2](https://github.com/kedacore/http-add-on/releases/tag/v0.12.2), 1 week ago) - Add-on for KEDA to scale HTTP workloads
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Narrow helm-docs gh action only for kedify-proxy &amp; kedify-agent](https://github.com/kedify/charts/pull/411) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
-- 💪 [Update Kubectl Plugin - v0.0.11](https://github.com/kedify/kubectl-kedify/pull/50) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (4 days ago)
+- 💪 [Narrow helm-docs gh action only for kedify-proxy &amp; kedify-agent](https://github.com/kedify/charts/pull/411) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [Update Kubectl Plugin - v0.0.11](https://github.com/kedify/kubectl-kedify/pull/50) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (5 days ago)
 
 #### 📓 Gists I wrote
 
@@ -71,7 +71,7 @@ k get cert -A
 - [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (1 month ago)
 - [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (3 months ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (3 months ago)
-- [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (3 months ago)
+- [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (4 months ago)
 
 #### 💬 Feedback
 
