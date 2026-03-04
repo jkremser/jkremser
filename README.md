@@ -51,14 +51,12 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.11](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.11), 5 days ago) - kubectl plugin to manage and debug Kedify/KEDA
+- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.11](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.11), 1 week ago) - kubectl plugin to manage and debug Kedify/KEDA
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.12.2](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.12.2), 1 week ago) - Helm charts for KEDA
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.12.2](https://github.com/kedacore/http-add-on/releases/tag/v0.12.2), 1 week ago) - Add-on for KEDA to scale HTTP workloads
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Narrow helm-docs gh action only for kedify-proxy &amp; kedify-agent](https://github.com/kedify/charts/pull/411) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
-- 💪 [Update Kubectl Plugin - v0.0.11](https://github.com/kedify/kubectl-kedify/pull/50) on [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) (5 days ago)
 
 #### 📓 Gists I wrote
 
