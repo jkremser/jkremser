@@ -43,17 +43,17 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 weeks ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (4 weeks ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (1 month ago)
 - :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (2 months ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 months ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 months ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.11](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.11), 1 week ago) - kubectl plugin to manage and debug Kedify/KEDA
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.12.2](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.12.2), 1 week ago) - Helm charts for KEDA
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.12.2](https://github.com/kedacore/http-add-on/releases/tag/v0.12.2), 1 week ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.12.2](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.12.2), 2 weeks ago) - Helm charts for KEDA
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.12.2](https://github.com/kedacore/http-add-on/releases/tag/v0.12.2), 2 weeks ago) - Add-on for KEDA to scale HTTP workloads
 
 #### 🔨 My recent Pull Requests
 
@@ -62,7 +62,7 @@ k get cert -A
 
 - [no description](https://gist.github.com/472e546e5452b97f6daad162f65319cf) (1 month ago)
 - [no description](https://gist.github.com/8476640dae6f7a532bd87697bb37ac94) (2 months ago)
-- [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (2 months ago)
+- [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (3 months ago)
 
 #### ⭐ Recent Stars
 
