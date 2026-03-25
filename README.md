@@ -43,7 +43,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (4 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 month ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (2 months ago)
 - :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (3 months ago)
@@ -51,9 +51,9 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.11](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.11), 3 weeks ago) - kubectl plugin to manage and debug Kedify/KEDA
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.12.2](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.12.2), 1 month ago) - Helm charts for KEDA
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.12.2](https://github.com/kedacore/http-add-on/releases/tag/v0.12.2), 1 month ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.13.0](https://github.com/kedacore/http-add-on/releases/tag/v0.13.0), 2 days ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.19.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.19.0), 3 days ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.11](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.11), 4 weeks ago) - kubectl plugin to manage and debug Kedify/KEDA
 
 #### 🔨 My recent Pull Requests
 
