@@ -57,12 +57,13 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [Add optionaly initContainer that waits for kedify cr to exist](https://github.com/kedify/charts/pull/432) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
 
 #### 📓 Gists I wrote
 
 - [no description](https://gist.github.com/472e546e5452b97f6daad162f65319cf) (2 months ago)
 - [no description](https://gist.github.com/8476640dae6f7a532bd87697bb37ac94) (3 months ago)
-- [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (3 months ago)
+- [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (4 months ago)
 
 #### ⭐ Recent Stars
 
