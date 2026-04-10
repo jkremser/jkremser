@@ -43,11 +43,11 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 weeks ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 months ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (2 months ago)
 - :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (3 months ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 months ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -57,7 +57,7 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add optionaly initContainer that waits for kedify cr to exist](https://github.com/kedify/charts/pull/432) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
+- 💪 [Add optionaly initContainer that waits for kedify cr to exist](https://github.com/kedify/charts/pull/432) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
