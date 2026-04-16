@@ -43,7 +43,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 weeks ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (4 weeks ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 months ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (3 months ago)
 - :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (3 months ago)
@@ -57,11 +57,11 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add optionaly initContainer that waits for kedify cr to exist](https://github.com/kedify/charts/pull/432) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
+- 💪 [Add optionaly initContainer that waits for kedify cr to exist](https://github.com/kedify/charts/pull/432) on [kedify/charts](https://github.com/kedify/charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
-- [no description](https://gist.github.com/472e546e5452b97f6daad162f65319cf) (2 months ago)
+- [no description](https://gist.github.com/472e546e5452b97f6daad162f65319cf) (3 months ago)
 - [no description](https://gist.github.com/8476640dae6f7a532bd87697bb37ac94) (3 months ago)
 - [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (4 months ago)
 
