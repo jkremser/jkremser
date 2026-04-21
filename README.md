@@ -22,16 +22,16 @@ k get cert -A
 ```
 <p align="left">
     <a href="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url">
-        <img src="https://training.linuxfoundation.org/wp-content/uploads/2022/11/CKA.png" alt="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url" width="110" height="110"/>
+        <img src="./CKA.avif" alt="https://www.credly.com/badges/8ca716d9-fa9b-42e6-b4a1-ad043baf5396/public_url" width="110" height="110"/>
     </a>
     <a href="https://www.credly.com/badges/346440ab-00a3-4c19-bc5d-0b46378c1191/public_url">
-        <img src="https://training.linuxfoundation.org/wp-content/uploads/2022/11/CKS.png" alt="https://www.credly.com/badges/346440ab-00a3-4c19-bc5d-0b46378c1191/public_url" width="110" height="110"/>
+        <img src="./CKS.avif" alt="https://www.credly.com/badges/346440ab-00a3-4c19-bc5d-0b46378c1191/public_url" width="110" height="110"/>
     </a>
     <a href="https://www.credly.com/badges/9518f1f5-5e31-437b-9217-0ab66424af1f/public_url">
-        <img src="https://training.linuxfoundation.org/wp-content/uploads/2022/11/CKAD.png" alt="https://www.credly.com/badges/9518f1f5-5e31-437b-9217-0ab66424af1f/public_url" width="110" height="110"/>
+        <img src="./CKAD.avif" alt="https://www.credly.com/badges/9518f1f5-5e31-437b-9217-0ab66424af1f/public_url" width="110" height="110"/>
     </a>
     <a href="https://www.credly.com/badges/516e70e3-37ce-4001-84ee-57ceb8f0abeb/public_url">
-        <img src="https://training.linuxfoundation.org/wp-content/uploads/2020/11/lfcs_111820-300x300.png" alt="https://www.credly.com/badges/516e70e3-37ce-4001-84ee-57ceb8f0abeb/public_url" width="110" height="110"/>
+        <img src="./LFCS.png" alt="https://www.credly.com/badges/516e70e3-37ce-4001-84ee-57ceb8f0abeb/public_url" width="110" height="110"/>
     </a>
     <a href="https://rhtapps.redhat.com/verify/?certId=120-194-022">
         <img src="./rhca.png" alt="https://rhtapps.redhat.com/verify/?certId=120-194-022" width="100" height="100"/>
@@ -46,13 +46,13 @@ k get cert -A
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 months ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (3 months ago)
-- :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (3 months ago)
+- :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (4 months ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.13.0](https://github.com/kedacore/http-add-on/releases/tag/v0.13.0), 3 weeks ago) - Add-on for KEDA to scale HTTP workloads
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.19.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.19.0), 4 weeks ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.13.0](https://github.com/kedacore/http-add-on/releases/tag/v0.13.0), 4 weeks ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.19.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.19.0), 1 month ago) - A cloud native Kubernetes Global Balancer
 - 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.11](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.11), 1 month ago) - kubectl plugin to manage and debug Kedify/KEDA
 
 #### 🔨 My recent Pull Requests
@@ -67,7 +67,7 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (2 months ago)
+- [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (3 months ago)
 - [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (4 months ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (5 months ago)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (5 months ago)
