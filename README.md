@@ -51,13 +51,12 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.13.0](https://github.com/kedacore/http-add-on/releases/tag/v0.13.0), 4 weeks ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.13.0](https://github.com/kedacore/http-add-on/releases/tag/v0.13.0), 1 month ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.19.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.19.0), 1 month ago) - A cloud native Kubernetes Global Balancer
 - 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.11](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.11), 1 month ago) - kubectl plugin to manage and debug Kedify/KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add optionaly initContainer that waits for kedify cr to exist](https://github.com/kedify/charts/pull/432) on [kedify/charts](https://github.com/kedify/charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
