@@ -43,26 +43,30 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 day ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 months ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (3 months ago)
 - :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (4 months ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.13.0](https://github.com/kedacore/http-add-on/releases/tag/v0.13.0), 1 month ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.14.0](https://github.com/kedacore/http-add-on/releases/tag/v0.14.0), 1 day ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.19.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.19.0), 1 month ago) - A cloud native Kubernetes Global Balancer
-- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.11](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.11), 1 month ago) - kubectl plugin to manage and debug Kedify/KEDA
+- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.11](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.11), 2 months ago) - kubectl plugin to manage and debug Kedify/KEDA
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [fix #210 - when skip-ci is label gets removed, it should run the pipeline](https://github.com/kedify/otel-add-on/pull/217) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
+- 💪 [Install hey using golang](https://github.com/kedify/otel-add-on/pull/216) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
+- 💪 [Support for counter resets](https://github.com/kedify/otel-add-on/pull/214) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
+- 💪 [Fix typos in docs and comments](https://github.com/kedify/otel-add-on/pull/213) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 days ago)
 
 #### 📓 Gists I wrote
 
+- [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (1 day ago)
+- [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (1 day ago)
 - [no description](https://gist.github.com/472e546e5452b97f6daad162f65319cf) (3 months ago)
-- [no description](https://gist.github.com/8476640dae6f7a532bd87697bb37ac94) (4 months ago)
-- [no description](https://gist.github.com/386d4a36df3037c9a44c6f473986526c) (4 months ago)
 
 #### ⭐ Recent Stars
 
