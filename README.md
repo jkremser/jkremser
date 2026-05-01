@@ -43,7 +43,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 day ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (4 days ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 months ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (3 months ago)
@@ -51,26 +51,25 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.14.0](https://github.com/kedacore/http-add-on/releases/tag/v0.14.0), 4 days ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.14.0](https://github.com/kedacore/http-add-on/releases/tag/v0.14.0), 1 week ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.19.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.19.0), 1 month ago) - A cloud native Kubernetes Global Balancer
 - 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.11](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.11), 2 months ago) - kubectl plugin to manage and debug Kedify/KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [fix #210 - when skip-ci is label gets removed, it should run the pipeline](https://github.com/kedify/otel-add-on/pull/217) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
 
 #### 📓 Gists I wrote
 
-- [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (1 day ago)
-- [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (4 days ago)
-- [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (4 days ago)
+- [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (4 days ago)
+- [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (1 week ago)
+- [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (3 months ago)
 - [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (5 months ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (5 months ago)
-- [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (5 months ago)
+- [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (6 months ago)
 
 #### 💬 Feedback
 
