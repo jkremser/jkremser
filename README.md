@@ -43,7 +43,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (4 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 months ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (3 months ago)
@@ -60,7 +60,7 @@ k get cert -A
 
 #### 📓 Gists I wrote
 
-- [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (4 days ago)
+- [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (1 week ago)
 - [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (1 week ago)
 - [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (1 week ago)
 
