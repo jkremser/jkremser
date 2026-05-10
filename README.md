@@ -51,19 +51,19 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.14.0](https://github.com/kedacore/http-add-on/releases/tag/v0.14.0), 1 week ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.14.0](https://github.com/kedacore/http-add-on/releases/tag/v0.14.0), 2 weeks ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.19.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.19.0), 1 month ago) - A cloud native Kubernetes Global Balancer
 - 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.11](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.11), 2 months ago) - kubectl plugin to manage and debug Kedify/KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Introduce hookless installation for kedify agent](https://github.com/kedify/charts/pull/462) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [Introduce hookless installation for kedify agent](https://github.com/kedify/charts/pull/462) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
 
 #### 📓 Gists I wrote
 
 - [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (1 week ago)
-- [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (1 week ago)
-- [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (1 week ago)
+- [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (2 weeks ago)
+- [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
