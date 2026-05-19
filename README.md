@@ -43,26 +43,26 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 weeks ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
+- :octocat: / [jkremser/kcd-2026-keda-otel-vllm](https://github.com/jkremser/kcd-2026-keda-otel-vllm) -  (1 day ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 weeks ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 months ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 months ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (4 months ago)
-- :octocat: / [jkremser/xmas-25](https://github.com/jkremser/xmas-25) -  (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.12](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.12), 3 days ago) - kubectl plugin to manage and debug Kedify/KEDA
+- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.12](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.12), 6 days ago) - kubectl plugin to manage and debug Kedify/KEDA
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.14.0](https://github.com/kedacore/http-add-on/releases/tag/v0.14.0), 3 weeks ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.19.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.19.0), 1 month ago) - A cloud native Kubernetes Global Balancer
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [otel operator is being installed in the next step](https://github.com/kedify/otel-add-on/pull/218) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
-- 💪 [kedify-agent: RBAC to CRUD namespaces (for metric labels)](https://github.com/kedify/charts/pull/463) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
+- 💪 [otel operator is being installed in the next step](https://github.com/kedify/otel-add-on/pull/218) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
+- 💪 [kedify-agent: RBAC to CRUD namespaces (for metric labels)](https://github.com/kedify/charts/pull/463) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (2 weeks ago)
+- [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (3 weeks ago)
 - [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (3 weeks ago)
 - [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (3 weeks ago)
 
