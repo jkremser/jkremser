@@ -43,8 +43,8 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/kcd-2026-keda-otel-vllm](https://github.com/jkremser/kcd-2026-keda-otel-vllm) -  (1 day ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 weeks ago)
+- :octocat: / [jkremser/kcd-2026-keda-otel-vllm](https://github.com/jkremser/kcd-2026-keda-otel-vllm) -  (4 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (4 weeks ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 months ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 months ago)
 - :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (4 months ago)
@@ -52,7 +52,7 @@ k get cert -A
 #### 🔭 Latest releases I've contributed to
 
 - 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.12](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.12), 1 week ago) - kubectl plugin to manage and debug Kedify/KEDA
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.14.0](https://github.com/kedacore/http-add-on/releases/tag/v0.14.0), 4 weeks ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.14.0](https://github.com/kedacore/http-add-on/releases/tag/v0.14.0), 1 month ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.19.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.19.0), 2 months ago) - A cloud native Kubernetes Global Balancer
 
 #### 🔨 My recent Pull Requests
@@ -62,9 +62,9 @@ k get cert -A
 
 #### 📓 Gists I wrote
 
-- [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (3 weeks ago)
-- [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (4 weeks ago)
-- [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (4 weeks ago)
+- [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (4 weeks ago)
+- [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (1 month ago)
+- [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (1 month ago)
 
 #### ⭐ Recent Stars
 
