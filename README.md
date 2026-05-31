@@ -57,7 +57,7 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [otel operator is being installed in the next step](https://github.com/kedify/otel-add-on/pull/218) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
+- 💪 [otel operator is being installed in the next step](https://github.com/kedify/otel-add-on/pull/218) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -70,7 +70,7 @@ k get cert -A
 - [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (4 months ago)
 - [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (6 months ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (6 months ago)
-- [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (6 months ago)
+- [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (7 months ago)
 
 #### 💬 Feedback
 
