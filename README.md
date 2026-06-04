@@ -43,20 +43,21 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/kcd-2026-keda-otel-vllm](https://github.com/jkremser/kcd-2026-keda-otel-vllm) -  (1 week ago)
+- :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (2 days ago)
+- :octocat: / [jkremser/kcd-2026-keda-otel-vllm](https://github.com/jkremser/kcd-2026-keda-otel-vllm) -  (2 weeks ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 month ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 months ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 months ago)
-- :octocat: / [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) - kubectl plugin to manage and debug Kedify/KEDA (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.12](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.12), 2 weeks ago) - kubectl plugin to manage and debug Kedify/KEDA
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.14.0](https://github.com/kedacore/http-add-on/releases/tag/v0.14.0), 1 month ago) - Add-on for KEDA to scale HTTP workloads
-- 🎉 [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) ([v0.19.0](https://github.com/k8gb-io/k8gb/releases/tag/v0.19.0), 2 months ago) - A cloud native Kubernetes Global Balancer
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.20.0](https://github.com/kedacore/charts/releases/tag/v2.20.0), 3 days ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.20.0](https://github.com/kedacore/keda/releases/tag/v2.20.0), 3 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedify/kubectl-kedify](https://github.com/kedify/kubectl-kedify) ([v0.0.12](https://github.com/kedify/kubectl-kedify/releases/tag/v0.0.12), 3 weeks ago) - kubectl plugin to manage and debug Kedify/KEDA
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [Update service.yaml](https://github.com/apollographql/router/pull/9566) on [apollographql/router](https://github.com/apollographql/router) (2 days ago)
 - 💪 [otel operator is being installed in the next step](https://github.com/kedify/otel-add-on/pull/218) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 weeks ago)
 
 #### 📓 Gists I wrote
