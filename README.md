@@ -43,21 +43,21 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 day ago)
-- :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (1 week ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (4 days ago)
+- :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (2 weeks ago)
 - :octocat: / [jkremser/kcd-2026-keda-otel-vllm](https://github.com/jkremser/kcd-2026-keda-otel-vllm) -  (3 weeks ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 months ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 months ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.4](https://github.com/kedify/otel-add-on/releases/tag/v0.1.4), 1 day ago) - Bridge between OTel and KEDA api
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.20.1](https://github.com/kedacore/charts/releases/tag/v2.20.1), 5 days ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.20.1](https://github.com/kedacore/keda/releases/tag/v2.20.1), 5 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.15.0](https://github.com/kedacore/http-add-on/releases/tag/v0.15.0), 1 day ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.4](https://github.com/kedify/otel-add-on/releases/tag/v0.1.4), 4 days ago) - Bridge between OTel and KEDA api
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.20.1](https://github.com/kedacore/charts/releases/tag/v2.20.1), 1 week ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Release chart also without v](https://github.com/kedify/otel-add-on/pull/222) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 day ago)
+- 💪 [Release chart also without v](https://github.com/kedify/otel-add-on/pull/222) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
 
 #### 📓 Gists I wrote
 
