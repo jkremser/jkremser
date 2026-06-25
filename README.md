@@ -44,7 +44,7 @@ k get cert -A
 #### 👷 Check out what I'm currently working on
 
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
-- :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (2 weeks ago)
+- :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (3 weeks ago)
 - :octocat: / [jkremser/kcd-2026-keda-otel-vllm](https://github.com/jkremser/kcd-2026-keda-otel-vllm) -  (1 month ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 months ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (4 months ago)
@@ -57,13 +57,12 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Expose metrics from kedify agent using k8s service](https://github.com/kedify/charts/pull/517) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
 
 #### 📓 Gists I wrote
 
 - [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (1 month ago)
-- [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (1 month ago)
-- [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (1 month ago)
+- [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (2 months ago)
+- [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (2 months ago)
 
 #### ⭐ Recent Stars
 
