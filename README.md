@@ -43,7 +43,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 weeks ago)
 - :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (3 weeks ago)
 - :octocat: / [jkremser/kcd-2026-keda-otel-vllm](https://github.com/jkremser/kcd-2026-keda-otel-vllm) -  (1 month ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 months ago)
@@ -52,7 +52,7 @@ k get cert -A
 #### 🔭 Latest releases I've contributed to
 
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.15.0](https://github.com/kedacore/http-add-on/releases/tag/v0.15.0), 1 week ago) - Add-on for KEDA to scale HTTP workloads
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.4](https://github.com/kedify/otel-add-on/releases/tag/v0.1.4), 1 week ago) - Bridge between OTel and KEDA api
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.4](https://github.com/kedify/otel-add-on/releases/tag/v0.1.4), 2 weeks ago) - Bridge between OTel and KEDA api
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.20.1](https://github.com/kedacore/charts/releases/tag/v2.20.1), 2 weeks ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
@@ -60,14 +60,14 @@ k get cert -A
 
 #### 📓 Gists I wrote
 
-- [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (1 month ago)
+- [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (2 months ago)
 - [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (2 months ago)
 - [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (2 months ago)
 
 #### ⭐ Recent Stars
 
 - [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (5 months ago)
-- [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (6 months ago)
+- [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (7 months ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (7 months ago)
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) -  (7 months ago)
 
