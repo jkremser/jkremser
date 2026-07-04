@@ -43,21 +43,22 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 day ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 weeks ago)
-- :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (4 weeks ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (4 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 weeks ago)
+- :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (1 month ago)
 - :octocat: / [jkremser/kcd-2026-keda-otel-vllm](https://github.com/jkremser/kcd-2026-keda-otel-vllm) -  (1 month ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.15.0](https://github.com/kedacore/http-add-on/releases/tag/v0.15.0), 2 weeks ago) - Add-on for KEDA to scale HTTP workloads
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.4](https://github.com/kedify/otel-add-on/releases/tag/v0.1.4), 2 weeks ago) - Bridge between OTel and KEDA api
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.4](https://github.com/kedify/otel-add-on/releases/tag/v0.1.4), 3 weeks ago) - Bridge between OTel and KEDA api
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.20.1](https://github.com/kedacore/charts/releases/tag/v2.20.1), 3 weeks ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add example for OTel scaler &#43; metrics from nginx ingress controller](https://github.com/kedify/examples/pull/116) on [kedify/examples](https://github.com/kedify/examples) (1 day ago)
+- 💪 [The example was noop (30megs -&gt; 30 megs)](https://github.com/kedify/examples/pull/117) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
+- 💪 [Add example for OTel scaler &#43; metrics from nginx ingress controller](https://github.com/kedify/examples/pull/116) on [kedify/examples](https://github.com/kedify/examples) (4 days ago)
 
 #### 📓 Gists I wrote
 
