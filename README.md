@@ -43,25 +43,24 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 month ago)
 - :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (1 month ago)
 - :octocat: / [jkremser/kcd-2026-keda-otel-vllm](https://github.com/jkremser/kcd-2026-keda-otel-vllm) -  (1 month ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 months ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.15.0](https://github.com/kedacore/http-add-on/releases/tag/v0.15.0), 4 weeks ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.15.0](https://github.com/kedacore/http-add-on/releases/tag/v0.15.0), 1 month ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.4](https://github.com/kedify/otel-add-on/releases/tag/v0.1.4), 1 month ago) - Bridge between OTel and KEDA api
 - 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.20.1](https://github.com/kedacore/charts/releases/tag/v2.20.1), 1 month ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Dedicated dashboard for Predictor](https://github.com/kedify/charts/pull/531) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
-- 💪 [Add knob for disabling the configmap watcher for kedify-proxy](https://github.com/kedify/charts/pull/530) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
-- 💪 [Extract severity, msg and time from logs &amp; update for dashboard](https://github.com/kedify/charts/pull/529) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
-- 💪 [Make kedify-observability helm chart releasable](https://github.com/kedify/charts/pull/528) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
-- 💪 [The example was noop (30megs -&gt; 30 megs)](https://github.com/kedify/examples/pull/117) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
+- 💪 [Add kedify-observability as an optional sub-chart (disabled by default)](https://github.com/kedify/charts/pull/543) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
+- 💪 [Heatmap had wrong PromQL; colors&amp;wording](https://github.com/kedify/charts/pull/542) on [kedify/charts](https://github.com/kedify/charts) (1 day ago)
+- 💪 [Add autoscaling-checks as an optional Agent&#39;s sub-chart](https://github.com/kedify/charts/pull/541) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
+- 💪 [Add Grafana dashboard for autoscaling-checks &amp; bump version](https://github.com/kedify/charts/pull/540) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
 
 #### 📓 Gists I wrote
 
