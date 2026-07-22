@@ -43,10 +43,10 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 weeks ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 month ago)
 - :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (1 month ago)
-- :octocat: / [jkremser/kcd-2026-keda-otel-vllm](https://github.com/jkremser/kcd-2026-keda-otel-vllm) -  (1 month ago)
+- :octocat: / [jkremser/kcd-2026-keda-otel-vllm](https://github.com/jkremser/kcd-2026-keda-otel-vllm) -  (2 months ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -57,10 +57,9 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add kedify-observability as an optional sub-chart (disabled by default)](https://github.com/kedify/charts/pull/543) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
-- 💪 [Heatmap had wrong PromQL; colors&amp;wording](https://github.com/kedify/charts/pull/542) on [kedify/charts](https://github.com/kedify/charts) (4 days ago)
-- 💪 [Add autoscaling-checks as an optional Agent&#39;s sub-chart](https://github.com/kedify/charts/pull/541) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
-- 💪 [Add Grafana dashboard for autoscaling-checks &amp; bump version](https://github.com/kedify/charts/pull/540) on [kedify/charts](https://github.com/kedify/charts) (5 days ago)
+- 💪 [Missing Agent&#39;s RBAC for nodes (watch) got removed by accident](https://github.com/kedify/charts/pull/554) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
+- 💪 [Add kedify-observability as an optional sub-chart (disabled by default)](https://github.com/kedify/charts/pull/543) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
+- 💪 [Heatmap had wrong PromQL; colors&amp;wording](https://github.com/kedify/charts/pull/542) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -70,10 +69,10 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [SckyzO/prometheus-cli](https://github.com/SckyzO/prometheus-cli) - A powerful command-line tool for querying Prometheus metrics with advanced autocompletion capabilities. (2 days ago)
+- [abhayraghuwanshi/k8s-ingress-gen](https://github.com/abhayraghuwanshi/k8s-ingress-gen) - yaml generator (today)
+- [SckyzO/prometheus-cli](https://github.com/SckyzO/prometheus-cli) - A powerful command-line tool for querying Prometheus metrics with advanced autocompletion capabilities. (5 days ago)
 - [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (6 months ago)
 - [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (7 months ago)
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (8 months ago)
 
 #### 💬 Feedback
 
