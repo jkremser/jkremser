@@ -43,11 +43,11 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 weeks ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 days ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 month ago)
 - :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (1 month ago)
 - :octocat: / [jkremser/kcd-2026-keda-otel-vllm](https://github.com/jkremser/kcd-2026-keda-otel-vllm) -  (2 months ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -57,20 +57,20 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Missing Agent&#39;s RBAC for nodes (watch) got removed by accident](https://github.com/kedify/charts/pull/554) on [kedify/charts](https://github.com/kedify/charts) (2 days ago)
-- 💪 [Add kedify-observability as an optional sub-chart (disabled by default)](https://github.com/kedify/charts/pull/543) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
-- 💪 [Heatmap had wrong PromQL; colors&amp;wording](https://github.com/kedify/charts/pull/542) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
+- 💪 [Bump kedify-observatility helm chart &amp; fix the action](https://github.com/kedify/charts/pull/572) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [Switching from JSON Schema validation to fail(msg) style](https://github.com/kedify/charts/pull/571) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [Make sure kedify-observability chart respect the release namespace](https://github.com/kedify/charts/pull/569) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
 
 #### 📓 Gists I wrote
 
 - [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (2 months ago)
-- [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (2 months ago)
-- [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (2 months ago)
+- [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (3 months ago)
+- [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [abhayraghuwanshi/k8s-ingress-gen](https://github.com/abhayraghuwanshi/k8s-ingress-gen) - yaml generator (today)
-- [SckyzO/prometheus-cli](https://github.com/SckyzO/prometheus-cli) - A powerful command-line tool for querying Prometheus metrics with advanced autocompletion capabilities. (5 days ago)
+- [abhayraghuwanshi/k8s-ingress-gen](https://github.com/abhayraghuwanshi/k8s-ingress-gen) - yaml generator (3 days ago)
+- [SckyzO/prometheus-cli](https://github.com/SckyzO/prometheus-cli) - A powerful command-line tool for querying Prometheus metrics with advanced autocompletion capabilities. (1 week ago)
 - [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (6 months ago)
 - [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (7 months ago)
 
