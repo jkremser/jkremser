@@ -43,8 +43,8 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (6 days ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (6 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 month ago)
 - :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (1 month ago)
 - :octocat: / [jkremser/kcd-2026-keda-otel-vllm](https://github.com/jkremser/kcd-2026-keda-otel-vllm) -  (2 months ago)
@@ -57,9 +57,7 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Bump kedify-observatility helm chart &amp; fix the action](https://github.com/kedify/charts/pull/572) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
-- 💪 [Switching from JSON Schema validation to fail(msg) style](https://github.com/kedify/charts/pull/571) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
-- 💪 [Make sure kedify-observability chart respect the release namespace](https://github.com/kedify/charts/pull/569) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
+- 💪 [Add metrics explorer sub-command](https://github.com/kedify/cli/pull/13) on [kedify/cli](https://github.com/kedify/cli) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -69,8 +67,8 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [abhayraghuwanshi/k8s-ingress-gen](https://github.com/abhayraghuwanshi/k8s-ingress-gen) - yaml generator (6 days ago)
-- [SckyzO/prometheus-cli](https://github.com/SckyzO/prometheus-cli) - A powerful command-line tool for querying Prometheus metrics with advanced autocompletion capabilities. (1 week ago)
+- [abhayraghuwanshi/k8s-ingress-gen](https://github.com/abhayraghuwanshi/k8s-ingress-gen) - yaml generator (1 week ago)
+- [SckyzO/prometheus-cli](https://github.com/SckyzO/prometheus-cli) - A powerful command-line tool for querying Prometheus metrics with advanced autocompletion capabilities. (2 weeks ago)
 - [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (6 months ago)
 - [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (8 months ago)
 
