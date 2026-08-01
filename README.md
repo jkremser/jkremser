@@ -46,18 +46,18 @@ k get cert -A
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 month ago)
-- :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (1 month ago)
+- :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (2 months ago)
 - :octocat: / [jkremser/kcd-2026-keda-otel-vllm](https://github.com/jkremser/kcd-2026-keda-otel-vllm) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.20.2](https://github.com/kedacore/charts/releases/tag/v2.20.2), 1 day ago) - Helm charts for KEDA
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.20.2](https://github.com/kedacore/keda/releases/tag/v2.20.2), 1 day ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.15.0](https://github.com/kedacore/http-add-on/releases/tag/v0.15.0), 1 month ago) - Add-on for KEDA to scale HTTP workloads
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.4](https://github.com/kedify/otel-add-on/releases/tag/v0.1.4), 1 month ago) - Bridge between OTel and KEDA api
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.20.1](https://github.com/kedacore/charts/releases/tag/v2.20.1), 1 month ago) - Helm charts for KEDA
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add metrics explorer sub-command](https://github.com/kedify/cli/pull/13) on [kedify/cli](https://github.com/kedify/cli) (3 days ago)
+- 💪 [Add metrics explorer sub-command](https://github.com/kedify/cli/pull/13) on [kedify/cli](https://github.com/kedify/cli) (4 days ago)
 
 #### 📓 Gists I wrote
 
