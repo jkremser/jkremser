@@ -51,13 +51,13 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/charts](https://github.com/kedacore/charts) ([v2.20.2](https://github.com/kedacore/charts/releases/tag/v2.20.2), 1 day ago) - Helm charts for KEDA
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.20.2](https://github.com/kedacore/keda/releases/tag/v2.20.2), 1 day ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.20.2](https://github.com/kedacore/keda/releases/tag/v2.20.2), 4 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.15.0](https://github.com/kedacore/http-add-on/releases/tag/v0.15.0), 1 month ago) - Add-on for KEDA to scale HTTP workloads
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.4](https://github.com/kedify/otel-add-on/releases/tag/v0.1.4), 1 month ago) - Bridge between OTel and KEDA api
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add metrics explorer sub-command](https://github.com/kedify/cli/pull/13) on [kedify/cli](https://github.com/kedify/cli) (4 days ago)
+- 💪 [Add metrics explorer sub-command](https://github.com/kedify/cli/pull/13) on [kedify/cli](https://github.com/kedify/cli) (1 week ago)
 
 #### 📓 Gists I wrote
 
