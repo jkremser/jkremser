@@ -43,21 +43,20 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 month ago)
 - :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (2 months ago)
 - :octocat: / [jkremser/kcd-2026-keda-otel-vllm](https://github.com/jkremser/kcd-2026-keda-otel-vllm) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.20.2](https://github.com/kedacore/keda/releases/tag/v2.20.2), 4 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.20.2](https://github.com/kedacore/keda/releases/tag/v2.20.2), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.15.0](https://github.com/kedacore/http-add-on/releases/tag/v0.15.0), 1 month ago) - Add-on for KEDA to scale HTTP workloads
 - 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.4](https://github.com/kedify/otel-add-on/releases/tag/v0.1.4), 1 month ago) - Bridge between OTel and KEDA api
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add metrics explorer sub-command](https://github.com/kedify/cli/pull/13) on [kedify/cli](https://github.com/kedify/cli) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -67,10 +66,10 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [abhayraghuwanshi/k8s-ingress-gen](https://github.com/abhayraghuwanshi/k8s-ingress-gen) - yaml generator (1 week ago)
-- [SckyzO/prometheus-cli](https://github.com/SckyzO/prometheus-cli) - A powerful command-line tool for querying Prometheus metrics with advanced autocompletion capabilities. (2 weeks ago)
+- [ollygarden/opentelemetry-agent-skills](https://github.com/ollygarden/opentelemetry-agent-skills) - Vendor-neutral OpenTelemetry skills for AI coding agents, grounded in upstream sources (2 days ago)
+- [abhayraghuwanshi/k8s-ingress-gen](https://github.com/abhayraghuwanshi/k8s-ingress-gen) - yaml generator (2 weeks ago)
+- [SckyzO/prometheus-cli](https://github.com/SckyzO/prometheus-cli) - A powerful command-line tool for querying Prometheus metrics with advanced autocompletion capabilities. (3 weeks ago)
 - [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (6 months ago)
-- [AKSarav/YamlQL](https://github.com/AKSarav/YamlQL) - YamlQL - Query your YAML files with SQL and Natural Language (8 months ago)
 
 #### 💬 Feedback
 
