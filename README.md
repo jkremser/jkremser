@@ -66,7 +66,7 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [ollygarden/opentelemetry-agent-skills](https://github.com/ollygarden/opentelemetry-agent-skills) - Vendor-neutral OpenTelemetry skills for AI coding agents, grounded in upstream sources (2 days ago)
+- [ollygarden/opentelemetry-agent-skills](https://github.com/ollygarden/opentelemetry-agent-skills) - Vendor-neutral OpenTelemetry skills for AI coding agents, grounded in upstream sources (5 days ago)
 - [abhayraghuwanshi/k8s-ingress-gen](https://github.com/abhayraghuwanshi/k8s-ingress-gen) - yaml generator (2 weeks ago)
 - [SckyzO/prometheus-cli](https://github.com/SckyzO/prometheus-cli) - A powerful command-line tool for querying Prometheus metrics with advanced autocompletion capabilities. (3 weeks ago)
 - [ulexxander/weather-prometheus-exporters](https://github.com/ulexxander/weather-prometheus-exporters) - Export OpenWeather and Netatmo weather data into Prometheus. (6 months ago)
