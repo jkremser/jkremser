@@ -47,17 +47,17 @@ k get cert -A
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 month ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 months ago)
-- :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (2 months ago)
+- :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - 🎉 [kedify/cli](https://github.com/kedify/cli) ([v0.0.5](https://github.com/kedify/cli/releases/tag/v0.0.5), 2 weeks ago) - Kedify CLI
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.20.2](https://github.com/kedacore/keda/releases/tag/v2.20.2), 4 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.20.2](https://github.com/kedacore/keda/releases/tag/v2.20.2), 1 month ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.15.0](https://github.com/kedacore/http-add-on/releases/tag/v0.15.0), 2 months ago) - Add-on for KEDA to scale HTTP workloads
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Allow to use Argo Rollouts as .spec.target.kind for PRPs and PRAs](https://github.com/kedify/charts/pull/594) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [Allow to use Argo Rollouts as .spec.target.kind for PRPs and PRAs](https://github.com/kedify/charts/pull/594) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
 
 #### 📓 Gists I wrote
 
