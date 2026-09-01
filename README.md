@@ -43,7 +43,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/cli](https://github.com/kedify/cli) - Kedify CLI (2 weeks ago)
+- :octocat: / [kedify/cli](https://github.com/kedify/cli) - Kedify CLI (3 weeks ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 month ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 months ago)
@@ -51,13 +51,13 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/cli](https://github.com/kedify/cli) ([v0.0.5](https://github.com/kedify/cli/releases/tag/v0.0.5), 2 weeks ago) - Kedify CLI
+- 🎉 [kedify/cli](https://github.com/kedify/cli) ([v0.0.5](https://github.com/kedify/cli/releases/tag/v0.0.5), 3 weeks ago) - Kedify CLI
 - 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.20.2](https://github.com/kedacore/keda/releases/tag/v2.20.2), 1 month ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - 🎉 [kedacore/http-add-on](https://github.com/kedacore/http-add-on) ([v0.15.0](https://github.com/kedacore/http-add-on/releases/tag/v0.15.0), 2 months ago) - Add-on for KEDA to scale HTTP workloads
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Allow to use Argo Rollouts as .spec.target.kind for PRPs and PRAs](https://github.com/kedify/charts/pull/594) on [kedify/charts](https://github.com/kedify/charts) (6 days ago)
+- 💪 [Allow to use Argo Rollouts as .spec.target.kind for PRPs and PRAs](https://github.com/kedify/charts/pull/594) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -67,7 +67,7 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. (1 week ago)
+- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. (2 weeks ago)
 - [sathwick-p/prequal](https://github.com/sathwick-p/prequal) - Load is not what you should balance (2 weeks ago)
 - [open-telemetry/opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) - OpenTelemetry Go Compile Instrumentation (2 weeks ago)
 - [ollygarden/opentelemetry-agent-skills](https://github.com/ollygarden/opentelemetry-agent-skills) - Vendor-neutral OpenTelemetry skills for AI coding agents, grounded in upstream sources (3 weeks ago)
