@@ -43,8 +43,8 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 days ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (5 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (5 days ago)
 - :octocat: / [kedify/cli](https://github.com/kedify/cli) - Kedify CLI (3 weeks ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
 - :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (3 months ago)
@@ -57,9 +57,9 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Add two missing examples for OTel scaler](https://github.com/kedify/examples/pull/120) on [kedify/examples](https://github.com/kedify/examples) (2 days ago)
-- 💪 [Add cloudwatch metrics example](https://github.com/kedify/otel-add-on/pull/227) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
-- 💪 [Allow to use Argo Rollouts as .spec.target.kind for PRPs and PRAs](https://github.com/kedify/charts/pull/594) on [kedify/charts](https://github.com/kedify/charts) (1 week ago)
+- 💪 [Optionally install KSM w/ kedify agent](https://github.com/kedify/charts/pull/600) on [kedify/charts](https://github.com/kedify/charts) (3 days ago)
+- 💪 [Add two missing examples for OTel scaler](https://github.com/kedify/examples/pull/120) on [kedify/examples](https://github.com/kedify/examples) (5 days ago)
+- 💪 [Add cloudwatch metrics example](https://github.com/kedify/otel-add-on/pull/227) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -69,10 +69,10 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
+- [kubernetes-purgatory/kubernetes-mixin](https://github.com/kubernetes-purgatory/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (3 days ago)
 - [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. (2 weeks ago)
 - [sathwick-p/prequal](https://github.com/sathwick-p/prequal) - Load is not what you should balance (3 weeks ago)
 - [open-telemetry/opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) - OpenTelemetry Go Compile Instrumentation (3 weeks ago)
-- [ollygarden/opentelemetry-agent-skills](https://github.com/ollygarden/opentelemetry-agent-skills) - Vendor-neutral OpenTelemetry skills for AI coding agents, grounded in upstream sources (1 month ago)
 
 #### 💬 Feedback
 
