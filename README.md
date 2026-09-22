@@ -46,7 +46,7 @@ k get cert -A
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (2 weeks ago)
 - :octocat: / [kedify/cli](https://github.com/kedify/cli) - Kedify CLI (1 month ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 month ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 months ago)
 - :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -61,8 +61,8 @@ k get cert -A
 #### 📓 Gists I wrote
 
 - [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (4 months ago)
-- [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (4 months ago)
-- [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (4 months ago)
+- [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (5 months ago)
+- [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (5 months ago)
 
 #### ⭐ Recent Stars
 
