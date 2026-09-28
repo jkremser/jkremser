@@ -43,21 +43,23 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 weeks ago)
+- :octocat: / [kedify/kedr](https://github.com/kedify/kedr) - Kubernetes Efficiency and Data-driven Recommender (3 days ago)
+- :octocat: / [kedify/recommender](https://github.com/kedify/recommender) - Portable Kubernetes resource recommendation engine for Kedify Insights (3 days ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 weeks ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 weeks ago)
 - :octocat: / [kedify/cli](https://github.com/kedify/cli) - Kedify CLI (1 month ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 months ago)
-- :octocat: / [jkremser/otel-ingress-nginx-poc](https://github.com/jkremser/otel-ingress-nginx-poc) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.21.0](https://github.com/kedacore/keda/releases/tag/v2.21.0), 2 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-- 🎉 [kedify/cli](https://github.com/kedify/cli) ([v0.0.5](https://github.com/kedify/cli/releases/tag/v0.0.5), 1 month ago) - Kedify CLI
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.4](https://github.com/kedify/otel-add-on/releases/tag/v0.1.4), 3 months ago) - Bridge between OTel and KEDA api
+- 🎉 [kedify/kedr](https://github.com/kedify/kedr) ([v0.0.1](https://github.com/kedify/kedr/releases/tag/v0.0.1), 3 days ago) - Kubernetes Efficiency and Data-driven Recommender
+- 🎉 [kedacore/keda](https://github.com/kedacore/keda) ([v2.21.0](https://github.com/kedacore/keda/releases/tag/v2.21.0), 5 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- 🎉 [kedify/recommender](https://github.com/kedify/recommender) ([v0.2.0](https://github.com/kedify/recommender/releases/tag/v0.2.0), 2 weeks ago) - Portable Kubernetes resource recommendation engine for Kedify Insights
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Oom leaks rollout fallback](https://github.com/kedify/recommender/pull/7) on [kedify/recommender](https://github.com/kedify/recommender) (1 day ago)
+- 💪 [chore: add CODEOWNERS and align license with kedify/agent](https://github.com/kedify/kedr/pull/2) on [kedify/kedr](https://github.com/kedify/kedr) (3 days ago)
+- 💪 [shorter readme - too many words](https://github.com/kedify/kedr/pull/1) on [kedify/kedr](https://github.com/kedify/kedr) (3 days ago)
+- 💪 [Oom leaks rollout fallback](https://github.com/kedify/recommender/pull/7) on [kedify/recommender](https://github.com/kedify/recommender) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -67,7 +69,7 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [kubie-org/kubie](https://github.com/kubie-org/kubie) - A more powerful alternative to kubectx and kubens (today)
+- [kubie-org/kubie](https://github.com/kubie-org/kubie) - A more powerful alternative to kubectx and kubens (3 days ago)
 - [kubernetes-sigs/kubernetes-mixin](https://github.com/kubernetes-sigs/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (3 weeks ago)
 - [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. (1 month ago)
 - [sathwick-p/prequal](https://github.com/sathwick-p/prequal) - Load is not what you should balance (1 month ago)
