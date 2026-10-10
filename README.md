@@ -44,22 +44,22 @@ k get cert -A
 #### 👷 Check out what I'm currently working on
 
 - :octocat: / [kedify/kedr](https://github.com/kedify/kedr) - Kubernetes Efficiency and Data-driven Recommender (1 week ago)
-- :octocat: / [kedify/recommender](https://github.com/kedify/recommender) - Portable Kubernetes resource recommendation engine for Kedify Insights (1 week ago)
+- :octocat: / [kedify/recommender](https://github.com/kedify/recommender) - Portable Kubernetes resource recommendation engine for Kedify Insights (2 weeks ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 month ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 month ago)
-- :octocat: / [kedify/cli](https://github.com/kedify/cli) - Kedify CLI (1 month ago)
+- :octocat: / [kedify/cli](https://github.com/kedify/cli) - Kedify CLI (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/kedr](https://github.com/kedify/kedr) ([v0.0.1](https://github.com/kedify/kedr/releases/tag/v0.0.1), 1 week ago) - Kubernetes Efficiency and Data-driven Recommender
-- 🎉 [kedify/recommender](https://github.com/kedify/recommender) ([v0.2.0](https://github.com/kedify/recommender/releases/tag/v0.2.0), 4 weeks ago) - Portable Kubernetes resource recommendation engine for Kedify Insights
-- 🎉 [kedify/cli](https://github.com/kedify/cli) ([v0.0.5](https://github.com/kedify/cli/releases/tag/v0.0.5), 1 month ago) - Kedify CLI
+- 🎉 [kedify/kedr](https://github.com/kedify/kedr) ([v0.0.1](https://github.com/kedify/kedr/releases/tag/v0.0.1), 2 weeks ago) - Kubernetes Efficiency and Data-driven Recommender
+- 🎉 [kedify/recommender](https://github.com/kedify/recommender) ([v0.2.0](https://github.com/kedify/recommender/releases/tag/v0.2.0), 1 month ago) - Portable Kubernetes resource recommendation engine for Kedify Insights
+- 🎉 [kedify/cli](https://github.com/kedify/cli) ([v0.0.5](https://github.com/kedify/cli/releases/tag/v0.0.5), 2 months ago) - Kedify CLI
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [chore: add CODEOWNERS and align license with kedify/agent](https://github.com/kedify/kedr/pull/2) on [kedify/kedr](https://github.com/kedify/kedr) (1 week ago)
-- 💪 [shorter readme - too many words](https://github.com/kedify/kedr/pull/1) on [kedify/kedr](https://github.com/kedify/kedr) (1 week ago)
-- 💪 [Oom leaks rollout fallback](https://github.com/kedify/recommender/pull/7) on [kedify/recommender](https://github.com/kedify/recommender) (1 week ago)
+- 💪 [chore: add CODEOWNERS and align license with kedify/agent](https://github.com/kedify/kedr/pull/2) on [kedify/kedr](https://github.com/kedify/kedr) (2 weeks ago)
+- 💪 [shorter readme - too many words](https://github.com/kedify/kedr/pull/1) on [kedify/kedr](https://github.com/kedify/kedr) (2 weeks ago)
+- 💪 [Oom leaks rollout fallback](https://github.com/kedify/recommender/pull/7) on [kedify/recommender](https://github.com/kedify/recommender) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -69,7 +69,7 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [kubie-org/kubie](https://github.com/kubie-org/kubie) - A more powerful alternative to kubectx and kubens (1 week ago)
+- [kubie-org/kubie](https://github.com/kubie-org/kubie) - A more powerful alternative to kubectx and kubens (2 weeks ago)
 - [kubernetes-sigs/kubernetes-mixin](https://github.com/kubernetes-sigs/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (1 month ago)
 - [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. (1 month ago)
 - [sathwick-p/prequal](https://github.com/sathwick-p/prequal) - Load is not what you should balance (1 month ago)
