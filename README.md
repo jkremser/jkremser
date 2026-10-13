@@ -57,6 +57,7 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
+- 💪 [Document the command about installing prometheus](https://github.com/kedify/kedr/pull/3) on [kedify/kedr](https://github.com/kedify/kedr) (today)
 - 💪 [chore: add CODEOWNERS and align license with kedify/agent](https://github.com/kedify/kedr/pull/2) on [kedify/kedr](https://github.com/kedify/kedr) (2 weeks ago)
 - 💪 [shorter readme - too many words](https://github.com/kedify/kedr/pull/1) on [kedify/kedr](https://github.com/kedify/kedr) (2 weeks ago)
 - 💪 [Oom leaks rollout fallback](https://github.com/kedify/recommender/pull/7) on [kedify/recommender](https://github.com/kedify/recommender) (2 weeks ago)
@@ -72,7 +73,7 @@ k get cert -A
 - [kubie-org/kubie](https://github.com/kubie-org/kubie) - A more powerful alternative to kubectx and kubens (2 weeks ago)
 - [kubernetes-sigs/kubernetes-mixin](https://github.com/kubernetes-sigs/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (1 month ago)
 - [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. (1 month ago)
-- [sathwick-p/prequal](https://github.com/sathwick-p/prequal) - Load is not what you should balance (1 month ago)
+- [sathwick-p/prequal](https://github.com/sathwick-p/prequal) - Load is not what you should balance (2 months ago)
 
 #### 💬 Feedback
 
