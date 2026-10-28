@@ -43,22 +43,22 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/recommender](https://github.com/kedify/recommender) - Portable Kubernetes resource recommendation engine for Kedify Insights (2 days ago)
-- :octocat: / [kedify/kedr](https://github.com/kedify/kedr) - Kubernetes Efficiency and Data-driven Recommender (3 days ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 days ago)
-- :octocat: / [jkremser/skills](https://github.com/jkremser/skills) -  (4 days ago)
+- :octocat: / [jkremser/skills](https://github.com/jkremser/skills) -  (1 day ago)
+- :octocat: / [kedify/recommender](https://github.com/kedify/recommender) - Portable Kubernetes resource recommendation engine for Kedify Insights (1 day ago)
+- :octocat: / [kedify/kedr](https://github.com/kedify/kedr) - Kubernetes Efficiency and Data-driven Recommender (6 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (6 days ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/kedr](https://github.com/kedify/kedr) ([v0.0.3](https://github.com/kedify/kedr/releases/tag/v0.0.3), 3 days ago) - Kubernetes Efficiency and Data-driven Recommender
-- 🎉 [kedify/recommender](https://github.com/kedify/recommender) ([v0.3.0](https://github.com/kedify/recommender/releases/tag/v0.3.0), 3 days ago) - Portable Kubernetes resource recommendation engine for Kedify Insights
-- 🎉 [kedify/cli](https://github.com/kedify/cli) ([v0.0.6](https://github.com/kedify/cli/releases/tag/v0.0.6), 3 days ago) - Kedify CLI
+- 🎉 [kedify/kedr](https://github.com/kedify/kedr) ([v0.0.3](https://github.com/kedify/kedr/releases/tag/v0.0.3), 6 days ago) - Kubernetes Efficiency and Data-driven Recommender
+- 🎉 [kedify/recommender](https://github.com/kedify/recommender) ([v0.3.0](https://github.com/kedify/recommender/releases/tag/v0.3.0), 6 days ago) - Portable Kubernetes resource recommendation engine for Kedify Insights
+- 🎉 [kedify/cli](https://github.com/kedify/cli) ([v0.0.6](https://github.com/kedify/cli/releases/tag/v0.0.6), 6 days ago) - Kedify CLI
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [added 25% jitter tolerance to coverage and confidence calculations](https://github.com/kedify/recommender/pull/10) on [kedify/recommender](https://github.com/kedify/recommender) (2 days ago)
-- 💪 [chore: update Go to 1.27.3](https://github.com/kedify/otel-add-on/pull/231) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (4 days ago)
+- 💪 [Expose classification statistics and detect memory leaks earlier](https://github.com/kedify/recommender/pull/11) on [kedify/recommender](https://github.com/kedify/recommender) (2 days ago)
+- 💪 [added 25% jitter tolerance to coverage and confidence calculations](https://github.com/kedify/recommender/pull/10) on [kedify/recommender](https://github.com/kedify/recommender) (5 days ago)
 
 #### 📓 Gists I wrote
 
