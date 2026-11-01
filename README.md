@@ -43,8 +43,8 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/skills](https://github.com/kedify/skills) -  (2 days ago)
-- :octocat: / [kedify/recommender](https://github.com/kedify/recommender) - Portable Kubernetes resource recommendation engine for Kedify Insights (4 days ago)
+- :octocat: / [kedify/skills](https://github.com/kedify/skills) -  (3 days ago)
+- :octocat: / [kedify/recommender](https://github.com/kedify/recommender) - Portable Kubernetes resource recommendation engine for Kedify Insights (5 days ago)
 - :octocat: / [kedify/kedr](https://github.com/kedify/kedr) - Kubernetes Efficiency and Data-driven Recommender (1 week ago)
 - :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
@@ -57,7 +57,7 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Expose classification statistics and detect memory leaks earlier](https://github.com/kedify/recommender/pull/11) on [kedify/recommender](https://github.com/kedify/recommender) (5 days ago)
+- 💪 [Expose classification statistics and detect memory leaks earlier](https://github.com/kedify/recommender/pull/11) on [kedify/recommender](https://github.com/kedify/recommender) (6 days ago)
 - 💪 [added 25% jitter tolerance to coverage and confidence calculations](https://github.com/kedify/recommender/pull/10) on [kedify/recommender](https://github.com/kedify/recommender) (1 week ago)
 
 #### 📓 Gists I wrote
@@ -68,8 +68,8 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [sarsonj/rodokmen-skill](https://github.com/sarsonj/rodokmen-skill) -  (2 days ago)
-- [andytoolbox/3d-nastroje](https://github.com/andytoolbox/3d-nastroje) - Bezplatné české nástroje pro 3D tisk v prohlížeči: text do STL, litofánie, QR klíčenky, vykrajovátka, SVG a reliéfy, dvojitý 3D nápis. (1 week ago)
+- [sarsonj/rodokmen-skill](https://github.com/sarsonj/rodokmen-skill) -  (3 days ago)
+- [andytoolbox/3d-nastroje](https://github.com/andytoolbox/3d-nastroje) - Bezplatné české nástroje pro 3D tisk v prohlížeči: text do STL, litofánie, QR klíčenky, vykrajovátka, SVG a reliéfy, dvojitý 3D nápis. (2 weeks ago)
 - [kubie-org/kubie](https://github.com/kubie-org/kubie) - A more powerful alternative to kubectx and kubens (1 month ago)
 - [kubernetes-sigs/kubernetes-mixin](https://github.com/kubernetes-sigs/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (1 month ago)
 
