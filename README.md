@@ -43,35 +43,37 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/skills](https://github.com/kedify/skills) -  (3 days ago)
-- :octocat: / [kedify/recommender](https://github.com/kedify/recommender) - Portable Kubernetes resource recommendation engine for Kedify Insights (5 days ago)
-- :octocat: / [kedify/kedr](https://github.com/kedify/kedr) - Kubernetes Efficiency and Data-driven Recommender (1 week ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (4 days ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (5 days ago)
+- :octocat: / [jkremser/splunk-flux-otel](https://github.com/jkremser/splunk-flux-otel) -  (5 days ago)
+- :octocat: / [kedify/skills](https://github.com/kedify/skills) -  (1 week ago)
+- :octocat: / [kedify/recommender](https://github.com/kedify/recommender) - Portable Kubernetes resource recommendation engine for Kedify Insights (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/kedr](https://github.com/kedify/kedr) ([v0.0.3](https://github.com/kedify/kedr/releases/tag/v0.0.3), 1 week ago) - Kubernetes Efficiency and Data-driven Recommender
-- 🎉 [kedify/recommender](https://github.com/kedify/recommender) ([v0.3.0](https://github.com/kedify/recommender/releases/tag/v0.3.0), 1 week ago) - Portable Kubernetes resource recommendation engine for Kedify Insights
-- 🎉 [kedify/cli](https://github.com/kedify/cli) ([v0.0.6](https://github.com/kedify/cli/releases/tag/v0.0.6), 1 week ago) - Kedify CLI
+- 🎉 [kedify/kedr](https://github.com/kedify/kedr) ([v0.0.3](https://github.com/kedify/kedr/releases/tag/v0.0.3), 2 weeks ago) - Kubernetes Efficiency and Data-driven Recommender
+- 🎉 [kedify/recommender](https://github.com/kedify/recommender) ([v0.3.0](https://github.com/kedify/recommender/releases/tag/v0.3.0), 2 weeks ago) - Portable Kubernetes resource recommendation engine for Kedify Insights
+- 🎉 [kedify/cli](https://github.com/kedify/cli) ([v0.0.6](https://github.com/kedify/cli/releases/tag/v0.0.6), 2 weeks ago) - Kedify CLI
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [Expose classification statistics and detect memory leaks earlier](https://github.com/kedify/recommender/pull/11) on [kedify/recommender](https://github.com/kedify/recommender) (6 days ago)
-- 💪 [added 25% jitter tolerance to coverage and confidence calculations](https://github.com/kedify/recommender/pull/10) on [kedify/recommender](https://github.com/kedify/recommender) (1 week ago)
+- 💪 [Add arithmetic and functions to metric queries](https://github.com/kedify/otel-add-on/pull/241) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
+- 💪 [feat(samples): migrate Splunk Flux OTel autoscaling demo](https://github.com/kedify/examples/pull/128) on [kedify/examples](https://github.com/kedify/examples) (5 days ago)
+- 💪 [Support PromQL label matchers](https://github.com/kedify/otel-add-on/pull/238) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (5 days ago)
+- 💪 [Expose classification statistics and detect memory leaks earlier](https://github.com/kedify/recommender/pull/11) on [kedify/recommender](https://github.com/kedify/recommender) (1 week ago)
 
 #### 📓 Gists I wrote
 
+- [http scaler so](https://gist.github.com/ec183078d13e2741b4b320ad0834c76b) (5 days ago)
+- [otel scaler SO](https://gist.github.com/5a6ed8c0d1498ed04becb3e0c54d3976) (5 days ago)
 - [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (6 months ago)
-- [no description](https://gist.github.com/58c7bce783881676e1fc0e6c9758e572) (6 months ago)
-- [no description](https://gist.github.com/9ddc4f1af84688ef033de08d1ba4b3ec) (6 months ago)
 
 #### ⭐ Recent Stars
 
-- [sarsonj/rodokmen-skill](https://github.com/sarsonj/rodokmen-skill) -  (3 days ago)
+- [sarsonj/rodokmen-skill](https://github.com/sarsonj/rodokmen-skill) -  (1 week ago)
 - [andytoolbox/3d-nastroje](https://github.com/andytoolbox/3d-nastroje) - Bezplatné české nástroje pro 3D tisk v prohlížeči: text do STL, litofánie, QR klíčenky, vykrajovátka, SVG a reliéfy, dvojitý 3D nápis. (2 weeks ago)
 - [kubie-org/kubie](https://github.com/kubie-org/kubie) - A more powerful alternative to kubectx and kubens (1 month ago)
-- [kubernetes-sigs/kubernetes-mixin](https://github.com/kubernetes-sigs/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (1 month ago)
+- [kubernetes-sigs/kubernetes-mixin](https://github.com/kubernetes-sigs/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (2 months ago)
 
 #### 💬 Feedback
 
