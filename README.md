@@ -43,11 +43,11 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [jkremser/roadtrip-slc-dallas](https://github.com/jkremser/roadtrip-slc-dallas) -  (1 day ago)
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 day ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (3 days ago)
-- :octocat: / [jkremser/splunk-flux-otel](https://github.com/jkremser/splunk-flux-otel) -  (1 week ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (1 week ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 days ago)
+- :octocat: / [jkremser/roadtrip-slc-dallas](https://github.com/jkremser/roadtrip-slc-dallas) -  (4 days ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (6 days ago)
+- :octocat: / [jkremser/splunk-flux-otel](https://github.com/jkremser/splunk-flux-otel) -  (2 weeks ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -57,20 +57,20 @@ k get cert -A
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [HA mode](https://github.com/kedify/otel-add-on/pull/245) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (today)
+- 💪 [HA mode](https://github.com/kedify/otel-add-on/pull/245) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
 - 💪 [Add arithmetic and functions to metric queries](https://github.com/kedify/otel-add-on/pull/241) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
-- 💪 [feat(samples): migrate Splunk Flux OTel autoscaling demo](https://github.com/kedify/examples/pull/128) on [kedify/examples](https://github.com/kedify/examples) (1 week ago)
+- 💪 [feat(samples): migrate Splunk Flux OTel autoscaling demo](https://github.com/kedify/examples/pull/128) on [kedify/examples](https://github.com/kedify/examples) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
-- [http scaler so](https://gist.github.com/ec183078d13e2741b4b320ad0834c76b) (1 week ago)
-- [otel scaler SO](https://gist.github.com/5a6ed8c0d1498ed04becb3e0c54d3976) (1 week ago)
+- [http scaler so](https://gist.github.com/ec183078d13e2741b4b320ad0834c76b) (2 weeks ago)
+- [otel scaler SO](https://gist.github.com/5a6ed8c0d1498ed04becb3e0c54d3976) (2 weeks ago)
 - [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (6 months ago)
 
 #### ⭐ Recent Stars
 
 - [sarsonj/rodokmen-skill](https://github.com/sarsonj/rodokmen-skill) -  (2 weeks ago)
-- [andytoolbox/3d-nastroje](https://github.com/andytoolbox/3d-nastroje) - Bezplatné české nástroje pro 3D tisk v prohlížeči: text do STL, litofánie, QR klíčenky, vykrajovátka, SVG a reliéfy, dvojitý 3D nápis. (3 weeks ago)
+- [andytoolbox/3d-nastroje](https://github.com/andytoolbox/3d-nastroje) - Bezplatné české nástroje pro 3D tisk v prohlížeči: text do STL, litofánie, QR klíčenky, vykrajovátka, SVG a reliéfy, dvojitý 3D nápis. (4 weeks ago)
 - [kubie-org/kubie](https://github.com/kubie-org/kubie) - A more powerful alternative to kubectx and kubens (1 month ago)
 - [kubernetes-sigs/kubernetes-mixin](https://github.com/kubernetes-sigs/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (2 months ago)
 
