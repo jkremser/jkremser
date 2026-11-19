@@ -43,22 +43,22 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (3 days ago)
-- :octocat: / [jkremser/roadtrip-slc-dallas](https://github.com/jkremser/roadtrip-slc-dallas) -  (4 days ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (6 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (6 days ago)
+- :octocat: / [jkremser/roadtrip-slc-dallas](https://github.com/jkremser/roadtrip-slc-dallas) -  (1 week ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
 - :octocat: / [jkremser/splunk-flux-otel](https://github.com/jkremser/splunk-flux-otel) -  (2 weeks ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/kedr](https://github.com/kedify/kedr) ([v0.0.3](https://github.com/kedify/kedr/releases/tag/v0.0.3), 3 weeks ago) - Kubernetes Efficiency and Data-driven Recommender
-- 🎉 [kedify/recommender](https://github.com/kedify/recommender) ([v0.3.0](https://github.com/kedify/recommender/releases/tag/v0.3.0), 3 weeks ago) - Portable Kubernetes resource recommendation engine for Kedify Insights
-- 🎉 [kedify/cli](https://github.com/kedify/cli) ([v0.0.6](https://github.com/kedify/cli/releases/tag/v0.0.6), 3 weeks ago) - Kedify CLI
+- 🎉 [kedify/kedr](https://github.com/kedify/kedr) ([v0.0.3](https://github.com/kedify/kedr/releases/tag/v0.0.3), 4 weeks ago) - Kubernetes Efficiency and Data-driven Recommender
+- 🎉 [kedify/recommender](https://github.com/kedify/recommender) ([v0.3.0](https://github.com/kedify/recommender/releases/tag/v0.3.0), 4 weeks ago) - Portable Kubernetes resource recommendation engine for Kedify Insights
+- 🎉 [kedify/cli](https://github.com/kedify/cli) ([v0.0.6](https://github.com/kedify/cli/releases/tag/v0.0.6), 4 weeks ago) - Kedify CLI
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [HA mode](https://github.com/kedify/otel-add-on/pull/245) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 days ago)
-- 💪 [Add arithmetic and functions to metric queries](https://github.com/kedify/otel-add-on/pull/241) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
+- 💪 [HA mode](https://github.com/kedify/otel-add-on/pull/245) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (6 days ago)
+- 💪 [Add arithmetic and functions to metric queries](https://github.com/kedify/otel-add-on/pull/241) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 weeks ago)
 - 💪 [feat(samples): migrate Splunk Flux OTel autoscaling demo](https://github.com/kedify/examples/pull/128) on [kedify/examples](https://github.com/kedify/examples) (2 weeks ago)
 
 #### 📓 Gists I wrote
@@ -69,8 +69,8 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [sarsonj/rodokmen-skill](https://github.com/sarsonj/rodokmen-skill) -  (2 weeks ago)
-- [andytoolbox/3d-nastroje](https://github.com/andytoolbox/3d-nastroje) - Bezplatné české nástroje pro 3D tisk v prohlížeči: text do STL, litofánie, QR klíčenky, vykrajovátka, SVG a reliéfy, dvojitý 3D nápis. (4 weeks ago)
+- [sarsonj/rodokmen-skill](https://github.com/sarsonj/rodokmen-skill) -  (3 weeks ago)
+- [andytoolbox/3d-nastroje](https://github.com/andytoolbox/3d-nastroje) - Bezplatné české nástroje pro 3D tisk v prohlížeči: text do STL, litofánie, QR klíčenky, vykrajovátka, SVG a reliéfy, dvojitý 3D nápis. (1 month ago)
 - [kubie-org/kubie](https://github.com/kubie-org/kubie) - A more powerful alternative to kubectx and kubens (1 month ago)
 - [kubernetes-sigs/kubernetes-mixin](https://github.com/kubernetes-sigs/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (2 months ago)
 
