@@ -43,7 +43,7 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (6 days ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
 - :octocat: / [jkremser/roadtrip-slc-dallas](https://github.com/jkremser/roadtrip-slc-dallas) -  (1 week ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
 - :octocat: / [jkremser/splunk-flux-otel](https://github.com/jkremser/splunk-flux-otel) -  (2 weeks ago)
@@ -51,13 +51,13 @@ k get cert -A
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/kedr](https://github.com/kedify/kedr) ([v0.0.3](https://github.com/kedify/kedr/releases/tag/v0.0.3), 4 weeks ago) - Kubernetes Efficiency and Data-driven Recommender
-- 🎉 [kedify/recommender](https://github.com/kedify/recommender) ([v0.3.0](https://github.com/kedify/recommender/releases/tag/v0.3.0), 4 weeks ago) - Portable Kubernetes resource recommendation engine for Kedify Insights
-- 🎉 [kedify/cli](https://github.com/kedify/cli) ([v0.0.6](https://github.com/kedify/cli/releases/tag/v0.0.6), 4 weeks ago) - Kedify CLI
+- 🎉 [kedify/kedr](https://github.com/kedify/kedr) ([v0.0.3](https://github.com/kedify/kedr/releases/tag/v0.0.3), 1 month ago) - Kubernetes Efficiency and Data-driven Recommender
+- 🎉 [kedify/recommender](https://github.com/kedify/recommender) ([v0.3.0](https://github.com/kedify/recommender/releases/tag/v0.3.0), 1 month ago) - Portable Kubernetes resource recommendation engine for Kedify Insights
+- 🎉 [kedify/cli](https://github.com/kedify/cli) ([v0.0.6](https://github.com/kedify/cli/releases/tag/v0.0.6), 1 month ago) - Kedify CLI
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [HA mode](https://github.com/kedify/otel-add-on/pull/245) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (6 days ago)
+- 💪 [HA mode](https://github.com/kedify/otel-add-on/pull/245) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
 - 💪 [Add arithmetic and functions to metric queries](https://github.com/kedify/otel-add-on/pull/241) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 weeks ago)
 - 💪 [feat(samples): migrate Splunk Flux OTel autoscaling demo](https://github.com/kedify/examples/pull/128) on [kedify/examples](https://github.com/kedify/examples) (2 weeks ago)
 
