@@ -43,36 +43,35 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 week ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 day ago)
 - :octocat: / [jkremser/roadtrip-slc-dallas](https://github.com/jkremser/roadtrip-slc-dallas) -  (1 week ago)
-- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (1 week ago)
-- :octocat: / [jkremser/splunk-flux-otel](https://github.com/jkremser/splunk-flux-otel) -  (2 weeks ago)
-- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (2 weeks ago)
+- :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
+- :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 weeks ago)
+- :octocat: / [jkremser/splunk-flux-otel](https://github.com/jkremser/splunk-flux-otel) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.6](https://github.com/kedify/otel-add-on/releases/tag/v0.1.6), 1 day ago) - Bridge between OTel and KEDA api
 - 🎉 [kedify/kedr](https://github.com/kedify/kedr) ([v0.0.3](https://github.com/kedify/kedr/releases/tag/v0.0.3), 1 month ago) - Kubernetes Efficiency and Data-driven Recommender
 - 🎉 [kedify/recommender](https://github.com/kedify/recommender) ([v0.3.0](https://github.com/kedify/recommender/releases/tag/v0.3.0), 1 month ago) - Portable Kubernetes resource recommendation engine for Kedify Insights
-- 🎉 [kedify/cli](https://github.com/kedify/cli) ([v0.0.6](https://github.com/kedify/cli/releases/tag/v0.0.6), 1 month ago) - Kedify CLI
 
 #### 🔨 My recent Pull Requests
 
 - 💪 [HA mode](https://github.com/kedify/otel-add-on/pull/245) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
-- 💪 [Add arithmetic and functions to metric queries](https://github.com/kedify/otel-add-on/pull/241) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (2 weeks ago)
-- 💪 [feat(samples): migrate Splunk Flux OTel autoscaling demo](https://github.com/kedify/examples/pull/128) on [kedify/examples](https://github.com/kedify/examples) (2 weeks ago)
+- 💪 [Add arithmetic and functions to metric queries](https://github.com/kedify/otel-add-on/pull/241) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
-- [http scaler so](https://gist.github.com/ec183078d13e2741b4b320ad0834c76b) (2 weeks ago)
-- [otel scaler SO](https://gist.github.com/5a6ed8c0d1498ed04becb3e0c54d3976) (2 weeks ago)
-- [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (6 months ago)
+- [http scaler so](https://gist.github.com/ec183078d13e2741b4b320ad0834c76b) (3 weeks ago)
+- [otel scaler SO](https://gist.github.com/5a6ed8c0d1498ed04becb3e0c54d3976) (3 weeks ago)
+- [tig - blame before](https://gist.github.com/b9b8f2b5206313cfcfb87ca7fa516633) (7 months ago)
 
 #### ⭐ Recent Stars
 
+- [leanprover-community/riemann-hypothesis](https://github.com/leanprover-community/riemann-hypothesis) - Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community. (today)
 - [sarsonj/rodokmen-skill](https://github.com/sarsonj/rodokmen-skill) -  (3 weeks ago)
 - [andytoolbox/3d-nastroje](https://github.com/andytoolbox/3d-nastroje) - Bezplatné české nástroje pro 3D tisk v prohlížeči: text do STL, litofánie, QR klíčenky, vykrajovátka, SVG a reliéfy, dvojitý 3D nápis. (1 month ago)
-- [kubie-org/kubie](https://github.com/kubie-org/kubie) - A more powerful alternative to kubectx and kubens (1 month ago)
-- [kubernetes-sigs/kubernetes-mixin](https://github.com/kubernetes-sigs/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (2 months ago)
+- [kubie-org/kubie](https://github.com/kubie-org/kubie) - A more powerful alternative to kubectx and kubens (2 months ago)
 
 #### 💬 Feedback
 
