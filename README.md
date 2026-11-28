@@ -43,22 +43,20 @@ k get cert -A
 
 #### 👷 Check out what I'm currently working on
 
-- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (1 day ago)
-- :octocat: / [jkremser/roadtrip-slc-dallas](https://github.com/jkremser/roadtrip-slc-dallas) -  (1 week ago)
+- :octocat: / [kedify/otel-add-on](https://github.com/kedify/otel-add-on) - Bridge between OTel and KEDA api (4 days ago)
+- :octocat: / [jkremser/roadtrip-slc-dallas](https://github.com/jkremser/roadtrip-slc-dallas) -  (2 weeks ago)
 - :octocat: / [jkremser/dotfiles](https://github.com/jkremser/dotfiles) - ~/*  -  Configuration files (2 weeks ago)
 - :octocat: / [kedify/examples](https://github.com/kedify/examples) - Examples, guides and demos around KEDA (3 weeks ago)
 - :octocat: / [jkremser/splunk-flux-otel](https://github.com/jkremser/splunk-flux-otel) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.6](https://github.com/kedify/otel-add-on/releases/tag/v0.1.6), 1 day ago) - Bridge between OTel and KEDA api
+- 🎉 [kedify/otel-add-on](https://github.com/kedify/otel-add-on) ([v0.1.6](https://github.com/kedify/otel-add-on/releases/tag/v0.1.6), 4 days ago) - Bridge between OTel and KEDA api
 - 🎉 [kedify/kedr](https://github.com/kedify/kedr) ([v0.0.3](https://github.com/kedify/kedr/releases/tag/v0.0.3), 1 month ago) - Kubernetes Efficiency and Data-driven Recommender
 - 🎉 [kedify/recommender](https://github.com/kedify/recommender) ([v0.3.0](https://github.com/kedify/recommender/releases/tag/v0.3.0), 1 month ago) - Portable Kubernetes resource recommendation engine for Kedify Insights
 
 #### 🔨 My recent Pull Requests
 
-- 💪 [HA mode](https://github.com/kedify/otel-add-on/pull/245) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (1 week ago)
-- 💪 [Add arithmetic and functions to metric queries](https://github.com/kedify/otel-add-on/pull/241) on [kedify/otel-add-on](https://github.com/kedify/otel-add-on) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -68,8 +66,8 @@ k get cert -A
 
 #### ⭐ Recent Stars
 
-- [leanprover-community/riemann-hypothesis](https://github.com/leanprover-community/riemann-hypothesis) - Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community. (today)
-- [sarsonj/rodokmen-skill](https://github.com/sarsonj/rodokmen-skill) -  (3 weeks ago)
+- [leanprover-community/riemann-hypothesis](https://github.com/leanprover-community/riemann-hypothesis) - Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community. (3 days ago)
+- [sarsonj/rodokmen-skill](https://github.com/sarsonj/rodokmen-skill) -  (1 month ago)
 - [andytoolbox/3d-nastroje](https://github.com/andytoolbox/3d-nastroje) - Bezplatné české nástroje pro 3D tisk v prohlížeči: text do STL, litofánie, QR klíčenky, vykrajovátka, SVG a reliéfy, dvojitý 3D nápis. (1 month ago)
 - [kubie-org/kubie](https://github.com/kubie-org/kubie) - A more powerful alternative to kubectx and kubens (2 months ago)
 
